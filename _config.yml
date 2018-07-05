@@ -19,6 +19,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: none
 github_username:  OKTW-Network
+repository: OKTW-Network/Blog
 
 # Build settings
 markdown: kramdown
