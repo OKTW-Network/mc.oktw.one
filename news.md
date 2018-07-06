@@ -9,13 +9,13 @@ layout: default
                 {% for post in site.categories.news %}
                 <article class="post">
 
-                    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+                    <h1 class="text-white"><a href="{{ post.url }}">{{ post.title }}</a></h1>
 
-                    <div class="entry">
+                    <div class="entry text-secondary">
                         {{ post.excerpt }}
                     </div>
 
-                    <a href="{{ post.url }}" class="read-more">查看更多</a>
+                    <a href="{{ post.url }}" class="read-more text-info">查看更多</a>
                 </article>
                 {% endfor %}
              </div>

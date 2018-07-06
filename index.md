@@ -1,5 +1,5 @@
 <div class="card custom-border text-white bg-transparent">
-    <div class="container_backgroun blur"></div>
+    <div class="container_background blur"></div>
     <div class="card-body">
         <div class="container">
             <div class="row">
