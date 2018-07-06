@@ -34,10 +34,10 @@
                 <div class="col-sm"></div>
                 <div class="col-sm"></div>
                 <div class="col-sm text-center">
-                    <a type="button" class="btn btn-lg pl-5 pr-5 m-2 btn-secondary" href="/news">News</a>
+                    <a class="btn btn-lg pl-5 pr-5 m-2 btn-secondary" href="/news">News</a>
                 </div>
                 <div class="col-sm text-center">
-                    <a type="button" class="btn btn-lg pl-5 pr-5 m-2 btn-secondary" href="/blog">Blog</a>
+                    <a  class="btn btn-lg pl-5 pr-5 m-2 btn-secondary" href="/blog">Blog</a>
                 </div>
                 <div class="col-sm"></div>
                 <div class="col-sm"></div>
