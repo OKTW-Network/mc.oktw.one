@@ -1,3 +1,6 @@
+---
+layout: default
+---
 <article class="page">
 
     <h1>{{ page.title }}</h1>
