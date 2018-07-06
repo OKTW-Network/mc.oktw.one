@@ -2,9 +2,23 @@
     font-family: 'Noto Sans TC', sans-serif;
 }
 
+html {
+    height: 100%;
+}
+
 body {
+    min-height: 100%;
     background: #212529;
     background-image: url("/assets/img/bg.jpg")
+}
+
+.footer {
+    bottom: 0;
+    width: 100%;
+}
+
+.page-wrapper {
+    min-height: 100%;
 }
 
 .background {
@@ -42,23 +56,9 @@ body {
 }
 
 a {
-    color: #f0f0f0;
     text-decoration: none;
-}
-
-a:link {
-    color: #f0f0f0;
-}
-
-a:visited {
-    color: #f0f0f0;
 }
 
 a:hover {
-    color: white;
-    text-decoration: none;
-}
-
-a:active {
-    color: white;
+    text-decoration: underline gray;
 }

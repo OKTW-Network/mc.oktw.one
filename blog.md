@@ -7,7 +7,7 @@ layout: default
         <div class="container">
             <div class="posts">
                 {% for post in site.categories.post %}
-                <article class="post">
+                <article class="post mt-4">
 
                     <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
 
