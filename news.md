@@ -15,7 +15,7 @@ layout: default
                         {{ post.excerpt }}
                     </div>
 
-                    <a href="{{ post.url }}" class="btn btn-outline-info">查看更多...</a>
+                    <a href="{{ post.url }}" class="btn btn-outline-primary">查看更多...</a>
                 </article>
                 {% endfor %}
              </div>
