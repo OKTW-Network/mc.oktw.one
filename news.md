@@ -6,7 +6,7 @@ layout: default
     <div class="card-body">
         <div class="container">
             <div class="posts">
-                {% for post in site.news %}
+                {% for post in site.categories.news %}
                 <article class="post">
 
                     <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
