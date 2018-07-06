@@ -22,9 +22,6 @@ layout: default
 
                 </article>
             </div>
-            <div class="col-sm-3">
-                <h1>叭拉叭拉叭拉叭拉叭拉叭拉</h1>
-            </div>
         </div>
     </div>
     </div>
