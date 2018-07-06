@@ -8,7 +8,8 @@ body {
 }
 
 .full_wh {
-    position: absolute;
+    position: fixed;
+    top: 0;
     height: 100%;
     width: 100%;
     background: url("/assets/img/bg.jpg") no-repeat center center fixed;
