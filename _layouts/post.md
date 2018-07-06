@@ -5,6 +5,7 @@ layout: default
 <div class="card custom-border text-white bg-transparent">
     <div class="full_wh blur"></div>
     <div class="card-body">
+    <div class="container">
         <article class="post">
 
             <h1>{{ page.title }}</h1>
@@ -18,5 +19,6 @@ layout: default
             </div>
 
         </article>
+    </div>
     </div>
 </div>
