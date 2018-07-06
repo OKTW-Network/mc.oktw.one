@@ -7,7 +7,7 @@ layout: default
     <div class="card-body">
     <div class="container">
         <div class="row m-3">
-            <div class="col-4sm">
+            <div class="col-4-sm">
                 <article class="post">
 
                     <h1>{{ page.title }}</h1>
@@ -22,7 +22,7 @@ layout: default
 
                 </article>
             </div>
-            <div class="col-1sm">
+            <div class="col-1-sm">
                 <h1>叭拉叭拉叭拉叭拉叭拉叭拉</h1>
             </div>
         </div>
