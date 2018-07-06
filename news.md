@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="posts">
+<div class="news">
   {% for post in site.news %}
     <article class="post">
 
