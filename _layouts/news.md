@@ -5,7 +5,8 @@ layout: default
 <div class="card custom-border text-white bg-transparent">
     <div class="full_wh blur"></div>
     <div class="card-body">
-        <div class="row">
+    <div class="container">
+        <div class="row m-3">
             <div class="col-4sm">
                 <article class="post">
 
@@ -25,5 +26,6 @@ layout: default
                 <h1>叭拉叭拉叭拉叭拉叭拉叭拉</h1>
             </div>
         </div>
+    </div>
     </div>
 </div>
