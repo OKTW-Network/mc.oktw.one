@@ -14,10 +14,6 @@ layout: default
                 {{ content }}
             </div>
 
-            <div class="date">
-                撰寫於 {{ page.date | date: "%B %e, %Y" }}
-            </div>
-
         </article>
     </div>
     </div>
