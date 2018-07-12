@@ -4,7 +4,7 @@ if((window.innerWidth > document.documentElement.clientWidth) === false){
 
 function set_footer(){
     var useableContentHeight = document.documentElement.clientHeight - ($("#footer").height() + $("#navbar").height());
-    var currentContentHeight = $("#content").height();
+    var currentContentHeight = $("#content").height() + 100;
     if(useableContentHeight >= currentContentHeight){
         document.getElementById("footer").className = "footer bg-dark p-4 mt-5 fixed-bottom";
     }else{
@@ -13,4 +13,4 @@ function set_footer(){
 }
 
 window.onload = set_footer();
-$( window ).resize(set_footer());
+$( window ).resize(set_footer);
