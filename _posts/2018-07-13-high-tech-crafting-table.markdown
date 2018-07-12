@@ -5,6 +5,6 @@ categories: wiki
 layout: wiki
 ---
 
-![](/assets/img/wiki/ht-ct.png)
+![](/assets/img/wiki/ht-ct/overviwe.png)
 
 目前還沒有功能
