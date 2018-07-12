@@ -7,6 +7,9 @@ layout: wiki
 
 注意! 所有的功能方塊都必須由扳手拆除。
 
+* 123
+* 456
+
 *****
 # 高科技合成台
 ![](/assets/img/wiki/ht-ct/overview.png)
