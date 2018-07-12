@@ -68,3 +68,7 @@ hr {
     margin-left: 20px;
     margin-right: 20px;
 }
+
+.container-fluid {
+    min-height: 100%;   
+}
