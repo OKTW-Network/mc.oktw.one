@@ -1,15 +1,7 @@
 * {
     font-family: "SF Pro TC","SF Pro Text","SF Pro Icons","PingFang TC","Helvetica Neue","Helvetica","Arial","Microsoft JhengHei",wf_SegoeUI,"Segoe UI",Segoe,"Segoe WP",Tahoma,Verdana,Ubuntu,"Bitstream Vera Sans","DejaVu Sans",Tahoma,微軟正黑體,"LiHei Pro","WenQuanYi Micro Hei","Droid Sans Fallback","AR PL UMing TW",Roboto,"Helvetica Neue","Hiragino Maru Gothic ProN",メイリオ,"ヒラギノ丸ゴ ProN W4",Meiryo,"Droid Sans",'Noto Sans TC', sans-serif;
 }
-html {
-    height: 100%;
-}
 
-body {
-    min-height: 100%;
-    background: #212529;
-    background-image: url("/assets/img/bg.jpg")
-}
 img {
     width:100%;
 }
@@ -19,17 +11,12 @@ img {
     width: 100%;
 }
 
-.page-wrapper {
-    min-height: 100%;
-}
-
 .background {
     position: fixed;
     top: 0;
     height: 100%;
     width: 100%;
-    background: url("/assets/img/bg.jpg") no-repeat center center fixed;
-    background-size: cover;
+    background: url("/assets/img/bg.jpg") no-repeat center center fixed #212529;
     overflow: hidden;
     z-index: -1;
 }
