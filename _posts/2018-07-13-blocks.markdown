@@ -20,10 +20,10 @@ layout: wiki
 
 *****
 # 電梯
-
+![](/assets/img/wiki/elevator/overview.png)
 ### 合成
 使用合成台來合成(無序)
-
+![](/assets/img/wiki/elevator/recipe.png)
 ### 用途
 使玩家在電梯之間快速移動。
 ### 功能
