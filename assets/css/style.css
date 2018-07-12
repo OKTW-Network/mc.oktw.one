@@ -10,6 +10,9 @@ body {
     background: #212529;
     background-image: url("/assets/img/bg.jpg")
 }
+img {
+    width:100%;
+}
 
 .footer {
     bottom: 0;
