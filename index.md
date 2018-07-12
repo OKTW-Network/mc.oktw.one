@@ -37,7 +37,7 @@
                     <a class="btn btn-lg pl-5 pr-5 m-2 btn-secondary" href="/news">News</a>
                 </div>
                 <div class="col-sm text-center">
-                    <a  class="btn btn-lg pl-5 pr-5 m-2 btn-secondary" href="/wiki">Blog</a>
+                    <a  class="btn btn-lg pl-5 pr-5 m-2 btn-secondary" href="/wiki">Wiki</a>
                 </div>
                 <div class="col-sm"></div>
                 <div class="col-sm"></div>
