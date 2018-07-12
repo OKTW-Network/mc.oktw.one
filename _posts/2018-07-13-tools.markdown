@@ -14,6 +14,6 @@ layout: wiki
 使用合成台來合成(有序)
 ![](/assets/img/wiki/wrench/recipe.png)
 ### 用途
-拆除功能方塊。
+拆除[功能方塊](/wiki/blocks.html)。
 ### 功能
-蹲下+使用鍵(預設右鍵)可以拆除功能方塊。
+蹲下+使用鍵(預設右鍵)可以拆除[功能方塊](/wiki/blocks.html)。
