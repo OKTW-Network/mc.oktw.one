@@ -53,10 +53,12 @@ img {
 }
 
 a {
+    color: #aad3ff;
     text-decoration: none;
 }
 
 a:hover {
+    color: #7fbdff;
     text-decoration: underline gray;
 }
 
@@ -71,4 +73,8 @@ hr {
 
 .container-fluid {
     min-height: 100%;   
+}
+
+h1,h2,h3,h4,h5,h6,p,a{
+    text-shadow: 0px 2px 10px #000000;
 }
