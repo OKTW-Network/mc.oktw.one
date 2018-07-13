@@ -93,9 +93,7 @@ a {
 }
 
 #card-body {
-  margin: 100px auto;
   position: relative;
-  padding: 10px 5px;
   background: hsla(0, 0%, 100%, 0.3);
   border-radius: 10px;
   box-shadow: 5px 3px 30px black;
