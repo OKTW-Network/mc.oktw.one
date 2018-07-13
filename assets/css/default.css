@@ -46,11 +46,11 @@ img {
 }
 
 .blur {
-  -webkit-filter: blur(20px);
-  -moz-filter: blur(20px);
-  -o-filter: blur(20px);
-  -ms-filter: blur(20px);
-  filter: blur(20px);
+  -webkit-filter: blur(5px);
+  -moz-filter: blur(5px);
+  -o-filter: blur(5px);
+  -ms-filter: blur(5px);
+  filter: blur(5px);
 }
 
 .custom-border {
@@ -115,6 +115,5 @@ a {
   right: 0;
   bottom: 0;
   left: 0;
-  filter: blur(20px);
   z-index: -1;
 }
