@@ -18,6 +18,7 @@ layout: wiki
 ### 合成
 
 使用合成台來合成(有序)
+
 <img class="recipe-photo" src="/assets/img/wiki/ht-ct/recipe.png">
 
 ### 用途
@@ -37,6 +38,7 @@ layout: wiki
 ### 合成
 
 使用合成台來合成(無序)
+
 <img class="recipe-photo" src="/assets/img/wiki/elevator/recipe.png">
 
 ### 用途
