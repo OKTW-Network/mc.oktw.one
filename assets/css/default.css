@@ -1,80 +1,116 @@
 * {
-    font-family: "SF Pro TC","SF Pro Text","SF Pro Icons","PingFang TC","Helvetica Neue","Helvetica","Arial","Microsoft JhengHei",wf_SegoeUI,"Segoe UI",Segoe,"Segoe WP",Tahoma,Verdana,Ubuntu,"Bitstream Vera Sans","DejaVu Sans",Tahoma,微軟正黑體,"LiHei Pro","WenQuanYi Micro Hei","Droid Sans Fallback","AR PL UMing TW",Roboto,"Helvetica Neue","Hiragino Maru Gothic ProN",メイリオ,"ヒラギノ丸ゴ ProN W4",Meiryo,"Droid Sans",'Noto Sans TC', sans-serif;
+  font-family: "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang TC",
+    "Helvetica Neue", "Helvetica", "Arial", "Microsoft JhengHei", wf_SegoeUI,
+    "Segoe UI", Segoe, "Segoe WP", Tahoma, Verdana, Ubuntu,
+    "Bitstream Vera Sans", "DejaVu Sans", Tahoma, 微軟正黑體, "LiHei Pro",
+    "WenQuanYi Micro Hei", "Droid Sans Fallback", "AR PL UMing TW", Roboto,
+    "Helvetica Neue", "Hiragino Maru Gothic ProN", メイリオ,
+    "ヒラギノ丸ゴ ProN W4", Meiryo, "Droid Sans", "Noto Sans TC", sans-serif;
 }
 
 body {
-    width: 100%;
-    height: 100%;
-    top: 0;
-    left: 0;
-    position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  position: absolute;
 }
 
 img {
-    width: 100%;
+  width: 100%;
 }
 
 .footer {
-    bottom: 0;
-    width: 100%;
+  bottom: 0;
+  width: 100%;
 }
 
 .background {
-    position: fixed;
-    top: 0;
-    height: 100%;
-    width: 100%;
-    background: url("/assets/img/bg.jpg") no-repeat center center fixed #212529;
-    overflow: hidden;
-    z-index: -1;
+  position: fixed;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  background: url("/assets/img/bg.jpg") no-repeat center center fixed #212529;
+  overflow: hidden;
+  z-index: -1;
 }
 
 .container_background {
-    position: absolute;
-    height: 100%;
-    width: 100%;
-    background: url("/assets/img/bg.jpg") no-repeat center center fixed;
-    background-size: cover;
-    overflow: hidden;
-    z-index: -1;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background: url("/assets/img/bg.jpg") no-repeat center center fixed;
+  background-size: cover;
+  overflow: hidden;
+  z-index: -1;
 }
 
 .blur {
-    -webkit-filter: blur(20px);
-    -moz-filter: blur(20px);
-    -o-filter: blur(20px);
-    -ms-filter: blur(20px);
-    filter: blur(20px);
+  -webkit-filter: blur(20px);
+  -moz-filter: blur(20px);
+  -o-filter: blur(20px);
+  -ms-filter: blur(20px);
+  filter: blur(20px);
 }
 
 .custom-border {
-    border: 3px solid rgba(255, 255, 255, 1);
-    border-radius: 1rem;
+  border: 3px solid rgba(255, 255, 255, 1);
+  border-radius: 1rem;
 }
 
 a {
-    color: #aad3ff;
-    text-decoration: none;
+  color: #aad3ff;
+  text-decoration: none;
 }
 
 a:hover {
-    color: #7fbdff;
-    text-decoration: underline gray;
+  color: #7fbdff;
+  text-decoration: underline gray;
 }
 
 hr {
-    background-color: white;
-    height: 2px;
-    margin-top: 40px;
-    margin-bottom: 40px;
-    margin-left: 20px;
-    margin-right: 20px;
+  background-color: white;
+  height: 2px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 .container-fluid {
-    min-height: 100%;   
+  min-height: 100%;
 }
 
-h1,h2,h3,h4,h5,h6,p,a{
-    text-shadow: 0px 2px 10px #000000;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a {
+  text-shadow: 0px 2px 10px #000000;
+}
+
+#card-body {
+  margin: 100px auto;
+  position: relative;
+  padding: 10px 5px;
+  background: hsla(0, 0%, 100%, 0.3);
+  border-radius: 10px;
+  box-shadow: 5px 3px 30px black;
+  overflow: hidden;
+}
+
+#card-body::before {
+  background: url("/assets/img/bg.jpg") 0 / cover fixed;
+  content: "";
+  margin: -35px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  filter: blur(20px);
+  z-index: -1;
 }
