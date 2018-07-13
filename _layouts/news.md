@@ -2,27 +2,8 @@
 layout: default 
 ---
 
-<div class="card custom-border text-white bg-transparent">
-    <div class="container_background blur"></div>
-    <div class="card-body">
-    <div class="container">
-        <div class="row m-3">
-            <div class="col-sm">
-                <article class="post">
+# {{ page.title }}
 
-                    <h1>{{ page.title }}</h1>
+{{ content }}
 
-                    <div class="entry">
-                        {{ content }}
-                    </div>
-
-                    <div class="date">
-                        撰寫於 {{ page.date | date: "%B %e, %Y" }}
-                    </div>
-
-                </article>
-            </div>
-        </div>
-    </div>
-    </div>
-</div>
+撰寫於 {{ page.date | date: "%B %e, %Y" }}
