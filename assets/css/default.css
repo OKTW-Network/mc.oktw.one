@@ -107,7 +107,8 @@ a {
   overflow: hidden;
 }
 
-.particles-js {
+
+#particles-js {
   background-color: rgb(35, 39, 65);
   position: fixed;
   top: 0;
