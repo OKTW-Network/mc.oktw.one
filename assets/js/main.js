@@ -12,5 +12,7 @@ function set_footer(){
     }
 }
 
-window.onload = set_footer();
+window.onload = set_footer;
 $( window ).resize(set_footer);
+
+particlesJS.load('particles-js', 'assets/particles.json', function() {});
