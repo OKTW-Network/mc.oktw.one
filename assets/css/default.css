@@ -108,7 +108,6 @@ a {
 }
 
 #card-body::before {
-  background: url("/assets/img/bg.jpg") 0 / cover fixed;
   content: "";
   margin: -35px;
   position: absolute;
