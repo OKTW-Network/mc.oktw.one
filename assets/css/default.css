@@ -107,3 +107,10 @@ a {
   overflow: hidden;
 }
 
+.particles-js {
+  background-color: rgb(35, 39, 65);
+  position: fixed;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
