@@ -19,7 +19,7 @@
         <div class="col-sm m-4">
             <div class="row">
                 <h2>連線位置 :
-                    <code>mc.oktw.tw</code>
+                    <code>mc.oktw.one</code>
                 </h2>
             </div>
             <div class="row">
