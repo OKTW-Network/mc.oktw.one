@@ -12,7 +12,7 @@
                 </div>
             </div>
             <div class="row">
-                <h3>Sample TEXT 文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字</h3>
+                <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit.候這生一情方一此除是現反，加前路哥坡而父標子整！才校士會外。</h3>
             </div>
         </div>
         <div class="col-0">
