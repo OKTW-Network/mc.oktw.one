@@ -2,7 +2,14 @@
     <div class="row">
         <div class="col-sm m-4">
             <div class="row">
-                <h1>OKTW 星系計畫</h1>
+                <div class="col-sm">
+                    <h1>OKTW </h1>
+                </div>
+                <div class="col-sm">
+                    <h1>星系計畫</h1>
+                </div>
+                <div class="col-sm">
+                </div>
             </div>
             <div class="row">
                 <h3>Sample TEXT 文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字</h3>
