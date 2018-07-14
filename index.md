@@ -2,7 +2,7 @@
     <div class="row">
         <div class="col-sm m-4">
             <div class="row">
-                <div class="col-sm-auto m-0 p-0 mr-1">
+                <div class="col-sm-auto m-0 p-0 mr-3">
                     <h1>OKTW </h1>
                 </div>
                 <div class="col-sm m-0 p-0">
