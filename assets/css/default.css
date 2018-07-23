@@ -44,6 +44,10 @@ img {
   z-index: -1;
 }
 
+.subtitle{
+  font-size: 1.25rem;
+}
+
 .blur {
   transform: scale(1.2);
   top: -5%;

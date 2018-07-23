@@ -10,9 +10,9 @@
                 </div>
             </div>
             <div class="row">
-                <h3>OKTW Netkwork 為大家帶來</h3>
-                <h3>完全原創的原版組隊生存</h3>
-                <h3>立即加入一同在星際間遨遊！</h3>
+                <span calss="subtitle">OKTW Netkwork 為大家帶來</span><br>
+                <span calss="subtitle">完全原創的原版組隊生存</span><br>
+                <span calss="subtitle">立即加入一同在星際間遨遊！</span><br>
             </div>
         </div>
         <div class="col-0">
