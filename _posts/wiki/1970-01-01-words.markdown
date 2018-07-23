@@ -6,6 +6,8 @@ categories: wiki
 layout: wiki
 ---
 
+---
+
 # 旅行者 (Traveler)
 
 在星際中旅行的人，也就是玩家
