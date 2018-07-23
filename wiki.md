@@ -4,7 +4,8 @@ layout: default
 
 # Wiki
 
-{% for post in site.categories.wiki %}
+{% assign wiki_pages = site.categories.wiki | sort: 'order' %}
+{% for post in wiki_pages %}
 
 * [{{ post.title }}]({{ post.url }})
 
