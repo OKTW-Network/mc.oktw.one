@@ -1,5 +1,5 @@
 ---
-order: 5
+order: 6
 title:  "功能方塊"
 date:   2018-07-13 00:03:25 +0800
 categories: wiki
