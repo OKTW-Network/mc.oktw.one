@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Wiki 請使用伺服器材質包
+# Wiki
 
 {% for post in site.categories.wiki %}
 

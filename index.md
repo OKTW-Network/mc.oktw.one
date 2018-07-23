@@ -27,6 +27,9 @@
                     <code>1.12.2</code>
                 </h2>
             </div>
+            <div class="row">
+                <h2>請使用伺服器材質包</h2>
+            </div>
         </div>
     </div>
 </div>
