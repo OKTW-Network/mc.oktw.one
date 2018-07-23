@@ -102,13 +102,13 @@ a {
   .recipe-photo {
     width: 40%;
   }
-  .subtitle{
+  .subtitle {
     font-size: 1.25rem;
   }
 }
 
-@media only screen and (max-width: 601px) {
-  .subtitle{
+@media only screen and (max-width: 599px) {
+  .subtitle {
     font-size: 1.9rem;
   }
 }
