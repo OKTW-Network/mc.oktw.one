@@ -1,6 +1,6 @@
 ---
 title:  "功能方塊"
-date:  0000-00-00 00:00:00 +0000
+date:  1970-01-01 00:00:00 +0000
 categories: wiki
 layout: wiki
 ---
