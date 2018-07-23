@@ -103,13 +103,13 @@ a {
     width: 40%;
   }
   .subtitle {
-    font-size: 1.25rem;
+    font-size: 1.9rem;
   }
 }
 
 @media only screen and (max-width: 599px) {
   .subtitle {
-    font-size: 1.9rem;
+    font-size: 1rem;
   }
 }
 
