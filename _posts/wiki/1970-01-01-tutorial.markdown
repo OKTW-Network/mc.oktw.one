@@ -6,7 +6,9 @@ categories: wiki
 layout: wiki
 ---
 
-# 請使用伺服器資源包{: style="color: red"}
+<span style="color: red">
+# 請使用伺服器資源包
+</span>
 
 - [如何加入星系](#如何加入星系)
 - [如何審核加入申請](#如何審核加入申請)
