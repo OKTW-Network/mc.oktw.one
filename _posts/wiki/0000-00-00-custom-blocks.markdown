@@ -1,7 +1,6 @@
 ---
-order: 6
 title:  "功能方塊"
-date:   2018-07-13 00:03:25 +0800
+date:  0000-00-00 00:00:00 +0000
 categories: wiki
 layout: wiki
 ---
