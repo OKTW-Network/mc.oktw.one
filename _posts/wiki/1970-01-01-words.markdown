@@ -40,3 +40,15 @@ layout: wiki
 
 就是錢  
 獲得經驗值的同時也會獲得星塵
+  
+# 普通星球 (Normal Planet)  
+
+普通世界  
+
+# 炎熱星球 (Hot Planet)  
+
+地域  
+
+# 黑暗星球 (Dark Planet)  
+
+終界  
