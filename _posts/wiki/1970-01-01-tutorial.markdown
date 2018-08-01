@@ -60,7 +60,7 @@ layout: wiki
   
 # 如何回到飛船  
   
-點開星球重生點的烽火臺  
+點開[星球終端](https://mc.oktw.one/wiki/words.html#星球終端)   
 點選離開星球  
   
 # 如何貢獻星塵  

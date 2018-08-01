@@ -35,7 +35,8 @@ layout: wiki
 
 星球的入口，一個5x5x5的結構  
 可以與飛船及ECS(環境控制系統)連線
-
+位於星球重生點的烽火臺 
+  
 # 星塵 (Star dust)
 
 就是錢  
@@ -47,7 +48,7 @@ layout: wiki
 
 # 炎熱星球 (Hot Planet)  
 
-地域  
+地獄  
 
 # 黑暗星球 (Dark Planet)  
 
