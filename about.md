@@ -13,7 +13,11 @@
         <div class="col-sm"></div>
     </div>
     <div class="row">
-        <p class="text-center"> 我們的維護人員很懶，目前沒有什麼關於我們，可以往下看贊助我們的贊助商喔！</p>
+        <div class="col mt-5 text-center">
+            <p>
+                我們的維護人員很懶，目前沒有什麼關於我們，可以往下看贊助我們的贊助商喔！
+            </p>
+        </div>
     </div>
     <div class="row">
         <h1>贊助商</h1>
