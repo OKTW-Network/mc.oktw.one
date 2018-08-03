@@ -23,6 +23,8 @@ layout: wiki
 等待該[星系管理者](/wiki/words.html#管理者)[審核申請](/wiki/galaxy-manage-tutorial.html#如何審核加入申請)  
 或是直接請[星系管理者](/wiki/words.html#管理者)將您[加入星系](/wiki/galaxy-manage-tutorial.html#如何添加成員)
 
+> 不想加入其他星系或是~~沒有朋友~~嗎 你可以[自己創造一個](/wiki/galaxy-manage-tutorial.html#如何創造星系)！
+
 # 如果進入星球
 
 在[星船](/wiki/words.html#星船)中對桌上的[星船控制台](/wiki/words.html#星船控制台)點右鍵  
