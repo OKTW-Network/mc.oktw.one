@@ -22,7 +22,7 @@ layout: wiki
 
 ### 用途
 
-拆除[功能方塊](/wiki/blocks.html)。
+拆除[功能方塊](/wiki/custon-blocks.html)。
 
 ### 功能
 
