@@ -42,14 +42,28 @@ layout: wiki
 就是錢  
 獲得經驗值的同時也會獲得星塵
   
-# 普通星球 (Normal Planet)  
+# 普通星球 (Normal Planet)
 
 普通世界  
 
-# 炎熱星球 (Hot Planet)  
+# 炎熱星球 (Hot Planet)
 
 地獄  
 
-# 黑暗星球 (Dark Planet)  
+# 黑暗星球 (Dark Planet)
 
 終界  
+
+---
+
+
+- [旅行者](#旅行者 (Traveler))
+- [飛船 (SpaceShip)](#飛船 (SpaceShip))
+- [星系 (Galaxy)](#星系 (Galaxy))
+- [星球 (Planet)](#星球 (Planet))
+- [環境控制系統 (Environment Control System)](#環境控制系統 (Environment Control System))
+- [星球終端 (Planet Terminal)](#星球終端 (Planet Terminal))
+- [星塵 (Star dust)](#星塵 (Star dust))
+- [普通星球 (Normal Planet)](#普通星球 (Normal Planet))
+- [炎熱星球 (Hot Planet)](#炎熱星球 (Hot Planet))
+- [黑暗星球 (Dark Planet)](#黑暗星球 (Dark Planet))
