@@ -61,7 +61,7 @@
                 <p>創始人兼插件開發兼伺服器維護</p>
             </div></div>
             <div class="row"><div class="col text-center">
-                <a class="fab fa-github"></a>
+                <a class="fab fa-github fa-2x" href="https://github.com/james58899"></a>
             </div></div>
         </div>
         <div class="col-sm">
@@ -71,6 +71,9 @@
             <div class="row"><div class="col text-center">
                 <p>插件開發</p>
             </div></div>
+            <div class="row"><div class="col text-center">
+                <a class="fab fa-github fa-2x" href="https://github.com/mmis1000"></a>
+            </div></div>
         </div>
         <div class="col-sm">
             <div class="row profile_img_row"><img class="profile_img" src="//www.gravatar.com/avatar/537a70f67334c4d1dde928ceda1663ce?s=512"></div>
@@ -78,6 +81,9 @@
             <div class="row"><div class="col text-center"><h5>@jimchen5209</h5></div></div>
             <div class="row"><div class="col text-center">
                 <p>插件開發</p>
+            </div></div>
+            <div class="row"><div class="col text-center">
+                <a class="fab fa-github fa-2x" href="https://github.com/jimchen5209"></a>
             </div></div>
         </div>
     </div>
@@ -87,7 +93,10 @@
             <div class="row"><div class="col text-center"><h3>bill96012</h3></div></div>
             <div class="row"><div class="col text-center"><h5>@bill96012</h5></div></div>
             <div class="row"><div class="col text-center">
-                <p>材質建模兼建築兼設計兼會出事</p>
+                <p>資源包管理</p>
+            </div></div>
+            <div class="row"><div class="col text-center">
+                <a class="fab fa-github fa-2x" href="https://github.com/bill96012"></a>
             </div></div>
         </div>
         <div class="col-sm">
@@ -96,6 +105,9 @@
             <div class="row"><div class="col text-center"><h5>@Sciuridae0603</h5></div></div>
             <div class="row"><div class="col text-center">
                 <p>網頁開發</p>
+            </div></div>
+            <div class="row"><div class="col text-center">
+                <a class="fab fa-github fa-2x" href="https://github.com/Sciuridae0603"></a>
             </div></div>
         </div>
         <div class="col-sm">
