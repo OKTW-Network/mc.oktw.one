@@ -23,7 +23,7 @@
         <div class="col-sm">
             <div class="row"><img class="sponsor_img" src="//www.gravatar.com/avatar/857bd3a15be7c2ba7dd9c5cee284678c?s=512"></div>
             <div class="row"><div class="col text-center"><h3>Panada</h3></div></div>
-            <div class="row"><h5>@cute_panda</h5></div></div>
+            <div class="row"><div class="col text-center"><h5>@cute_panda</h5></div></div>
             <div class="row"><div class="col text-center">
                 <p>贊助了一條2G DDR3記憶體</p>
             </div></div>
