@@ -30,6 +30,9 @@
             <div class="row"><div class="col text-center">
                 <p>Site Reliability Engineer<br> Software Engineer, iOS</p>
             </div></div>
+            <div class="row"><div class="col text-center">
+                <a class="fab fa-github fa-2x" href="https://github.com/haraguroicha"></a>
+            </div></div>
         </div>
         <div class="col-sm">
             <div class="row profile_img_row"><img class="profile_img" src="//www.gravatar.com/avatar/fd38f5219d460c0d348a9a1d78256e65?s=512"></div>
