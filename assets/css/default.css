@@ -66,8 +66,11 @@ img {
 
 .profile_img {
   height:100%;
-  padding : 3em;
   border-radius: 50%
+}
+
+.profile_img_row {
+  padding: 3em;
 }
 
 a {
