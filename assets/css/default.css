@@ -64,6 +64,12 @@ img {
   border-radius: 1rem;
 }
 
+.sponsor_img {
+  height:100%;
+  padding : 3em;
+  border-radius: 50%
+}
+
 a {
   color: #aad3ff;
   text-decoration: none;

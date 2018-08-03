@@ -21,7 +21,7 @@
     </div>
     <div class="row">
         <div class="col-sm">
-            <div class="row"><img src="//www.gravatar.com/avatar/857bd3a15be7c2ba7dd9c5cee284678c?s=512"></div>
+            <div class="row"><img class="sponsor_img" src="//www.gravatar.com/avatar/857bd3a15be7c2ba7dd9c5cee284678c?s=512"></div>
             <div class="row"><h3>Panada</h3></div>
             <div class="row"><h5>@cute_panda</h5></div>
             <div class="row">
@@ -29,7 +29,7 @@
             </div>
         </div>
         <div class="col-sm">
-            <div class="row"><img src="//www.gravatar.com/avatar/fd38f5219d460c0d348a9a1d78256e65?s=512"></div>
+            <div class="row"><img class="sponsor_img" src="//www.gravatar.com/avatar/fd38f5219d460c0d348a9a1d78256e65?s=512"></div>
             <div class="row"><h3>Licson</h3></div>
             <div class="row"><h5>@licson0729</h5></div>
             <div class="row">
@@ -38,7 +38,7 @@
             </div>
         </div>
         <div class="col-sm">
-            <div class="row"><img src="//www.gravatar.com/avatar/e12bdfd4cc9f62d7728a973dbb854344?s=512"></div>
+            <div class="row"><img class="sponsor_img" src="//www.gravatar.com/avatar/e12bdfd4cc9f62d7728a973dbb854344?s=512"></div>
             <div class="row"><h3>腹黒い茶</h3></div>
             <div class="row"><h5>@Haraguroicha</h5></div>
             <div class="row">
