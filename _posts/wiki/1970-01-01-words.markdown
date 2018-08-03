@@ -9,58 +9,58 @@ layout: wiki
 ---
 
 # 旅行者
-## Traveler
+#### Traveler
 
 在星際中旅行的人，也就是玩家
 
 # 飛船
-## SpaceShip
+#### SpaceShip
 
 伺服器入口  
 有一個控制面板讓玩家可以創造或選擇星系
 
 # 星系
-## Galaxy
+#### Galaxy
 
 類似團隊的概念，包含多個星球與成員
 
 # 星球
-## Planet
+#### Planet
 
 對應到Minecraft的世界，每個星球都是獨立的世界
 
 # 環境控制系統
-## Environment Control System
+#### Environment Control System
 
 在星球外圍的衛星，用來改善星球環境讓人可以生存
 
 提升等級可擴大範圍及附加效果
 
 # 星球終端
-## Planet Terminal
+#### Planet Terminal
 
 星球的入口，一個5x5x5的結構  
 可以與飛船及ECS(環境控制系統)連線
 位於星球重生點的烽火臺 
   
 # 星塵
-## Star dust
+#### Star dust
 
 就是錢  
 獲得經驗值的同時也會獲得星塵
   
 # 普通星球
-## Normal Planet
+#### Normal Planet
 
 普通世界  
 
 # 炎熱星球
-## Hot Planet
+#### Hot Planet
 
 地獄  
 
 # 黑暗星球
-## Dark Planet
+#### Dark Planet
 
 終界  
 
