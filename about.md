@@ -76,6 +76,7 @@
             </div></div>
             <div class="row"><div class="col text-center">
                 <a class="fab fa-github fa-2x" href="https://github.com/mmis1000"></a>
+                <a class="fas fa-globe fa-2x" href="https://mmis1000.me"></a>
             </div></div>
         </div>
         <div class="col-sm">
