@@ -38,6 +38,19 @@
     <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.js" integrity="sha256-icjghcPaibMf1jv4gQIGi5MeWNHem2SispcorCiCfSg="
         crossorigin="anonymous"></script>
     <script src="/assets/js/main.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" async="">
+        const crate = new Crate({
+            server: '88111110519009280',
+            channel: '88111110519009280',
+            shard: 'https://cl1.widgetbot.io'
+        })
+
+        crate.notify('需要幫忙嗎？在這發個訊息吧')
+      /*crate.on('signIn', data => {
+        console.log(`Guest signed in as ${data.name}`)
+        crate.emit('sendMessage', 'Hello world')
+      })*/
+    </script>
 </body>
 
 </html>
