@@ -42,6 +42,9 @@
                 <p>贊助商大大<br>
                 擁有100Gbps家用網路</p>
             </div></div>
+            <div class="row"><div class="col text-center">
+                <a class="fas fa-globe fa-2x" href="https://licson.net"></a>
+            </div></div>
         </div>
         <div class="col-sm">
             <div class="row profile_img_row"><img class="profile_img" src="//www.gravatar.com/avatar/857bd3a15be7c2ba7dd9c5cee284678c?s=512"></div>
