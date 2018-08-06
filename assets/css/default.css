@@ -83,6 +83,10 @@ a:hover {
   text-decoration: underline gray;
 }
 
+a.list-group-item.list-group-item-action{
+  text-shadow: unset !important;
+}
+
 hr {
   background-color: white;
   height: 2px;
