@@ -3,12 +3,14 @@ layout: default
 ---
 
 <div class="container">
-# Wiki
+    <h1>Wiki</h1>
     <div class="wikiPages">
 {% assign wiki_pages = site.categories.wiki | sort: 'order' %}
-{% for post in wiki_pages %}
+{% for wiki in wiki_pages %}
         <article class="post mt-1 mb-1">
-* [{{ post.title }}]({{ post.url }})
+    
+* [{{ wiki.title }}]({{ wiki.url }})
+
         </article>
 {% endfor %}
     </div>
