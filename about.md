@@ -114,6 +114,7 @@
                 <p>資源包管理</p>
             </div></div>
             <div class="row"><div class="col text-center">
+                <a class="fab fa-github fa-2x" href="https://github.com/Gabriele"></a>
             </div></div>
         </div>
         <div class="col-sm">
@@ -125,6 +126,7 @@
             </div></div>
             <div class="row"><div class="col text-center">
                 <a class="fab fa-github fa-2x" href="https://github.com/Sciuridae0603"></a>
+                <a class="fas fa-globe fa-2x" href="https://sciuridae.me"></a>
             </div></div>
         </div>
     </div>
