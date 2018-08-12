@@ -111,10 +111,10 @@
             <div class="row"><div class="col text-center"><h3>隱風</h3></div></div>
             <div class="row"><div class="col text-center"><h5>@infon_TW</h5></div></div>
             <div class="row"><div class="col text-center">
-                <p>資源包管理</p>
+                <p>材質設計</p>
             </div></div>
             <div class="row"><div class="col text-center">
-                <a class="fab fa-github fa-2x" href="https://github.com/Gabriele"></a>
+                <a class="fab fa-github fa-2x" href="https://github.com/Gabreile"></a>
             </div></div>
         </div>
         <div class="col-sm">
