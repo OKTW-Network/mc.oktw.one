@@ -107,6 +107,16 @@
             </div></div>
         </div>
         <div class="col-sm">
+            <div class="row profile_img_row"><img class="profile_img" src="//s.gravatar.com/avatar/de357c5464b2178796394c0006be0467?s=512"></div>
+            <div class="row"><div class="col text-center"><h3>隱風</h3></div></div>
+            <div class="row"><div class="col text-center"><h5>@infon_TW</h5></div></div>
+            <div class="row"><div class="col text-center">
+                <p>資源包管理</p>
+            </div></div>
+            <div class="row"><div class="col text-center">
+            </div></div>
+        </div>
+        <div class="col-sm">
             <div class="row profile_img_row"><img class="profile_img" src="//www.gravatar.com/avatar/60ce6b00bae88e0ff15c9480a9ce92f5?s=512"></div>
             <div class="row"><div class="col text-center"><h3>Sciuridae</h3></div></div>
             <div class="row"><div class="col text-center"><h5>@Sciuridae0603</h5></div></div>
