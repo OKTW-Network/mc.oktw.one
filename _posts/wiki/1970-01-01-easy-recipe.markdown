@@ -5,3 +5,74 @@ date:  1970-01-01 00:00:00 +0000
 categories: wiki
 layout: wiki
 ---
+
+- [箱子](#箱子)
+- [木棒](#木棒)
+- [漏斗](#漏斗)
+- [梯子](#梯子)
+- [半磚](#半磚)
+- [胡羅波釣竿](#胡羅波釣竿)
+- [礦車](#礦車)
+- [玻璃](#玻璃)
+- [玻璃片](#玻璃片)
+- [紅石中繼器](#紅石中繼器)
+- [陷阱箱](#陷阱箱)
+
+---
+
+# 箱子
+
+<img class="recipe-photo" src="/assets/img/wiki/easy_recipe/log_chest.png">  
+> 所有木頭種類都可合成
+
+# 木棒
+
+<img class="recipe-photo" src="/assets/img/wiki/easy_recipe/log_stick.png">  
+> 所有木頭種類都可合成
+
+# 漏斗
+
+<img class="recipe-photo" src="/assets/img/wiki/easy_recipe/log_hopper.png">  
+> 所有木頭種類都可合成
+
+# 梯子
+
+<img class="recipe-photo" src="/assets/img/wiki/easy_recipe/log_ladder.png">  
+> 所有木頭種類都可合成
+
+# 半磚
+
+<img class="recipe-photo" src="/assets/img/wiki/easy_recipe/log_slab.png">  
+<img class="recipe-photo" src="/assets/img/wiki/easy_recipe/wooden_slab_to_block.png">  
+> 所有木頭種類都可合成
+
+# 胡羅波釣竿
+
+<img class="recipe-photo" src="/assets/img/wiki/easy_recipe/carrot_on_a_stick.png">
+
+# 礦車
+
+<img class="recipe-photo" src="/assets/img/wiki/easy_recipe/chest_minecart.png">  
+<img class="recipe-photo" src="/assets/img/wiki/easy_recipe/tnt_minecart.png">  
+<img class="recipe-photo" src="/assets/img/wiki/easy_recipe/hopper_minecart.png">
+
+# 玻璃
+
+<img class="recipe-photo" src="/assets/img/wiki/easy_recipe/clear_color_glass.png">  
+<img class="recipe-photo" src="/assets/img/wiki/easy_recipe/color_glass.png">  
+> 所有玻璃線色都可合成
+
+# 玻璃片
+
+<img class="recipe-photo" src="/assets/img/wiki/easy_recipe/color_glass_pane.png">  
+<img class="recipe-photo" src="/assets/img/wiki/easy_recipe/clear_color_glass_pane.png">  
+> 所有玻璃線色都可合成
+
+# 紅石中繼器
+
+<img class="recipe-photo" src="/assets/img/wiki/easy_recipe/redstone_repeater.png">
+
+# 陷阱箱
+
+<img class="recipe-photo" src="/assets/img/wiki/easy_recipe/trapped_chest.png">  
+> 所有木頭種類都可合成
