@@ -6,5 +6,5 @@ layout: news
 ---
 這是我們部落格的第一篇文章！
 
-本部落格部使用 [Jekyll](https://jekyllrb.com/) 並放在 [GitHub Pages](https://pages.github.com/)
+本部落格部使用 [Jekyll]({{ "https://jekyllrb.com/" | relative_url }}) 並放在 [GitHub Pages]({{ "https://pages.github.com/" | relative_url }})
 

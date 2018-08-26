@@ -6,7 +6,7 @@ categories: wiki
 layout: wiki
 ---
 
-注意! 所有的功能方塊都必須由[扳手](/wiki/tools.html#扳手)拆除。
+注意! 所有的功能方塊都必須由[扳手]({{ "/wiki/tools.html#扳手" | relative_url }})拆除。
 - [高科技合成台](#高科技合成台)
 - [電梯](#電梯)
 
@@ -14,13 +14,13 @@ layout: wiki
 
 # 高科技合成台
 
-![](/assets/img/wiki/ht-ct/overview.png)
+![]({{ "/assets/img/wiki/ht-ct/overview.png" | relative_url }})
 
 ### 合成
 
 使用合成台來合成(有序)
 
-<img class="recipe-photo" src="/assets/img/wiki/ht-ct/recipe.png">
+<img class="recipe-photo" src="{{ "/assets/img/wiki/ht-ct/recipe.png" | relative_url }}">
 
 ### 用途
 
@@ -34,13 +34,13 @@ layout: wiki
 
 # 電梯
 
-![](/assets/img/wiki/elevator/overview.png)
+![]({{ "{{ "/assets/img/wiki/elevator/overview.png" | relative_url }}" | relative_url }})
 
 ### 合成
 
 使用合成台來合成(無序)
 
-<img class="recipe-photo" src="/assets/img/wiki/elevator/recipe.png">
+<img class="recipe-photo" src="{{ "/assets/img/wiki/elevator/recipe.png" | relative_url }}">
 
 ### 用途
 

@@ -22,16 +22,16 @@ layout: wiki
 
 # 如何創造星系
 
-在[星船](/wiki/words.html#星船)中對桌上的[星船控制台](/wiki/words.html#星船控制台)點右鍵  
+在[星船]({{ "/wiki/words.html#星船" | relative_url }})中對桌上的[星船控制台]({{ "/wiki/words.html#星船控制台" | relative_url }})點右鍵  
 在跳出的介面中點選 **創造星系**  
 在 **聊天介面** 中輸入 **星系名稱** 並送出  
 點選確定  
 
 # 如何開啟管理星系介面
 
-在[星船](/wiki/words.html#星船)中對桌上的[星船控制台](/wiki/words.html#星船控制台)點右鍵  
-在跳出的介面中點選 **列出已加入的[星系](/wiki/words.html#星系)**  
-點選你要管理的[星系](/wiki/words.html#星系) **必須是[擁有者](/wiki/words.html#擁有者)或是[管理者](/wiki/words.html#管理者)** 
+在[星船]({{ "/wiki/words.html#星船" | relative_url }})中對桌上的[星船控制台]({{ "/wiki/words.html#星船控制台" | relative_url }})點右鍵  
+在跳出的介面中點選 **列出已加入的[星系]({{ "/wiki/words.html#星系" | relative_url }})**  
+點選你要管理的[星系]({{ "/wiki/words.html#星系" | relative_url }}) **必須是[擁有者]({{ "/wiki/words.html#擁有者" | relative_url }})或是[管理者]({{ "/wiki/words.html#管理者" | relative_url }})** 
 
 # 如何新增星球
 
@@ -75,7 +75,7 @@ layout: wiki
 點選 **管理成員**  
 選擇 **要修改的玩家**  
 點選 **更改身分組**  
-點選要給予的身分組 ( *[ADMIN(管理者)](/wiki/words.html#管理者)* / *[MEMBER(成員)](/wiki/words.html#成員)* )
+點選要給予的身分組 ( *[ADMIN(管理者)](({{ "wiki/words.html#管理者" | relative_url }}))* / *[MEMBER(成員)](({{ "/wiki/words.html#成員" | relative_url }}))* )
 
 # 如何修改星系名稱
 
