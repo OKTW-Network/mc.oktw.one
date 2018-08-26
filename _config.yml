@@ -16,11 +16,11 @@
 title: OKTW Network
 description: 由許多人聯合經營的Minecraft伺服器
 keywords: OKTW,Minecraft,伺服器,Kotlin,Galaxy,星系計畫
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/en" # the subpath of your site, e.g. /blog
+url: "https://mc.oktw.one" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: none
 github_username:  OKTW-Network
-repository: OKTW-Network/oktw-network.github.io
+repository: OKTW-Network/en
 
 # Build settings
 markdown: kramdown

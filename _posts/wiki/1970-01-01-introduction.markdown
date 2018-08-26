@@ -47,8 +47,8 @@ layout: wiki
 # 開始
 
 加入伺服器後，你會在星船上  
-首先你必須要[加入](/wiki/tutorial.html#如何加入星系)或[創建星系](/wiki/tutorial.html#如何創建星系)  
+首先你必須要[加入]({{ "/wiki/tutorial.html#如何加入星系" | relative_url }})或[創建星系]({{ "/wiki/tutorial.html#如何創建星系" | relative_url }})  
 建議與朋友在同一個星系中遊玩  
-[加入星系](/wiki/tutorial.html#如何加入星系)後，需要有一顆星球才能開始  
+[加入星系]({{ "/wiki/tutorial.html#如何加入星系" | relative_url }})後，需要有一顆星球才能開始  
 所以如果自己創建星系，接著還要創星球  
 

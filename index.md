@@ -41,10 +41,10 @@
         <div class="col-sm"></div>
         <div class="col-sm"></div>
         <div class="col-sm text-center">
-            <a class="btn-block btn-lg pl-5 pr-5 mt-2 btn-secondary" href="/news">News</a>
+            <a class="btn-block btn-lg pl-5 pr-5 mt-2 btn-secondary" href="{{ "/news" | relative_url }}">News</a>
         </div>
         <div class="col-sm text-center">
-            <a  class="btn-block btn-lg pl-5 pr-5 mt-2 btn-secondary" href="/wiki">Wiki</a>
+            <a  class="btn-block btn-lg pl-5 pr-5 mt-2 btn-secondary" href="{{ "/wiki" | relative_url }}">Wiki</a>
         </div>
         <div class="col-sm"></div>
         <div class="col-sm"></div>

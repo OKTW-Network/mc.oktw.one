@@ -27,9 +27,9 @@ layout: wiki
 
 # 如何貢獻星塵
 
-> 必須是星系的[成員](/wiki/words.html#成員)
+> 必須是星系的[成員]({{ "/wiki/words.html#成員" | relative_url }})
 
-在[星船](/wiki/words.html#星船)上對[星球終端](/wiki/words.html#星球終端)點右鍵  
+在[星船]({{ "/wiki/words.html#星船" | relative_url }})上對[星球終端]({{ "/wiki/words.html#星球終端" | relative_url }})點右鍵  
 點選 **星塵**  
 選擇 **要貢獻的數量**  
 點選 **打勾**

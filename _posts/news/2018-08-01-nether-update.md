@@ -5,9 +5,9 @@ categories: news
 layout: news
 published: false
 ---
-[炎熱星球]: /wiki/words.html#%E7%82%8E%E7%86%B1%E6%98%9F%E7%90%83
-[普通星球]: /wiki/words.html#普通星球
-[星塵]: /wiki/star-dust.html
+[炎熱星球]: {{ "/wiki/words.html#%E7%82%8E%E7%86%B1%E6%98%9F%E7%90%83" | relative_url }}
+[普通星球]: {{ "/wiki/words.html#普通星球" | relative_url }}
+[星塵]: {{ "/wiki/star-dust.html" | relative_url }}
 
 # 地獄開放
 這是自從我們`OKTW 星系計畫`開服以來最大的一次更新！  
