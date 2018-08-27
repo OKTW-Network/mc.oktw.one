@@ -23,7 +23,7 @@ layout: default
                         <h5 class="card-title">{{ wiki.title }}</h5>
                         <p class="card-text">{{ wiki.description }}</p>
                     </div>
-                </div>
+                </a>
             </div>
             {% endfor %}
         </div>
