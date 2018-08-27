@@ -1,6 +1,8 @@
 ---
 order : 1
 title:  "簡介"
+icon: "fas fa-info-circle"
+description: "簡介 OKTW 星系計畫"
 date:  1970-01-01 00:00:00 +0000
 categories: wiki
 layout: wiki

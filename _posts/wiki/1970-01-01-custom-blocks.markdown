@@ -1,6 +1,8 @@
 ---
 order : 20
 title:  "功能方塊"
+icon: "fas fa-square"
+description: "擁有更多功能的方塊"
 date:  1970-01-01 00:00:00 +0000
 categories: wiki
 layout: wiki
