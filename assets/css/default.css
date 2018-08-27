@@ -117,17 +117,13 @@ hr {
   box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.75);
 }
 
-h5.card-title{
-  text-shadow: none !important;
-}
-p.card-text{
-  text-shadow: none !important;
-}
-h5.card-title:hover{
+.wiki-a{
   text-decoration: none !important ;
+  color: #000000 !important;
 }
-p.card-text:hover{
+.wiki-a:hover{
   text-decoration: none !important ;
+  color: #000000 !important;
 }
 
 h1,
