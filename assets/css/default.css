@@ -118,6 +118,7 @@ hr {
 }
 
 .wiki-a{
+  text-shadow: none !important;
   text-decoration: none !important ;
   color: #000000 !important;
 }
