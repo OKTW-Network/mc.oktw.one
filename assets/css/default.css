@@ -118,13 +118,16 @@ hr {
 }
 
 .wiki-a{
-  text-shadow: none !important;
   text-decoration: none !important ;
   color: #000000 !important;
 }
 .wiki-a:hover{
   text-decoration: none !important ;
   color: #000000 !important;
+}
+
+.no-shadow{
+  text-shadow: none !important;
 }
 
 h1,
