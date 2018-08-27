@@ -9,7 +9,7 @@ layout: default
             {% assign wiki_pages = site.categories.wiki | sort: 'order' %}
             {% for wiki in wiki_pages %}
             <div class="col-sm-3">
-                <a href="{{ wiki.url | relative_url }}">
+                <a href="{{ wiki.url | relative_url }}" class="wiki-a">
                     <div class="card text-center wiki-item">
                         <i class="{{ wiki.icon }} fa-9x"></i>
                         <div class="card-body">
