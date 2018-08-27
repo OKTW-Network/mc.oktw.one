@@ -13,8 +13,8 @@ layout: default
                     <div class="card text-center wiki-item">
                         <i class="{{ wiki.icon }} fa-9x"></i>
                         <div class="card-body">
-                            <h5 class="card-title">{{ wiki.title }}</h5>
-                            <p class="card-text">{{ wiki.description }}</p>
+                            <h5 class="card-title no-shadow">{{ wiki.title }}</h5>
+                            <p class="card-text no-shadow">{{ wiki.description }}</p>
                         </div>
                     </div>
                 </a>
