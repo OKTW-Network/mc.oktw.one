@@ -40,8 +40,8 @@ Minecraft世界運算是以Chunk為單位運算的，一般來說只有玩家周
 
 <img class="recipe-photo" src="{{ "/assets/img/news/20180801-nether-update/chunkloader-upgrade.png" | relative_url }}">
 
-目前升級尚未支援，我們將會在未來的更新中加入。
+目前升級尚未支援，我們會在未來的更新中加入。
 
 #### 使用方式
 
-直接放置於方塊上即可使用，目前範圍為1 Chunk。
+放置於黑曜石上使用，目前範圍為1 Chunk。
