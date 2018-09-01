@@ -1,7 +1,7 @@
 ---
 order : 2
 title:  "高科技合成台"
-icon: "hi-tech-crafting-table.png"
+icon: "ht-crafting-table.png"
 description: ""
 date:  1970-01-01 00:00:00 +0000
 categories: custom_block
