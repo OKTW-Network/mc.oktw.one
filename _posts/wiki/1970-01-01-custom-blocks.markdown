@@ -9,49 +9,24 @@ layout: wiki
 ---
 
 注意! 所有的功能方塊都必須由[扳手]({{ "/wiki/tools.html#扳手" | relative_url }})拆除。
-- [高科技合成台](#高科技合成台)
-- [電梯](#電梯)
 
----
-
-# 高科技合成台
-
-![]({{ "/assets/img/wiki/ht-ct/overview.png" | relative_url }})
-
-### 合成
-
-使用合成台來合成(有序)
-
-<img class="recipe-photo" src="{{ "/assets/img/wiki/ht-ct/recipe.png" | relative_url }}">
-
-### 用途
-
-在未來許多物品都需要用它來合成。
-
-### 功能
-
-目前還沒有功能。
-
----
-
-# 電梯
-
-![]({{ "/assets/img/wiki/elevator/overview.png" | relative_url }})
-
-### 合成
-
-使用合成台來合成(無序)
-
-<img class="recipe-photo" src="{{ "/assets/img/wiki/elevator/recipe.png" | relative_url }}">
-
-### 用途
-
-使玩家在電梯之間快速移動。
-
-### 功能
-
-電梯(至少兩個)垂直放置時，蹲下可以向下傳送，跳躍可以向上傳送。
-
-### 其他
-
-電梯的最遠距離是 16 格方塊(不包括電梯自己上下 16 格)。
+<div class="container">
+    <div class="wikiPages">
+        <div class="row">
+            {% assign wiki_pages = site.categories.custom_block | sort: 'order' %}
+            {% for wiki in wiki_pages %}
+            <div class="col-sm-3">
+                <a href="{{ wiki.url | relative_url }}" class="wiki-a">
+                    <div class="card text-center wiki-item">
+                        <img class="card-img-top" src="{{ "/assets/img/wiki/custom_block_icons/" | relative_url  }}{{ wiki.icon }}">
+                        <div class="card-body">
+                            <h5 class="card-title no-shadow">{{ wiki.title }}</h5>
+                            <p class="card-text no-shadow">{{ wiki.description }}</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
