@@ -3,7 +3,6 @@ title:  "2018/8/1 地獄更新"
 date:   2018-08-01 00:00:00 +0800
 categories: news
 layout: news
-published: false
 ---
 [炎熱星球]: {{ "/wiki/words.html#%E7%82%8E%E7%86%B1%E6%98%9F%E7%90%83" | relative_url }}
 [普通星球]: {{ "/wiki/words.html#普通星球" | relative_url }}
@@ -22,11 +21,27 @@ published: false
 有玩過模組的玩家或許會知道這東西，簡單來說就是讓ChunkLoader所在的Chunk永遠保持載入。
 
 Minecraft世界運算是以Chunk為單位運算的，一般來說只有玩家周圍直徑10 Chunk的範圍會載入  
-也就是說只有玩家在的地方世界才是活著的，如果玩家遠離了那個Chunk伺服器會將Chunk中的方塊與生物等資料儲存並從記憶體中刪除，等到玩家下次接近時再從硬碟讀取載入至記憶體。
-只有載入的Chunk會進行更新，也就是說只有玩家在附近時生物才會動，農作物才會成長。
+也就是只有玩家在的地方世界才是活著的，如果玩家遠離了那個Chunk伺服器會將Chunk中的方塊與生物等資料儲存並從記憶體中刪除，等到玩家下次接近時再從硬碟讀取載入至記憶體。只有載入的Chunk會進行更新，總而言之只有玩家在附近時生物才會動，農作物才會成長。
 
 如果希望某一個Chunk就算玩家沒有待在附近也會保持載入，就可以使用ChunkLoader  
-目前ChunkLoader的作用範圍只有他所在的Chunk，未來將會可以插升級來擴大範圍  
+目前ChunkLoader的作用範圍只有他所在的Chunk，未來將會可以插升級來擴大範圍。  
 
-### ChunkLoader的合成及使用方式
+#### 合成
 
+<img class="recipe-photo" src="{{ "/assets/img/news/20180801-nether-update/chunkloader.png" | relative_url }}">
+
+#### 介面
+
+<img class="recipe-photo" src="{{ "/assets/img/news/20180801-nether-update/chunkloader-interface.png" | relative_url }}">
+
+左側的綠色箭頭為升級；右側叉叉為移除。
+
+#### 升級介面
+
+<img class="recipe-photo" src="{{ "/assets/img/news/20180801-nether-update/chunkloader-upgrade.png" | relative_url }}">
+
+目前升級尚未支援，我們將會在未來的更新中加入。
+
+#### 使用方式
+
+直接放置於方塊上即可使用，目前範圍為1 Chunk。
