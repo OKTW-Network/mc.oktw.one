@@ -41,7 +41,7 @@ Minecraft世界運算是以Chunk為單位運算的，一般來說只有玩家周
 
 <img class="recipe-photo" src="{{ "/assets/img/news/20180801-nether-update/chunkloader-upgrade.png" | relative_url }}">
 
-目前升級尚未支援，我們會在未來的更新中加入。
+目前無法升級，我們會在未來的更新中加入。
 
 #### 使用方式
 
