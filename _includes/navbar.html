@@ -1,7 +1,7 @@
 <!--NavBar-->
 <nav class="col-12 navbar navbar-expand sticky-top navbar-dark bg-dark" id="navbar">
     <a class="navbar-brand" href="/">OKTW Network</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle nav"></button>>
         <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -12,6 +12,9 @@
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="{{ "/news" | relative_url }}">News</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="https://status.oktw.one/">Status</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="{{ "/about.html" | relative_url }}">About</a>
