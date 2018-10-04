@@ -23,8 +23,8 @@ layout: wiki
 點選 **瀏覽所有星系**  
 找到想加入的[星系]({{ "/wiki/words.html#星系" | relative_url }})並點擊  
 點選 **申請加入**  
-等待該[星系管理者]({{ "/wiki/words.html#管理者" | relative_url }})[審核申請]({{ "/wiki/galaxy-manage-tutorial.html#如何審核加入申請" | relative_url }})  
-或是直接請[星系管理者]({{ "/wiki/words.html#管理者" | relative_url }})將您[加入星系]({{ "/wiki/galaxy-manage-tutorial.html#如何添加成員" | relative_url }})
+等待該[星系管理者]({{ "/wiki/words.html#管理員" | relative_url }})[審核申請]({{ "/wiki/galaxy-manage-tutorial.html#如何審核加入申請" | relative_url }})  
+或是直接請[星系管理者]({{ "/wiki/words.html#管理員" | relative_url }})將您[加入星系]({{ "/wiki/galaxy-manage-tutorial.html#如何添加成員" | relative_url }})
 
 > 不想加入其他星系或是~~沒有朋友~~嗎 你可以[自己創造一個]({{ "/wiki/galaxy-manage-tutorial.html#如何創造星系" | relative_url }})！
 
