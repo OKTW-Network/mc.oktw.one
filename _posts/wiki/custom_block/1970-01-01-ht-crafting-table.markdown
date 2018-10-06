@@ -16,10 +16,23 @@ layout: wiki
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/ht-ct/recipe.png" | relative_url }}">
 
-### 用途
+### 介面
 
-在未來許多物品都需要用它來合成。
+<img class="recipe-photo" src="{{ "/assets/img/wiki/ht-ct/interface.png" | relative_url }}">
 
-### 功能
+上方為分類選單，下方則為能夠合成的方塊。
 
-目前還沒有功能。
+### 使用
+
+游標在想要合成的方塊上，選單會顯示需要的材料。  
+顯示綠色代表你能夠合成該方塊
+
+<img class="recipe-photo" src="{{ "/assets/img/wiki/ht-ct/complete.png" | relative_url }}">
+
+<img class="recipe-photo" src="{{ "/assets/img/wiki/ht-ct/success.png" | relative_url }}">
+
+而當你缺任一材料時，選單則會用紅色來提醒欠缺的材料
+
+<img class="recipe-photo" src="{{ "/assets/img/wiki/ht-ct/lack.png" | relative_url }}">
+
+<img class="recipe-photo" src="{{ "/assets/img/wiki/ht-ct/failure.png" | relative_url }}">
