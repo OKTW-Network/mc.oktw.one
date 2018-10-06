@@ -144,7 +144,7 @@
     <div class="row">
         <div class="col-sm"></div>
         <div class="col-sm text-center">
-                <a href="https://cashier.ecpay.com.tw/quick-collect/B2q7n" type="button" class="btn btn-lg btn-warning btn-block no-shadow">贊助</a> 
+                <a href="https://cashier.ecpay.com.tw/quick-collect/B2q7n" type="button" class="btn btn-lg btn-warning btn-block no-shadow" data-toggle="tooltip" data-placement="top" title="請想清楚後再點下去">贊助</a> 
         </div>
         <div class="col-sm"></div>
     </div>
