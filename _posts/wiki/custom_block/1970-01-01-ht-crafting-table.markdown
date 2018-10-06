@@ -18,7 +18,7 @@ layout: wiki
 
 ### 介面
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/ht-ct/interface.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/interface.png" | relative_url }}">
 
 上方為分類選單，下方則為能夠合成的方塊。
 
@@ -27,12 +27,12 @@ layout: wiki
 游標在想要合成的方塊上，選單會顯示需要的材料。  
 顯示綠色代表你能夠合成該方塊
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/ht-ct/complete.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/complete.png" | relative_url }}">
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/ht-ct/success.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/success.png" | relative_url }}">
 
 而當你缺任一材料時，選單則會用紅色來提醒欠缺的材料
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/ht-ct/lack.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/lack.png" | relative_url }}">
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/ht-ct/failure.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/failure.png" | relative_url }}">
