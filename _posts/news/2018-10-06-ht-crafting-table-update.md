@@ -29,8 +29,8 @@ layout: news
 
 ## 使用
 
-游標移到想要合成的物品上，會列出需要的材料
-
+游標移到想要合成的物品上，會列出需要的材料  
+點選要合成的物品  
 顯示綠色代表你能夠合成該物品
 
 <img class="article-photo" src="{{ "/assets/img/news/20181006-ht-crafting-table-update/ht-crafting-table-complete.png" | relative_url }}">
