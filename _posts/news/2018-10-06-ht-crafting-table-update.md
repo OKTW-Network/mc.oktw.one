@@ -24,20 +24,20 @@ layout: news
 
 <img class="article-photo" src="{{ "/assets/img/news/20181006-ht-crafting-table-update/ht-crafting-table-interface.png" | relative_url }}">
 
-上方為分類選單，下方則為能夠合成的方塊。  
+上方為分類選單，下方則為能夠合成的物品。  
 未來我們會陸續增加更多東西供玩家合成。
 
 ## 使用
 
-游標在想要合成的方塊上，選單會顯示需要的材料
+游標移到想要合成的物品上，會列出需要的材料
 
-顯示綠色代表你能夠合成該方塊
+顯示綠色代表你能夠合成該物品
 
 <img class="article-photo" src="{{ "/assets/img/news/20181006-ht-crafting-table-update/ht-crafting-table-complete.png" | relative_url }}">
 
 <img class="article-photo" src="{{ "/assets/img/news/20181006-ht-crafting-table-update/ht-crafting-table-success.png" | relative_url }}">
 
-而當你有缺任一材料時，選單則會用紅色來提醒欠缺的材料
+而當你有缺任一材料時，則會用紅色來提醒欠缺的材料
 
 <img class="article-photo" src="{{ "/assets/img/news/20181006-ht-crafting-table-update/ht-crafting-table-lack.png" | relative_url }}">
 
