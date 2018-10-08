@@ -41,6 +41,8 @@ layout: wiki
 # 星船
 #### Star Ship
 
+![]({{ "/assets/img/wiki/words/starship.png" | relative_url }})
+
 伺服器入口  
 有一個控制面板讓玩家可以創造或選擇星系
 
@@ -64,10 +66,14 @@ layout: wiki
 # 星船控制台
 #### Star Ship Controller
 
+![]({{ "/assets/img/wiki/words/galaxy_controller.png" | relative_url }})
+
 在星船上的控制台，用來管理星系與星球
 
 # 星球終端
 #### Planet Terminal
+
+![]({{ "/assets/img/wiki/words/planet_terminal.png" | relative_url }})
 
 星球的入口，一個5x5x5的結構  
 可以與飛船及ECS(環境控制系統)連線
@@ -100,10 +106,14 @@ layout: wiki
 
 普通世界
 
+![]({{ "/assets/img/wiki/words/normal_planet.png" | relative_url }})
+
 # 炎熱星球
 #### Hot Planet
 
 地獄
+
+![]({{ "/assets/img/wiki/words/hot_planet.png" | relative_url }})
 
 # 黑暗星球
 #### Dark Planet

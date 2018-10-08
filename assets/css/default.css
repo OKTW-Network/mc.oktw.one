@@ -151,6 +151,9 @@ code{
   .recipe-photo {
     width: 40%;
   }
+  .article-photo {
+    width: 60%;
+  }
   .subtitle {
     font-size: 1.9rem;
   }
