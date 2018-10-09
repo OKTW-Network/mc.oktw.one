@@ -8,7 +8,7 @@ categories: wiki
 layout: wiki
 ---
 
-注意! 所有的功能方塊都必須由[扳手]({{ "/wiki/tools.html#扳手" | relative_url }})拆除。
+注意! 所有的功能方塊都必須由[扳手]({{ "/tools/Wrench.html" | relative_url }})拆除。
 
 <div class="container">
     <div class="wikiPages">

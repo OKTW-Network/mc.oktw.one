@@ -1,5 +1,5 @@
 <div class="container">
-    <div class="row">
+    <div class="row mt-1">
         <h1>關於我們</h1>
         <hr>
     </div>
@@ -19,7 +19,7 @@
             </p>
         </div>
     </div>
-    <div class="row">
+    <div class="row mt-5">
         <h1>贊助商</h1>
     </div>
     <div class="row">
@@ -55,7 +55,7 @@
             </div></div>
         </div>
     </div> 
-    <div class="row">
+    <div class="row mt-5">
         <h1>團隊成員</h1>
     </div>
     <div class="row">
@@ -129,6 +129,31 @@
                 <a class="fas fa-globe fa-2x" href="https://sciuridae.me"></a>
             </div></div>
         </div>
+    </div>
+    <div class="row mt-5">
+        <h1>贊助我們</h1>
+        <hr>
+    </div>
+    <div class="row text-center">
+        <div class="col text-center">
+            <p>
+                注意！你正在把錢丟進虛空裡。
+            </p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm"></div>
+        <div class="col-sm text-center">
+                <a href="https://cashier.ecpay.com.tw/quick-collect/B2q7n" type="button" class="btn btn-lg btn-warning btn-block no-shadow" data-toggle="tooltip" data-placement="top" title="請想清楚後再點下去">贊助</a> 
+        </div>
+        <div class="col-sm"></div>
+    </div>
+    <div class="row mt-1">
+        <div class="col-sm"></div>
+        <div class="col-sm text-center">
+                <a href="https://docs.google.com/spreadsheets/d/1i1kOsMaOc-B3R5jXiVGAAloo0DPjmLymFTe6IAAhclo/edit?usp=sharing" type="button" class="btn btn-lg btn-info btn-block no-shadow">詳細收支</a> 
+        </div>
+        <div class="col-sm"></div>
     </div>
 </div>
 
