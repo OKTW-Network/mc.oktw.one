@@ -7,15 +7,15 @@ layout: news
 
 # 更新資源包
 
-更改部分材質命名  
-增加 GUI 相關按鈕  
-調整、重製部分模型
+重新設計按鈕
+增加更多按鈕
+重做按鈕模型，使按鈕內容更清楚
 
 # 多語言支援
 
-伺服器內的文字會隨著您的遊戲語言設定一起更改  
-目前僅限 `繁體中文` `English`  
-如果您有其他語言的能力，歡迎提供語言檔
+伺服器內的文字會隨著您的遊戲語言設定一起更改
+目前僅有 `繁體中文` `English`  
+如果可以，請協助我們完成翻譯!
 
 # 高科技合成台
 
@@ -25,4 +25,4 @@ layout: news
 
 <img class="article-photo" src="{{ "/assets/img/news/20181006-ht-crafting-table-update/ht-crafting-table-success.png" | relative_url }}">
 
-未來我們會增加更多物品進高科技合成台。
+未來我們會增加更多物品進高科技合成台，敬請期待!
