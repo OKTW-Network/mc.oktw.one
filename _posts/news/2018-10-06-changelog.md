@@ -3,6 +3,7 @@ title:  "2018/10/06 更新記錄"
 date:   2018-10-06 00:00:00 +0800
 categories: news
 layout: news
+subtitle: "更新資源包、多語言支援、高科技合成台"
 ---
 
 # 更新資源包
@@ -19,7 +20,7 @@ layout: news
 
 # 高科技合成台
 
-完成[高科技合成台]({{ /custom_block/ht-crafting-table.html" | relative_url }})
+完成[高科技合成台]({{ "/custom_block/ht-crafting-table.html" | relative_url }})
 
 <img class="article-photo" src="{{ "/assets/img/news/20181006-ht-crafting-table-update/ht-crafting-table-interface.png" | relative_url }}">
 
