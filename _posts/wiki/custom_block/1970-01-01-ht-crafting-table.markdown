@@ -25,8 +25,8 @@ layout: wiki
 ### 使用
 
 游標移到想要合成的物品上，會列出需要的材料。  
-點選要合成的物品  
-顯示綠色代表你能夠合成該物品
+點選要合成的物品可檢視合成的詳細資料
+顯示綠色代表材料足夠，按一下勾勾即可合成
 
 <img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/complete.png" | relative_url }}">
 
