@@ -137,7 +137,8 @@ h4,
 h5,
 h6,
 p,
-a {
+a,
+li {
   text-shadow: 0px 2px 10px #000000;
 }
 
