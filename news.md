@@ -9,7 +9,7 @@ layout: default
              <h1><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h1>
 
              <div class="entry text-light">
-                {{ post.excerpt }}
+                {{ post.subtitle }}
             </div>
 
              <a href="{{ post.url | relative_url }}" class="btn btn-outline-primary">查看更多...</a>
