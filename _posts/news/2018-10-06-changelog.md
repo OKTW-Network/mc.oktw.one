@@ -12,10 +12,10 @@ subtitle: "更新資源包、多語言支援、高科技合成台"
 增加更多按鈕  
 重做按鈕模型，使按鈕內容更清楚
 
-before:
+before:  
 <img class="article-photo" src="{{ "/assets/img/news/20181006-ht-crafting-table-update/texture_before.png" | relative_url }}">
 
-after:
+after:  
 <img class="article-photo" src="{{ "/assets/img/news/20181006-ht-crafting-table-update/texture_after.png" | relative_url }}">
 
 # 多語言支援
