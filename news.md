@@ -12,7 +12,7 @@ layout: default
                 {{ post.subtitle }}
             </div>
 
-             <a href="{{ post.url | relative_url }}" class="btn btn-outline-primary">查看更多...</a>
+             <a href="{{ post.url | relative_url }}" class="btn btn-outline-primary mt-1">查看更多...</a>
         </article>
         {% endfor %}
      </div>
