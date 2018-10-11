@@ -6,23 +6,6 @@ layout: news
 subtitle: "更新資源包、多語言支援、高科技合成台"
 ---
 
-# 資源包
-
-由隱風重新設計的按鈕圖示  
-增加更多按鈕圖示，讓每個按鈕都有自己的圖示  
-重製按鈕模型，使按鈕的圖示更清楚
-
-before:  
-<img class="article-photo" src="{{ "/assets/img/news/20181006-ht-crafting-table-update/texture_before.png" | relative_url }}">
-
-after:  
-<img class="article-photo" src="{{ "/assets/img/news/20181006-ht-crafting-table-update/texture_after.png" | relative_url }}">
-
-# 介面
-
-星系瀏覽介面中新增排序按鈕，但功能尚未完成  
-不能點的按鈕現在用灰色表示
-
 # 高科技合成台
 
 進階的合成台，主要用來合成更進階的工具、武器...和更多!  
@@ -42,6 +25,23 @@ after:
 目前僅有 `繁體中文` `English`  
 如果可以，請協助我們完成翻譯!
 
+# 資源包
+
+* 由隱風重新設計的按鈕圖示  
+* 增加更多按鈕圖示，讓每個按鈕都有自己的圖示  
+* 重製按鈕模型，使按鈕的圖示更清楚
+
+Before:  
+<img class="article-photo" src="{{ "/assets/img/news/20181006-ht-crafting-table-update/texture_before.png" | relative_url }}">
+
+After:  
+<img class="article-photo" src="{{ "/assets/img/news/20181006-ht-crafting-table-update/texture_after.png" | relative_url }}">
+
+# 介面
+
+* 星系瀏覽介面中新增排序按鈕，但功能尚未完成  
+* 不能點的按鈕現在用灰色表示
+
 # 其他
 
-為未來新增一些燒製的合成表
+* 為未來新增一些燒製的合成表
