@@ -6,6 +6,15 @@ layout: news
 subtitle: "更新資源包、多語言支援、高科技合成台"
 ---
 
+# 資源包
+
+* 由@infon_TW(隱風)重新設計的按鈕圖示  
+* 增加更多按鈕圖示，讓每個按鈕都有自己的圖示  
+* 重製按鈕模型，使按鈕的圖示更清楚
+
+前後對照圖:  
+<img class="article-photo" src="{{ "/assets/img/news/20181006-ht-crafting-table-update/texture_before.png" | relative_url }}"><img class="article-photo" src="{{ "/assets/img/news/20181006-ht-crafting-table-update/texture_after.png" | relative_url }}">
+
 # 高科技合成台
 
 進階的合成台，主要用來合成更進階的工具、武器...和更多!  
@@ -24,15 +33,6 @@ subtitle: "更新資源包、多語言支援、高科技合成台"
 伺服器內的文字會隨著你的遊戲語言一起變更  
 目前僅有 `繁體中文` `English`  
 如果可以，請協助我們完成翻譯!
-
-# 資源包
-
-* 由@infon_TW(隱風)重新設計的按鈕圖示  
-* 增加更多按鈕圖示，讓每個按鈕都有自己的圖示  
-* 重製按鈕模型，使按鈕的圖示更清楚
-
-前後對照圖:  
-<img class="article-photo" src="{{ "/assets/img/news/20181006-ht-crafting-table-update/texture_before.png" | relative_url }}"><img class="article-photo" src="{{ "/assets/img/news/20181006-ht-crafting-table-update/texture_after.png" | relative_url }}">
 
 # 介面
 
