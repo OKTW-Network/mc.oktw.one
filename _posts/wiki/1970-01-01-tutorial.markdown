@@ -20,7 +20,7 @@ layout: wiki
 # 如何加入星系
 
 在[星船]({{ "/wiki/words.html#星船" | relative_url }})中對桌上的[星船控制台]({{ "/wiki/words.html#星船控制台" | relative_url }})點右鍵  
-點選 **瀏覽所有星系**  
+按一下右上角的切換按鈕切換成**全部**  
 
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/list_all_galaxy.png" | relative_url }}">
 
@@ -41,7 +41,7 @@ layout: wiki
 # 如何進入星球
 
 在[星船]({{ "/wiki/words.html#星船" | relative_url }})中對桌上的[星船控制台]({{ "/wiki/words.html#星船控制台" | relative_url }})點右鍵  
-點選 **列出已加入星系** 或 **列出所有星系**  
+按一下右上角的切換按鈕切換成**全部**或**已加入**  
 
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/list_all_galaxy.png" | relative_url }}">
 
@@ -71,6 +71,6 @@ layout: wiki
 # 如何回星船
 
 在[星船]({{ "/wiki/words.html#星船" | relative_url }})上對[星球終端]({{ "/wiki/words.html#星球終端" | relative_url }})點右鍵  
-點選 **回到飛船**
+點選 **回到星船**
 
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/leave_planet.png" | relative_url }}">
