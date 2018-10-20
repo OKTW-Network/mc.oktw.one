@@ -3,6 +3,7 @@ title:  "2018/8/1 地獄更新"
 date:   2018-08-01 00:00:00 +0800
 categories: news
 layout: news
+subtitle: "地獄開放、星球與地獄、Chunk Loader"
 ---
 [炎熱星球]: {{ "/wiki/words.html#%E7%82%8E%E7%86%B1%E6%98%9F%E7%90%83" | relative_url }}
 [普通星球]: {{ "/wiki/words.html#普通星球" | relative_url }}
