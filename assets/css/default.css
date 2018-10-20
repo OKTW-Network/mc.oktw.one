@@ -130,6 +130,16 @@ hr {
   text-shadow: none !important;
 }
 
+ul {
+  list-style: none;
+}
+
+li:not(.nav-item):before{
+  content: '\2022';
+  padding: 10px;
+  text-shadow: 0px 2px 10px #000000;
+}
+
 h1,
 h2,
 h3,
@@ -138,7 +148,8 @@ h5,
 h6,
 p,
 a,
-li {
+li,
+.entry {
   text-shadow: 0px 2px 10px #000000;
 }
 
