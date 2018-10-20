@@ -14,6 +14,7 @@ subtitle: "更新資源包、多語言支援、高科技合成台"
 
 Before:  
 <img class="article-photo" src="{{ "/assets/img/news/20181006-ht-crafting-table-update/texture_before.png" | relative_url }}">  
+
 After:  
 <img class="article-photo" src="{{ "/assets/img/news/20181006-ht-crafting-table-update/texture_after.png" | relative_url }}">
 
