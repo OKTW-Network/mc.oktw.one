@@ -42,7 +42,7 @@ layout: wiki
 在[星船]({{ "/wiki/words.html#星船" | relative_url }})中對桌上的[星船控制台]({{ "/wiki/words.html#星船控制台" | relative_url }})點右鍵  
 按一下右上角的切換按鈕切換成**已加入**  
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/list_all_galaxy.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/joined_galaxy.png" | relative_url }}">
 
 點選你要管理的[星系]({{ "/wiki/words.html#星系" | relative_url }}) **必須是[擁有者]({{ "/wiki/words.html#擁有者" | relative_url }})或是[管理員]({{ "/wiki/words.html#管理員" | relative_url }})** 
 
