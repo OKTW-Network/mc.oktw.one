@@ -4,7 +4,7 @@ layout: default
 <div class="container">
     <div class="posts">
         {% for post in site.categories.news %}
-        <article class="post  mt-1 mb-1">
+        <article class="post  mt-2 mb-4">
 
              <h1><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h1>
 
@@ -12,7 +12,7 @@ layout: default
                 {{ post.subtitle }}
             </div>
 
-             <a href="{{ post.url | relative_url }}" class="btn btn-outline-primary mt-1">查看更多...</a>
+             <a href="{{ post.url | relative_url }}" class="btn btn-primary mt-1">查看更多...</a>
         </article>
         {% endfor %}
      </div>
