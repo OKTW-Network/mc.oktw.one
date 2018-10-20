@@ -19,8 +19,10 @@ After:
 
 # 介面
 
-* 重新設計星船控制台介面，改善其使用體驗
+* 重新設計星船控制台介面，改善其使用體驗  
 * 不能點的按鈕現在有新的按鈕表示
+
+<img class="article-photo" src="{{ "/assets/img/news/20181006-ht-crafting-table-update/new-galaxy-gui.png" | relative_url }}">
 
 # 高科技合成台
 
@@ -45,3 +47,4 @@ After:
 
 * 為未來新增一些燒製的合成表
 * 修正用詞，使其更符合主題
+* 統一按鈕字型
