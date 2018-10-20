@@ -27,7 +27,7 @@ After:
 
 # 高科技合成台
 
-進階的合成台，主要用來合成更進階的工具、武器...和更多!  
+進階的合成台，主要用來合成更進階的工具、武器...和更多！  
 詳細使用方式請至[高科技合成台]({{ "/custom_block/ht-crafting-table.html" | relative_url }})
 
 <img class="article-photo" src="{{ "/assets/img/news/20181006-ht-crafting-table-update/ht-crafting-table-overview.png" | relative_url }}">
@@ -42,7 +42,7 @@ After:
 
 伺服器內的文字會隨著你的遊戲語言一起變更  
 目前僅有 `繁體中文` `English`  
-如果可以，請協助我們完成翻譯!
+如果可以，請協助我們完成翻譯！
 
 # 其他
 
