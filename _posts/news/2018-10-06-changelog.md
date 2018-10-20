@@ -17,6 +17,11 @@ Before:
 After:  
 <img class="article-photo" src="{{ "/assets/img/news/20181006-ht-crafting-table-update/texture_after.png" | relative_url }}">
 
+# 介面
+
+* 重新設計星船控制台介面，改善其使用體驗
+* 不能點的按鈕現在有新的按鈕表示
+
 # 高科技合成台
 
 進階的合成台，主要用來合成更進階的工具、武器...和更多!  
@@ -35,11 +40,6 @@ After:
 伺服器內的文字會隨著你的遊戲語言一起變更  
 目前僅有 `繁體中文` `English`  
 如果可以，請協助我們完成翻譯!
-
-# 介面
-
-* 重新設計星船控制台介面，改善其使用體驗
-* 不能點的按鈕現在有新的按鈕表示
 
 # 其他
 
