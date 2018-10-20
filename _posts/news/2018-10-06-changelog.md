@@ -21,7 +21,7 @@ After:
 # 介面
 
 * 重新設計星船控制台介面，改善其使用體驗
-* 不能點的按鈕現在有新的按鈕表示
+* 新增不能點的按鈕
 
 <img class="article-photo" src="{{ "/assets/img/news/20181006-ht-crafting-table-update/new-galaxy-gui.png" | relative_url }}">
 
