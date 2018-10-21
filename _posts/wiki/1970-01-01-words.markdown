@@ -39,9 +39,9 @@ layout: wiki
 在星際中旅行的人，也就是玩家
 
 # 星船
-#### Star Ship
+#### Space Ship
 
-![]({{ "/assets/img/wiki/words/starship.png" | relative_url }})
+![]({{ "/assets/img/wiki/words/spaceship.png" | relative_url }})
 
 伺服器入口  
 有一個控制面板讓玩家可以創造或選擇星系
@@ -64,7 +64,7 @@ layout: wiki
 提升等級可擴大範圍及附加效果
 
 # 星船控制台
-#### Star Ship Controller
+#### Space Ship Controller
 
 ![]({{ "/assets/img/wiki/words/galaxy_controller.png" | relative_url }})
 
