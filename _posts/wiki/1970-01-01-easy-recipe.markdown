@@ -33,8 +33,7 @@ layout: wiki
 
 # 木棒
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/log_stick.png" | relative_url }}">  
-> 無序合成
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/log_stick.png" | relative_url }}"> 
 > 所有木頭種類都可以合成
 
 # 漏斗
@@ -68,7 +67,8 @@ layout: wiki
 
 # 書和羽毛筆
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/writable_book_made_with_uncrafted_book.png" | relative_url }}">
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/writable_book_made_with_uncrafted_book.png" | relative_url }}"> 
+> 無序合成
 
 # 紅石燈
 
@@ -101,7 +101,8 @@ layout: wiki
 # 玻璃片合成回磚
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/glass_pane_to_block.png" | relative_url }}">  
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/stained_glass_pane_to_block.png" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/stained_glass_pane_to_block.png" | relative_url }}">   
+> 無序合成
 > 所有玻璃顏色都可以合成
 
 # 紅石中繼器
