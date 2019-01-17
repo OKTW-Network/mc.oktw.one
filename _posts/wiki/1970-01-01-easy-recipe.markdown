@@ -67,6 +67,7 @@ layout: wiki
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/chest_minecart.png" | relative_url }}">  
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/tnt_minecart.png" | relative_url }}">  
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/hopper_minecart.png" | relative_url }}">
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/furnace_minecart.png" | relative_url }}">
 
 # 玻璃
 
