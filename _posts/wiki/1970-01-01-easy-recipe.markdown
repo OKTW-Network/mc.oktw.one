@@ -64,7 +64,7 @@ layout: wiki
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/carrot_on_a_stick.png" | relative_url }}">
 
-#發射器
+# 發射器
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/dispenser.png" | relative_url }}">  
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/dispenser_unfinished_bow.png" | relative_url }}">  
