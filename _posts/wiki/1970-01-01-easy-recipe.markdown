@@ -33,7 +33,7 @@ layout: wiki
 
 # 木棒
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/log_stick.png" | relative_url }}"> 
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/log_stick.png" | relative_url }}">  
 > 所有木頭種類都可以合成
 
 # 漏斗
