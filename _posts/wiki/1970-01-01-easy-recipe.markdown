@@ -14,6 +14,7 @@ layout: wiki
 - [梯子](#梯子)
 - [半磚](#半磚)
 - [胡蘿蔔釣竿](#胡蘿蔔釣竿)
+- [發射器](#發射器)
 - [礦車](#礦車)
 - [玻璃](#玻璃)
 - [玻璃片](#玻璃片)
@@ -62,6 +63,11 @@ layout: wiki
 # 胡蘿蔔釣竿
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/carrot_on_a_stick.png" | relative_url }}">
+
+#發射器
+
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/dispenser.png" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/dispenser_unfinished_bow.png" | relative_url }}">  
 
 # 礦車
 
