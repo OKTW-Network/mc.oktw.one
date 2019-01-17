@@ -50,7 +50,7 @@ layout: wiki
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/log_slab.png" | relative_url }}">  
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/wooden_slab_to_block.png" | relative_url }}">  
-> 所有木頭種類都可以合成
+> 所有木頭種類都可以合成  
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/cobblestone_slab_to_block.png" | relative_url }}">  
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/stone_slab_to_stone.png" | relative_url }}">  
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/stone_brick_slab_to_block.png" | relative_url }}">  
@@ -83,7 +83,7 @@ layout: wiki
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/chest_minecart.png" | relative_url }}">  
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/tnt_minecart.png" | relative_url }}">  
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/hopper_minecart.png" | relative_url }}">
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/hopper_minecart.png" | relative_url }}">  
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/furnace_minecart.png" | relative_url }}">
 
 # 玻璃
