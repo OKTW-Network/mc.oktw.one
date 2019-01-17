@@ -47,7 +47,6 @@ layout: wiki
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/log_slab.png" | relative_url }}">  
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/wooden_slab_to_block.png" | relative_url }}">  
-> 無序合成
 > 所有木頭種類都可以合成
 
 # 胡蘿蔔釣竿
