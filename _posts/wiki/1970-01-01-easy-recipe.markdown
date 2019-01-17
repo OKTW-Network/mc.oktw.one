@@ -14,6 +14,7 @@ layout: wiki
 - [梯子](#梯子)
 - [半磚](#半磚)
 - [胡蘿蔔釣竿](#胡蘿蔔釣竿)
+- [紅石燈](#紅石燈)
 - [發射器](#發射器)
 - [礦車](#礦車)
 - [玻璃](#玻璃)
@@ -63,6 +64,10 @@ layout: wiki
 # 胡蘿蔔釣竿
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/carrot_on_a_stick.png" | relative_url }}">
+
+# 紅石燈
+
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/redstone_lamp_dust.png" | relative_url }}">
 
 # 發射器
 
