@@ -17,6 +17,7 @@ layout: wiki
 - [礦車](#礦車)
 - [玻璃](#玻璃)
 - [玻璃片](#玻璃片)
+- [玻璃片合成回磚](#玻璃片合成回磚)
 - [紅石中繼器](#紅石中繼器)
 - [陷阱箱](#陷阱箱)
 
@@ -79,6 +80,12 @@ layout: wiki
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/color_glass_pane.png" | relative_url }}">  
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/clear_color_glass_pane.png" | relative_url }}">  
+> 所有玻璃顏色都可以合成
+
+# 玻璃片合成回磚
+
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/glass_pane_to_block.png" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/stained_glass_pane_to_block.png" | relative_url }}">  
 > 所有玻璃顏色都可以合成
 
 # 紅石中繼器
