@@ -14,6 +14,7 @@ layout: wiki
 - [梯子](#梯子)
 - [半磚](#半磚)
 - [胡蘿蔔釣竿](#胡蘿蔔釣竿)
+- [書和羽毛筆](#書和羽毛筆)
 - [紅石燈](#紅石燈)
 - [發射器](#發射器)
 - [礦車](#礦車)
@@ -64,6 +65,10 @@ layout: wiki
 # 胡蘿蔔釣竿
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/carrot_on_a_stick.png" | relative_url }}">
+
+# 書和羽毛筆
+
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/writable_book_made_with_uncrafted_book.png" | relative_url }}">
 
 # 紅石燈
 
