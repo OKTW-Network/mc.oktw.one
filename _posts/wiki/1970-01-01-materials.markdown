@@ -16,7 +16,7 @@ layout: wiki
             <div class="col-sm-3">
                 <a href="{{ wiki.url | relative_url }}" class="wiki-a">
                     <div class="card text-center wiki-item">
-                        <img class="card-img-top" src="{{ "/assets/img/wiki/materials_icons/" | relative_url  }}{{ wiki.icon }}">
+                        <img class="card-img-top" src="{{ "/assets/img/wiki/material_icons/" | relative_url  }}{{ wiki.icon }}">
                         <div class="card-body">
                             <h5 class="card-title no-shadow">{{ wiki.title }}</h5>
                             <p class="card-text no-shadow">{{ wiki.description }}</p>
