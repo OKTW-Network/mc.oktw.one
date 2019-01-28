@@ -4,7 +4,7 @@ title:  "冷卻元件"
 icon: "cooling_element.png"
 description: ""
 date:  1970-01-01 00:00:00 +0000
-categories: custom_blocks
+categories: materials
 layout: wiki
 ---
 

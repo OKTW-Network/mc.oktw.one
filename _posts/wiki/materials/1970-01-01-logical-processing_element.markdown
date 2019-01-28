@@ -4,7 +4,7 @@ title:  "邏輯處理元件"
 icon: "logical_processing_element.png"
 description: ""
 date:  1970-01-01 00:00:00 +0000
-categories: custom_blocks
+categories: materials
 layout: wiki
 ---
 
