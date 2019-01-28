@@ -19,6 +19,7 @@ layout: wiki
 使用的高科技合成台合成
 
 所需材料：
+
 - 黏土 x 8  
 - 黑曜石 x 8  
 - [星塵]({{ "wiki/star-dust.html" | relative_url }}) x 20  

@@ -25,6 +25,7 @@ layout: wiki
 普通的傳送站，可傳送到該星球內的其他傳送器
 
 所需材料：
+
 - [電梯]({{ "/custom_block/elevator.html" | relative_url }}) x 1  
 - [邏輯處理元件]({{ "/materials/logical_processing_element.html" | relative_url }}) x 1  
 - [冷卻元件]({{ "/materials/cooling_element.html" | relative_url }}) x 1  
@@ -40,6 +41,7 @@ layout: wiki
 高級的傳送站，可跨星球傳送到星系內的其他傳送器
 
 所需材料：
+
 - [傳送站](#傳送站) x 2  
 - [邏輯處理元件]({{ "/materials/logical_processing_element.html" | relative_url }}) x 1  
 - [冷卻元件]({{ "/materials/cooling_element.html" | relative_url }}) x 1  
@@ -56,6 +58,7 @@ layout: wiki
 可擴大傳送站的範圍
 
 所需材料：
+
 - 鐵錠 x 6  
 - 金錠 x 4  
 - 玻璃 x 1  
