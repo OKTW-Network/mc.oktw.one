@@ -19,6 +19,7 @@ layout: wiki
 - 紅石 x 20  
 - 金錠 x 8  
 - 地域石英 x 4  
+- [強化陶板]({{ "/materials/ceramic-plate.html" | relative_url }}) x 1  
 - [星塵]({{ "wiki/star-dust.html" | relative_url }}) x 45  
 
 ### 用途

@@ -27,8 +27,8 @@ layout: wiki
 所需材料：
 
 - [電梯]({{ "/custom_block/elevator.html" | relative_url }}) x 1  
-- [邏輯處理元件]({{ "/materials/logical_processing_element.html" | relative_url }}) x 1  
-- [冷卻元件]({{ "/materials/cooling_element.html" | relative_url }}) x 1  
+- [邏輯處理元件]({{ "/materials/logical-processing-element.html" | relative_url }}) x 1  
+- [冷卻元件]({{ "/materials/cooling-element.html" | relative_url }}) x 1  
 - 金錠 x 8  
 - 鐵錠 x 12  
 - 黑曜石 x 6  
@@ -62,6 +62,7 @@ layout: wiki
 - 鐵錠 x 6  
 - 金錠 x 4  
 - 玻璃 x 1  
+- [星塵]({{ "wiki/star-dust.html" | relative_url }}) x 5  
 
 ### 介面
 
