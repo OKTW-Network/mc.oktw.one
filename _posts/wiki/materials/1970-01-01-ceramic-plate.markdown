@@ -1,5 +1,5 @@
 ---
-order : 2
+order : 1
 title:  "強化陶板"
 icon: "ceramic_plate.png"
 description: ""
