@@ -117,5 +117,5 @@ __請注意，每個核心最多只能連接64個傳送框架!__
 另外，被傳送者必須整個傳送過程都站在傳送站結構上，若被傳送者離開結構，將會取消該實體的傳送資格
 
 最後，如果想要更好的識別每個傳送站，你可以使用命名牌命名傳送站:  
- <iframe src="https://streamable.com/s/78e4k/rnwfzu?autoplay=1&muted=1" width="907" height="480" frameborder="0" allowfullscreen></iframe>
+<div class="article-photo"><iframe src="https://streamable.com/s/78e4k/jtyolf?autoplay=1&muted=1" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
