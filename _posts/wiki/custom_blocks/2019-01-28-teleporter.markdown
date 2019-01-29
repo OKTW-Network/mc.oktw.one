@@ -8,12 +8,11 @@ categories: custom_blocks
 layout: wiki
 ---
 
-[電梯]: {{ "/custom_block/elevator.html" | relative_url }}
+[電梯]: {{ "/custom_blocks/elevator.html" | relative_url }}
 [傳送站]: #傳送站
 [邏輯處理元件]: {{ "/materials/logical-processing-element.html" | relative_url }}
 [冷卻元件]: {{ "/materials/cooling-element.html" | relative_url }}
 [星塵]: {{ "wiki/star-dust.html" | relative_url }}
-
 
 ![]({{ "/assets/img/wiki/teleporter/overview.webp" | relative_url }})
 
@@ -51,7 +50,7 @@ layout: wiki
 
 使用高科技合成台合成:  
 
-- [傳送站](#傳送站) x 2  
+- [傳送站][] x 2  
 - [邏輯處理元件][] x 1  
 - [冷卻元件][] x 1  
 - 金錠 x 12  
@@ -73,7 +72,7 @@ layout: wiki
 - 鐵錠 x 6  
 - 金錠 x 4  
 - 玻璃 x 1  
-- [星塵]({{ "wiki/star-dust.html" | relative_url }}) x 5  
+- [星塵][] x 5  
 
 ### 結構
 
