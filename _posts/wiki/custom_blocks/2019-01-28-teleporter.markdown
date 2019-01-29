@@ -92,16 +92,14 @@ __請注意，每個核心最多只能連接64個傳送框架!__
 
 對方塊按右鍵，或在方塊上方蹲下，都可以打開傳送站介面
 
-介面上方的標題列會顯示該傳送站的名稱:  
+介面上方的標題列會顯示該傳送站的名稱，底下是可傳送之傳送站列表，
+依照圖示可區分要傳送的傳送站位於哪一種星球類型:  
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/interface.png" | relative_url }}">
-
-底下是可傳送之傳送站列表，依照圖示可區分要傳送的傳送站位於哪一種星球類型:  
-<img class="article-photo" src="{{ "/assets/img/wiki/teleporter/interface_select.png" | relative_url }}">
 
 ### 使用
 
 開啟介面，點選目標的傳送站，待倒數完畢之後便會傳送:  
-<img class="article-photo" src="{{ "/assets/img/wiki/teleporter/select_dest.webp" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/img/wiki/teleporter/interface_select.png" | relative_url }}">
 
 需要注意的是，被傳送的實體 __必須站在傳送站結構上__  
 
