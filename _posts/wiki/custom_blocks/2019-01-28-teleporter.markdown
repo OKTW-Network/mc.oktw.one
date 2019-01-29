@@ -15,7 +15,7 @@ layout: wiki
 [星塵]: {{ "wiki/star-dust.html" | relative_url }}
 
 
-![]({{ "/assets/img/wiki/teleporter/overview.png" | relative_url }})
+![]({{ "/assets/img/wiki/teleporter/overview.webp" | relative_url }})
 
 ### 簡介
 
@@ -23,7 +23,7 @@ layout: wiki
 
 #### 傳送站
 
-<img class="article-photo" src="{{ "/assets/img/wiki/teleporter/teleporter.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/img/wiki/teleporter/teleporter.webp" | relative_url }}">
 
 可傳送到該星球內的其他傳送站
 
@@ -41,7 +41,7 @@ layout: wiki
 
 #### 高級傳送站
 
-<img class="article-photo" src="{{ "/assets/img/wiki/teleporter/advanced_teleporter.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/img/wiki/teleporter/advanced_teleporter.webp" | relative_url }}">
 
 可跨星球傳送到星系內的其他傳送站
 
@@ -60,7 +60,7 @@ layout: wiki
 
 #### 傳送框架
 
-<img class="article-photo" src="{{ "/assets/img/wiki/teleporter/frame.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/img/wiki/teleporter/frame.webp" | relative_url }}">
 
 擴大傳送站範圍的結構
 
@@ -76,14 +76,15 @@ layout: wiki
 ### 結構
 
 傳送站的構成，必須至少要有一個核心:  
-<img class="article-photo" src="{{ "/assets/img/wiki/teleporter/single_structure.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/img/wiki/teleporter/structure_single.webp" | relative_url }}">
 
 也可以再額外連接傳送框架，擴大結構:  
-<img class="article-photo" src="{{ "/assets/img/wiki/teleporter/multi_structure_1.png" | relative_url }}">  
-<img class="article-photo" src="{{ "/assets/img/wiki/teleporter/multi_structure_2.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/img/wiki/teleporter/structure_multi_1.webp" | relative_url }}">
+
+<img class="article-photo" src="{{ "/assets/img/wiki/teleporter/structure_multi_2.webp" | relative_url }}">
 
 另外，傳送框架的擺放不限於平面:  
-<img class="article-photo" src="{{ "/assets/img/wiki/teleporter/structure_stereoscopic.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/img/wiki/teleporter/structure_stereoscopic.webp" | relative_url }}">
 
 __請注意，每個核心最多只能連接64個傳送框架!__
 
@@ -92,25 +93,27 @@ __請注意，每個核心最多只能連接64個傳送框架!__
 對方塊按右鍵，或在方塊上方蹲下，都可以打開傳送站介面
 
 介面上方的標題列會顯示該傳送站的名稱:  
-
+<img class="article-photo" src="{{ "/assets/img/wiki/teleporter/interface.png" | relative_url }}">
 
 底下是可傳送之傳送站列表，依照圖示可區分要傳送的傳送站位於哪一種星球類型:  
-<img class="article-photo" src="{{ "/assets/img/wiki/teleporter/interface.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/img/wiki/teleporter/interface_select.png" | relative_url }}">
 
 ### 使用
 
-開啟介面，點選目標的傳送站，待倒數完畢之後便會傳送:
-<img class="article-photo" src="{{ "/assets/img/wiki/teleporter/select_dest.png" | relative_url }}">
+開啟介面，點選目標的傳送站，待倒數完畢之後便會傳送:  
+<img class="article-photo" src="{{ "/assets/img/wiki/teleporter/select_dest.webp" | relative_url }}">
 
-需要注意的是，被傳送的實體__必須站在傳送站結構上__  
+需要注意的是，被傳送的實體 __必須站在傳送站結構上__  
 
 正確:  
-<img class="article-photo" src="{{ "/assets/img/wiki/teleporter/stand_O_1.png" | relative_url }}">  
-<img class="article-photo" src="{{ "/assets/img/wiki/teleporter/stand_O_2.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/img/wiki/teleporter/stand_O_1.webp" | relative_url }}">
 
-錯誤:
-<img class="article-photo" src="{{ "/assets/img/wiki/teleporter/stand_X_1.png" | relative_url }}">  
-<img class="article-photo" src="{{ "/assets/img/wiki/teleporter/stand_X_2.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/img/wiki/teleporter/stand_O_2.webp" | relative_url }}">
+
+錯誤:  
+<img class="article-photo" src="{{ "/assets/img/wiki/teleporter/stand_X_1.webp" | relative_url }}">
+
+<img class="article-photo" src="{{ "/assets/img/wiki/teleporter/stand_X_2.webp" | relative_url }}">
 
 另外，被傳送者必須整個傳送過程都站在傳送站結構上，若被傳送者離開結構，將會取消該實體的傳送資格
 
