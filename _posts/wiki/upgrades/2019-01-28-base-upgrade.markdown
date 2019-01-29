@@ -8,7 +8,7 @@ categories: upgrades
 layout: wiki
 ---
 
-![]({{ "/assets/img/wiki/base_upgrade/overview.png" | relative_url }})
+![]({{ "/assets/img/wiki/base_upgrade/overview.webp" | relative_url }})
 
 ### 合成
 

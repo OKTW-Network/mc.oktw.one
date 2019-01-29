@@ -8,13 +8,13 @@ categories: materials
 layout: wiki
 ---
 
-![]({{ "/assets/img/wiki/ceramic_plate/creamic_plate.png" | relative_url }})
+![]({{ "/assets/img/wiki/ceramic_plate/creamic_plate.webp" | relative_url }})
 
 ### 合成
 
 #### 未成形的強化陶板
 
-<img class="article-photo" src="{{ "/assets/img/wiki/ceramic_plate/unformed_ceramic_plate.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/img/wiki/ceramic_plate/unformed_ceramic_plate.webp" | relative_url }}">
 
 使用的高科技合成台合成
 
@@ -26,11 +26,11 @@ layout: wiki
 
 #### 強化陶板
 
-<img class="article-photo" src="{{ "/assets/img/wiki/ceramic_plate/creamic_plate.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/img/wiki/ceramic_plate/creamic_plate.webp" | relative_url }}">
 
 將[未成形的強化陶板](#未成形的強化陶板)拿到熔爐中燒
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/ceramic_plate/recipe.png" | relative_url }}">
+<img class="recipe-photo" src="{{ "/assets/img/wiki/ceramic_plate/recipe.webp" | relative_url }}">
 
 ### 用途
 

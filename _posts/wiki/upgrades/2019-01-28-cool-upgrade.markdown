@@ -8,7 +8,7 @@ categories: upgrades
 layout: wiki
 ---
 
-![]({{ "/assets/img/wiki/cooling_upgrade/overview.png" | relative_url }})
+![]({{ "/assets/img/wiki/cooling_upgrade/overview.webp" | relative_url }})
 
 ### 合成
 

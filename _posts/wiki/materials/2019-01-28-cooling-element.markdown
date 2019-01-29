@@ -8,7 +8,7 @@ categories: materials
 layout: wiki
 ---
 
-![]({{ "/assets/img/wiki/cooling_element/overview.png" | relative_url }})
+![]({{ "/assets/img/wiki/cooling_element/overview.webp" | relative_url }})
 
 ### 合成
 
