@@ -18,14 +18,16 @@ layout: wiki
 ![]({{ "/assets/img/wiki/teleporter/overview.webp" | relative_url }})
 
 <div style="display:inline-block; padding:7px; padding:auto; color:black; background-color:white; border:2px black solid;">
-- [簡介](#簡介)
-- [結構部件](#結構部件)
-    - [傳送站](#傳送站)
-    - [高級傳送站](#高級傳送站)
-    - [傳送框架](#傳送框架)
-- [結構](#結構)
-- [介面](#介面)
+
+- [簡介](#簡介)  
+- [結構部件](#結構部件)  
+    - [傳送站](#傳送站)  
+    - [高級傳送站](#高級傳送站)  
+    - [傳送框架](#傳送框架)  
+- [結構](#結構)  
+- [介面](#介面)  
 - [使用](#使用)
+
 </div>
 
 ### 簡介
