@@ -19,7 +19,7 @@ layout: wiki
 
 傳送站是一種傳送結構，可多點傳送
 
-<div style="display:inline-block; padding:7px; padding:auto; color:black; background-color:white; border:2px black solid;">
+<div style="display:inline-block; padding:0px 18px 0px 0px; padding:auto;  background-color:#F0F0F0; border:2px #2D2D2D solid; border-radius:5px;">
 <ul>
     <li><a herf="#結構部件">結構部件</a></li>
     <ul>
@@ -32,6 +32,8 @@ layout: wiki
     <li><a herf="#使用">使用</a></li>
 </ul>
 </div>
+
+---
 
 ### 結構部件
 
