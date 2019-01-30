@@ -17,6 +17,17 @@ layout: wiki
 
 ![]({{ "/assets/img/wiki/teleporter/overview.webp" | relative_url }})
 
+<div style="display:inline-block; padding:7px; padding:auto; color:black; background-color:white; border:2px black solid;">
+- [簡介](#簡介)
+- [結構部件](#結構部件)
+    - [傳送站](#傳送站)
+    - [高級傳送站](#高級傳送站)
+    - [傳送框架](#傳送框架)
+- [結構](#結構)
+- [介面](#介面)
+- [使用](#使用)
+</div>
+
 ### 簡介
 
 多點傳送結構
@@ -31,7 +42,7 @@ layout: wiki
 
 ##### 合成
 
-使用高科技合成台合成:
+使用高科技合成台合成：
 
 - [電梯][] x 1  
 - [邏輯處理元件][] x 1  
@@ -49,7 +60,7 @@ layout: wiki
 
 ##### 合成
 
-使用高科技合成台合成:  
+使用高科技合成台合成：
 
 - [傳送站][] x 2  
 - [邏輯處理元件][] x 1  
@@ -77,15 +88,15 @@ layout: wiki
 
 ### 結構
 
-傳送站的構成，必須至少要有一個核心:  
+傳送站的構成，必須至少要有一個核心：  
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/structure_single.webp" | relative_url }}">
 
-也可以再額外連接傳送框架，擴大結構:  
+也可以再額外連接傳送框架，擴大結構：  
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/structure_multi_1.webp" | relative_url }}">
 
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/structure_multi_2.webp" | relative_url }}">
 
-另外，傳送框架的擺放不限於平面:  
+另外，傳送框架的擺放不限於平面：  
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/structure_stereoscopic.webp" | relative_url }}">
 
 __請注意，每個核心最多只能連接64個傳送框架!__
@@ -100,17 +111,17 @@ __請注意，每個核心最多只能連接64個傳送框架!__
 
 ### 使用
 
-開啟介面，點選目標的傳送站，待倒數完畢之後便會傳送:  
+開啟介面，點選目標的傳送站，待倒數完畢之後便會傳送：  
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/interface_select.png" | relative_url }}">
 
 需要注意的是，被傳送的實體 __必須站在傳送站結構上__  
 
-正確:  
+正確：  
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/stand_O_1.webp" | relative_url }}">
 
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/stand_O_2.webp" | relative_url }}">
 
-錯誤:  
+錯誤：  
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/stand_X_1.webp" | relative_url }}">
 
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/stand_X_2.webp" | relative_url }}">
