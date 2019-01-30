@@ -18,8 +18,8 @@ layout: wiki
 
 傳送站是一種多點傳送結構，可以傳送任何實體。
 
-<div style="display:inline-block; padding:4px 4px 0px 0px; padding:auto;  background-color:#d6d6d6; border:1px #2D2D2D solid; border-radius:5px; color:black;">
-<ul style="padding:4px;margin:0px 0px 4px">
+<div style="display:inline-block; padding:4px 4px 4px 4px; padding:auto;  background-color:#d6d6d6; border:1px #2D2D2D solid; border-radius:5px; color:black;">
+<ul style="padding:0px;margin:0px">
     <li><a href="#結構部件" style="color:#2a6cd6;">結構部件</a></li>
     <ul>
         <li><a href="#傳送站" style="color:#2a6cd6;">傳送站</a></li>
@@ -35,8 +35,13 @@ layout: wiki
 ---
 
 <a name="結構部件"></a>
+
 ### 結構部件
+
+傳送站結構的所有部件
+
 <a name="傳送站"></a>
+
 #### 傳送站
 
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/teleporter.webp" | relative_url }}">
@@ -54,7 +59,9 @@ layout: wiki
 - 鐵錠 x 12  
 - 黑曜石 x 6  
 - [星塵][] x 15  
+
 <a name="高級傳送站"></a>
+
 #### 高級傳送站
 
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/advanced_teleporter.webp" | relative_url }}">
@@ -73,7 +80,9 @@ layout: wiki
 - 黑曜石 x 8  
 - 鑽石 x2  
 - [星塵][] x 25  
+
 <a name="傳送框架"></a>
+
 #### 傳送框架
 
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/frame.webp" | relative_url }}">
@@ -88,7 +97,9 @@ layout: wiki
 - 金錠 x 4  
 - 玻璃 x 1  
 - [星塵][] x 5
+<hr>
 <a name="結構"></a>
+
 ### 結構
 
 傳送站的構成，必須至少要有一個核心：  
@@ -103,15 +114,19 @@ layout: wiki
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/structure_stereoscopic.webp" | relative_url }}">
 
 __請注意，每個核心最多只能連接64個傳送框架!__
+<hr>
 <a name="介面"></a>
-<h3>介面</h3>
+
+### 介面
 
 對方塊按右鍵，或在方塊上方蹲下，都可以打開傳送站介面
 
 介面上方的標題列會顯示該傳送站的名稱，底下是可傳送之傳送站列表，  
 依照圖示可區分要傳送的傳送站位於哪一種星球類型:  
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/interface.png" | relative_url }}">
+<hr>
 <a name="使用"></a>
+
 ### 使用
 
 開啟介面，點選目標的傳送站，待倒數完畢之後便會傳送：  
