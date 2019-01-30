@@ -17,22 +17,21 @@ layout: wiki
 
 ![]({{ "/assets/img/wiki/teleporter/overview.webp" | relative_url }})
 
+傳送站是一種傳送結構，可多點傳送
+
 <div style="display:inline-block; padding:7px; padding:auto; color:black; background-color:white; border:2px black solid;">
-
-- [簡介](#簡介)  
-- [結構部件](#結構部件)  
-    - [傳送站](#傳送站)  
-    - [高級傳送站](#高級傳送站)  
-    - [傳送框架](#傳送框架)  
-- [結構](#結構)  
-- [介面](#介面)  
-- [使用](#使用)
-
+<ul>
+    <li><a herf="#結構部件">結構部件</a></li>
+    <ul>
+        <li><a herf="#傳送站">傳送站</a></li>
+        <li><a herf="#高級傳送站">高級傳送站</a></li>
+        <li><a herf="#傳送框架">傳送框架</a></li>
+    </ul>
+    <li><a herf="#結構">結構</a></li>
+    <li><a herf="#介面">介面</a></li>
+    <li><a herf="#使用">使用</a></li>
+</ul>
 </div>
-
-### 簡介
-
-多點傳送結構
 
 ### 結構部件
 
