@@ -18,10 +18,10 @@ layout: wiki
 
 傳送站是一種多點傳送結構，可以傳送任何實體。
 
-<div style="display:inline-block; padding:4px 4px 4px 4px; padding:auto;  background-color:#d6d6d6; border:1px #2D2D2D solid; border-radius:5px; color:black;">
+<div style="display:inline-block; padding:4px 6px 4px 4px; padding:auto;  background-color:#d6d6d6; border:1px #2D2D2D solid; border-radius:5px; color:black;">
 <ul style="padding:0px;margin:0px">
     <li><a href="#結構部件" style="color:#2a6cd6;">結構部件</a></li>
-    <ul>
+    <ul style="padding:0px 0px 0px 20px;margin:0px">
         <li><a href="#傳送站" style="color:#2a6cd6;">傳送站</a></li>
         <li><a href="#高級傳送站" style="color:#2a6cd6;">高級傳送站</a></li>
         <li><a href="#傳送框架" style="color:#2a6cd6;">傳送框架</a></li>
@@ -123,14 +123,14 @@ __請注意，每個核心最多只能連接64個傳送框架!__
 
 介面上方的標題列會顯示該傳送站的名稱，底下是可傳送之傳送站列表，  
 依照圖示可區分要傳送的傳送站位於哪一種星球類型:  
-<img class="article-photo" src="{{ "/assets/img/wiki/teleporter/interface.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/img/wiki/teleporter/interface.webp" | relative_url }}">
 <hr>
 <a name="使用"></a>
 
 ### 使用
 
 開啟介面，點選目標的傳送站，待倒數完畢之後便會傳送：  
-<img class="article-photo" src="{{ "/assets/img/wiki/teleporter/interface_select.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/img/wiki/teleporter/interface_select.webp" | relative_url }}">
 
 需要注意的是，被傳送的實體<b>必須站在傳送站結構上</b>
 
