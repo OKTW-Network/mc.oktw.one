@@ -166,6 +166,9 @@ code{
   .article-photo {
     width: 60%;
   }
+  .small-picture{
+	width: 20%;
+  }
   .subtitle {
     font-size: 1.9rem;
   }

@@ -22,7 +22,7 @@ layout: wiki
 
 ### 未成形的強化陶板
 
-<img style="width:150" src="{{ "/assets/img/wiki/material_icons/ceramic_plate.webp" | relative_url }}">
+<img class="small-picture" src="{{ "/assets/img/wiki/material_icons/ceramic_plate.webp" | relative_url }}">
 
 #### 合成
 
@@ -36,7 +36,7 @@ layout: wiki
 
 ### 強化陶板
 
-<img style="width:150" src="{{ "/assets/img/wiki/material_icons/unformed_ceramic_plate.webp" | relative_url }}">
+<img class="small-picture" src="{{ "/assets/img/wiki/material_icons/unformed_ceramic_plate.webp" | relative_url }}">
 
 #### 合成
 
