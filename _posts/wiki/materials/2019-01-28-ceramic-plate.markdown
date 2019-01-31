@@ -8,6 +8,8 @@ categories: materials
 layout: wiki
 ---
 
+_注: 強化陶板 是 未成形的強化陶板 的變種，故本文將兩者併為一頁_
+
 <div style="display:inline-block; padding:4px 8px 4px 0px; padding:auto;  background-color:#d6d6d6; border:1px #2D2D2D solid; border-radius:5px; color:black;">
 <ul style="padding:0px;margin:0px">
     <li><a href="#未成形的強化陶板" style="color:#2a6cd6;">未成形的強化陶板</a></li>
@@ -22,7 +24,7 @@ layout: wiki
 
 ### 未成形的強化陶板
 
-<img class="small-picture" src="{{ "/assets/img/wiki/material_icons/ceramic_plate.webp" | relative_url }}">
+<img class="small-picture" src="{{ "/assets/img/wiki/material_icons/unformed_ceramic_plate.webp" | relative_url }}">
 
 #### 合成
 
@@ -36,7 +38,7 @@ layout: wiki
 
 ### 強化陶板
 
-<img class="small-picture" src="{{ "/assets/img/wiki/material_icons/unformed_ceramic_plate.webp" | relative_url }}">
+<img class="small-picture" src="{{ "/assets/img/wiki/material_icons/ceramic_plate.webp" | relative_url }}">
 
 #### 合成
 
