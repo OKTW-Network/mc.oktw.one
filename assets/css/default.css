@@ -159,7 +159,7 @@ ul {
   list-style: none;
 }
 
-li:not(.nav-item):not(.article-content):before{
+li:not(.nav-item):not(.article-content li):before{
   content: '\2022';
   padding: 10px;
   text-shadow: 0px 2px 10px #000000;
