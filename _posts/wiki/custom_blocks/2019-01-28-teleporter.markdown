@@ -20,17 +20,17 @@ layout: wiki
 
 <div class="article-content">
 <ol class="article-content-ol">
-    <li><a href="#獲得方式" class"article-content-a">獲得方式</a></li>
-    <li><a href="#結構部件" class"article-content-a">結構部件</a>
+    <li><a href="#獲得方式" class="article-content-a">獲得方式</a></li>
+    <li><a href="#結構部件" class="article-content-a">結構部件</a>
         <ol class="article-content-ol">
-            <li><a href="#傳送站" class"article-content-a">傳送站</a></li>
-            <li><a href="#高級傳送站" class"article-content-a">高級傳送站</a></li>
-            <li><a href="#傳送框架" class"article-content-a">傳送框架</a></li>
+            <li><a href="#傳送站" class="article-content-a">傳送站</a></li>
+            <li><a href="#高級傳送站" class="article-content-a">高級傳送站</a></li>
+            <li><a href="#傳送框架" class="article-content-a">傳送框架</a></li>
         </ol>
     </li>
-    <li><a href="#結構" class"article-content-a">結構</a></li>
-    <li><a href="#介面" class"article-content-a">介面</a></li>
-    <li><a href="#使用" class"article-content-a">使用</a></li>
+    <li><a href="#結構" class="article-content-a">結構</a></li>
+    <li><a href="#介面" class="article-content-a">介面</a></li>
+    <li><a href="#使用" class="article-content-a">使用</a></li>
 </ol>
 </div>
 
