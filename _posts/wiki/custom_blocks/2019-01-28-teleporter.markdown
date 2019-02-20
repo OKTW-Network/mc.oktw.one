@@ -19,18 +19,18 @@ layout: wiki
 傳送站是一種多點傳送結構，可以傳送任何實體。
 
 <div class="article-content">
-<ol class="article-content-ol">
-    <li><a href="#獲得方式" class="article-content-a">獲得方式</a></li>
-    <li><a href="#結構部件" class="article-content-a">結構部件</a>
-        <ol class="article-content-ol">
-            <li><a href="#傳送站" class="article-content-a">傳送站</a></li>
-            <li><a href="#高級傳送站" class="article-content-a">高級傳送站</a></li>
-            <li><a href="#傳送框架" class="article-content-a">傳送框架</a></li>
+<ol>
+    <li><a href="#獲得方式">獲得方式</a></li>
+    <li><a href="#結構部件">結構部件</a>
+        <ol>
+            <li><a href="#傳送站">傳送站</a></li>
+            <li><a href="#高級傳送站">高級傳送站</a></li>
+            <li><a href="#傳送框架">傳送框架</a></li>
         </ol>
     </li>
-    <li><a href="#結構" class="article-content-a">結構</a></li>
-    <li><a href="#介面" class="article-content-a">介面</a></li>
-    <li><a href="#使用" class="article-content-a">使用</a></li>
+    <li class="nav-item"><a href="#結構">結構</a></li>
+    <li class="nav-item"><a href="#介面">介面</a></li>
+    <li class="nav-item"><a href="#使用">使用</a></li>
 </ol>
 </div>
 
