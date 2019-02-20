@@ -42,6 +42,7 @@ layout: wiki
 
 可由扳手 蹲下+右鍵 拆除
 
+
 #### 高科技合成台
 
 ##### 傳送站
@@ -52,7 +53,8 @@ layout: wiki
 - 金錠 x 8  
 - 鐵錠 x 12  
 - 黑曜石 x 6  
-- [星塵][] x 15  
+- [星塵][] x 15
+
 
 ##### 高級傳送站
 
@@ -63,7 +65,8 @@ layout: wiki
 - 鐵錠 x 16  
 - 黑曜石 x 8  
 - 鑽石 x2  
-- [星塵][] x 25  
+- [星塵][] x 25
+
 
 ##### 傳送框架
 
@@ -81,8 +84,7 @@ layout: wiki
 #### 傳送站
 
 傳送站結構核心  
-可傳送到該__星球__內的其他傳送站
-
+可傳送到該<b>星球</b>內的其他傳送站  
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/teleporter.webp" | relative_url }}">
 
 <a name="高級傳送站"></a>
@@ -90,16 +92,14 @@ layout: wiki
 #### 高級傳送站
 
 進階的傳送站結構核心  
-可傳送到該__星系__內的其他傳送站
-
+可傳送到該<b>星系</b>內的其他傳送站  
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/advanced_teleporter.webp" | relative_url }}">
 
 <a name="傳送框架"></a>
 
 #### 傳送框架
 
-用來擴大傳送站範圍
-
+用來擴大傳送站範圍  
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/frame.webp" | relative_url }}">
 <hr>
 <a name="結構"></a>
