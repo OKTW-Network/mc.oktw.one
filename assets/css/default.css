@@ -137,12 +137,14 @@ hr {
 }
 
 .article-content ul{
-  padding: 0px 0px 0px 10px !important;
+  padding: 0px 0px 0px 25px !important;
+  margin: 0px 0px 0px 0px !important;
   list-style: circle !important;
 }
 
 .article-content ol{
-  padding: 0px 0px 0px 10px !important;
+  padding: 0px 0px 0px 25px !important;
+  margin: 0px 0px 0px 0px !important;
   list-style: upper-roman !important;
 }
 
