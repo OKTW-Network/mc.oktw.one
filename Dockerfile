@@ -1,4 +1,4 @@
-FROM ruby:2.5-alpine
+FROM ruby:2.6-alpine
 
 RUN apk --no-cache add \
   zlib-dev \
@@ -12,9 +12,11 @@ RUN apk --no-cache add \
   libffi-dev \
   cmake
 
+RUN gem install bundler
 RUN mkdir /app
 WORKDIR /app
 COPY . /app
 
 RUN bundle install
 RUN bundle exec jekyll build --destination /public
+
