@@ -126,6 +126,31 @@ hr {
   color: #000000 !important;
 }
 
+.article-content{
+  display: table;
+  padding: 8px;
+  background-color: #e5e5e5;
+  border: 2px #a2a9b1 solid;
+  border-radius: 2px;
+  color: black;
+  text-shadow: none !important;
+}
+
+.article-content-ul{
+  padding-top: none 10px none none !important;
+  list-style: circle !important;
+}
+
+.article-content-ol{
+  padding-top: none 10px none none !important;
+  list-style: upper-roman !important;
+}
+
+.article-content-a{
+  text-shadow: none !important;
+  color: #0645ad !important;
+}
+
 .no-shadow{
   text-shadow: none !important;
 }
