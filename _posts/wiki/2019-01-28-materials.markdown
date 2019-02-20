@@ -1,9 +1,9 @@
 ---
-order : 23
-title:  "升級"
-icon: "fas fa-arrow-circle-up"
+order : 22
+title:  "材料"
+icon: "fas fa-flask"
 description: ""
-date:  1970-01-01 00:00:00 +0000
+date:  2019-01-28 00:00:00 +0000
 categories: wiki
 layout: wiki
 ---
@@ -11,12 +11,12 @@ layout: wiki
 <div class="container">
     <div class="wikiPages">
         <div class="row">
-            {% assign wiki_pages = site.categories.upgrades | sort: 'order' %}
+            {% assign wiki_pages = site.categories.materials | sort: 'order' %}
             {% for wiki in wiki_pages %}
             <div class="col-sm-3">
                 <a href="{{ wiki.url | relative_url }}" class="wiki-a">
                     <div class="card text-center wiki-item">
-                        <img class="card-img-top" src="{{ "/assets/img/wiki/upgrade_icons/" | relative_url  }}{{ wiki.icon }}">
+                        <img class="card-img-top" src="{{ "/assets/img/wiki/material_icons/" | relative_url  }}{{ wiki.icon }}">
                         <div class="card-body">
                             <h5 class="card-title no-shadow">{{ wiki.title }}</h5>
                             <p class="card-text no-shadow">{{ wiki.description }}</p>
