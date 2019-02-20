@@ -28,9 +28,9 @@ layout: wiki
             <li><a href="#傳送框架">傳送框架</a></li>
         </ol>
     </li>
-    <li class="nav-item"><a href="#結構">結構</a></li>
-    <li class="nav-item"><a href="#介面">介面</a></li>
-    <li class="nav-item"><a href="#使用">使用</a></li>
+    <li><a href="#結構">結構</a></li>
+    <li><a href="#介面">介面</a></li>
+    <li><a href="#使用">使用</a></li>
 </ol>
 </div>
 
