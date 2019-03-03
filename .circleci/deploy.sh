@@ -8,7 +8,7 @@ mv .circleci ./../
 rm -rf ./*
 mv ./../.git ./
 
-git checkout gh-pages --track origin/gh-pages
+git checkout gh-pages
 
 find . -maxdepth 1 ! -name '_site' ! -name '.git' ! -name '.gitignore' ! -name '.circleci' -exec rm -rf {} \;
 
