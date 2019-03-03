@@ -1,6 +1,15 @@
 global:
   language_name: "English"
 
+contact_us:
+  title: Contact us
+  github: Github
+  discord: Discord
+  youtube: Youtube
+  telegram: Telegram
+  facebook_page: Facebook Page
+  facebook_group: Facebook Group
+
 buttons:
   about: "About"
   status: "Status"
@@ -23,64 +32,64 @@ index:
 wiki:
   command:
     title: "Commands"
-    description: ""
+    description: " "
   easy-recipe:
     title: "More recipe"
-    description: ""
+    description: " "
   galaxy-manage-tutorial:
     title: "Galaxy management"
-    description: ""
+    description: " "
   introduction:
     title: "Introduction"
-    description: ""
+    description: " "
   star-dust:
     title: "Star dust"
-    description: ""
+    description: " "
   tutorial:
     title: "Tutorial"
-    description: ""
+    description: " "
   words:
     title: "Words"
-    description: ""
+    description: " "
   custom-blocks:
     title: "Functional block"
-    description: ""
+    description: " "
     chunkloader:
       title: "Chunk Loader"
-      description: ""
+      description: " "
     elevator:
       title: "Elevator"
-      description: ""
+      description: " "
     ht-crafting-table:
       title: "HT Crafting Table"
-      description: ""
+      description: " "
     teleporter:
       title: "Teleporter"
-      description: ""
+      description: " "
   materials:
     title: "Materials"
-    description: ""
+    description: " "
     ceramic-plate:
       title: "Ceramic Plate"
-      description: ""
+      description: " "
     cooling-element:
       title: "Cooling Element"
-      description: ""
+      description: " "
     logical-processing-element:
       title: "Logical Processing Element"
-      description: ""
+      description: " "
   tools:
     title: "Tools"
-    description: ""
+    description: " "
     wrench:
       title: "Wrench"
-      description: ""
+      description: " "
   upgrades:
     title: "Upgrades"
-    description: ""
+    description: " "
     base-upgrade:
       title: "Basic Upgrade"
-      description: ""
+      description: " "
     cool-upgrade:
       title: "Cool Upgrade"
-      description: ""
+      description: " "

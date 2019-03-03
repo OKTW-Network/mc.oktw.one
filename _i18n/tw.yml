@@ -1,6 +1,15 @@
 global:
   language_name: "繁體中文"
 
+contact_us:
+  title: 聯絡我們
+  github: Github
+  discord: Discord
+  youtube: Youtube
+  telegram: Telegram
+  facebook_page: Facebook Page
+  facebook_group: Facebook Group
+
 buttons:
   about: "About"
   status: "Status"
@@ -47,40 +56,40 @@ wiki:
     description: "擁有更多功能的方塊"
     chunkloader:
       title: "Chunk Loader"
-      description: ""
+      description: " "
     elevator:
       title: "電梯"
-      description: ""
+      description: " "
     ht-crafting-table:
       title: "高科技合成台"
-      description: ""
+      description: " "
     teleporter:
       title: "傳送站"
-      description: ""
+      description: " "
   materials:
     title: "材料"
-    description: ""
+    description: " "
     ceramic-plate:
       title: "強化陶板"
-      description: ""
+      description: " "
     cooling-element:
       title: "冷卻元件"
-      description: ""
+      description: " "
     logical-processing-element:
       title: "邏輯處理元件"
-      description: ""
+      description: " "
   tools:
     title: "工具"
     description: "更多不同的工具"
     wrench:
       title: "扳手"
-      description: ""
+      description: " "
   upgrades:
     title: "升級"
-    description: ""
+    description: " "
     base-upgrade:
       title: "基礎升級"
-      description: ""
+      description: " "
     cool-upgrade:
       title: "冷卻升級"
-      description: ""
+      description: " "
