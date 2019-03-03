@@ -1,16 +1,18 @@
 ---
-order : 21
-title:  "工具"
+order: 21
+title: wiki.tools.title
 icon: "fas fa-wrench"
-description: "更多不同的工具"
+description: wiki.tools.description
 categories: wiki
 layout: wiki
 ---
 
+{% tf _wikiPages/tools.html %}
+
 <div class="container">
     <div class="wikiPages">
         <div class="row">
-            {% assign wiki_pages = site.wikiPages | where:"categories","tools" | sort: 'order'  %}
+                {% assign wiki_pages = site.wikiPages | where:"categories","tools" | sort: 'order' %}
             {% for wiki in wiki_pages %}
             <div class="col-sm-3">
                 <a href="{{ wiki.url | relative_url }}" class="wiki-a">

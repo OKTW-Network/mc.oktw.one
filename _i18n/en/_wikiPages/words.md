@@ -1,12 +1,3 @@
----
-order : 2
-title:  "用語集"
-icon: "fas fa-clipboard-list"
-description: "不知道那些字詞在講什麼的話，這邊可以幫助你"
-categories: wiki
-layout: wiki
----
-
 # 索引
 
 - [旅行者](#旅行者)

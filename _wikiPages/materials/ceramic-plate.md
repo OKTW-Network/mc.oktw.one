@@ -3,7 +3,6 @@ order : 1
 title:  "強化陶板"
 icon: "ceramic_plate.webp"
 description: ""
-date:  2019-01-28 00:00:00 +0000
 categories: materials
 layout: wiki
 ---

@@ -6,6 +6,7 @@ baseurl: ""
 url: "https://mc.oktw.one" 
 
 languages: ["tw","en"]
+exclude_from_localizations: ["javascript", "images", "css"]
 
 github_username:  OKTW-Network
 repository: OKTW-Network/oktw-network.github.io

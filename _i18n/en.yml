@@ -1,0 +1,58 @@
+global:
+  language_name: "English"
+
+buttons:
+  about: "About"
+  status: "Status"
+  wiki: "Wiki"
+  news: "News"
+  read_more: "Read More.."
+
+index:
+  title:
+    - "OKTW"
+    - "Project Galaxy"
+  description: 
+    - "OKTW Network brings you"
+    - "The Original Vanilla Team Survival"
+    - "Join NOW and travel in the Galaxy!"
+  ip_address: "Server IP Address"
+  version: "Minecraft Version"
+  use_resourcepack: "Please Enable the Server ResourcePack."
+
+wiki:
+  command:
+    title:
+    description:
+  easy-recipe:
+    title:
+    description:
+  galaxy-manage:
+    title:
+    description:
+  introduction:
+    title:
+    description:
+  star-dust:
+    title:
+    description:
+  tutoial:
+    title:
+    description:
+  words:
+    title:
+    description:
+  custom-blocks:
+    title:
+    description:
+  materials:
+    title:
+    description:
+  tools:
+    title:
+    description:
+  upgrades:
+    title:
+    description:
+      
+  

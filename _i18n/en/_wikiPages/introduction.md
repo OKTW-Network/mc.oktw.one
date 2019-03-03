@@ -1,11 +1,3 @@
----
-order : 1
-title:  "簡介"
-icon: "fas fa-info-circle"
-description: "簡介 OKTW 星系計畫"
-categories: wiki
-layout: wiki
----
 
 - [背景故事](#背景故事)
 - [概念](#概念)

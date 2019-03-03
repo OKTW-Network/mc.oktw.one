@@ -1,12 +1,3 @@
----
-order : 3
-title:  "遊玩教學"
-icon: "fas fa-question-circle"
-description: "不知道怎麼玩嗎？這邊可以幫助你"
-categories: wiki
-layout: wiki
----
-
 # 請使用伺服器資源包
 
 - [如何加入星系](#如何加入星系)

@@ -3,7 +3,6 @@ order : 3
 title:  "冷卻元件"
 icon: "cooling_element.webp"
 description: ""
-date:  2019-01-28 00:00:00 +0000
 categories: materials
 layout: wiki
 ---
