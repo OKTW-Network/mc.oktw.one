@@ -1,0 +1,51 @@
+version: 2
+jobs:
+  deploy:
+
+    docker:
+       - image: circleci/ruby:2.6
+
+    steps:      
+      - checkout
+
+      - restore_cache:
+          keys:
+          - gems-{{ checksum "Gemfile.lock" }}
+          - gems-cache
+
+      - run:
+          name: Install / Update Bundle
+          command: gem install bundler || gem update bundler
+
+      - run:
+          name: Install dependencies
+          command: |
+            bundle install --jobs=4 --retry=3 --path vendor/bundle
+      - run:
+          name: File list
+          command: ls-alh || find .
+
+      - run:
+          name: Build Website
+          command: bundle exec jekyll build
+
+      - save_cache:
+          paths:
+            - ./vendor/bundle
+          key: gems-{{ checksum "Gemfile.lock" }}
+        
+      - deploy:
+          name: Deploy Release to GitHub
+          command: |
+            if [ $CIRCLE_BRANCH == 'master' ]; then
+              bash .circleci/deploy.sh
+            fi
+workflows:
+  version: 2
+  build:
+    jobs:
+      - deploy:
+          filters:
+            branches:
+              only:
+                - master
