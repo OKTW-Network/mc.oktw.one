@@ -1,12 +1,3 @@
----
-order : 1
-title:  "基礎升級"
-icon: "upgrade_base.webp"
-description: ""
-categories: upgrades
-layout: wiki
----
-
 <img class="small-picture" src="{{ "/assets/img/wiki/upgrade_icons/upgrade_base.webp" | relative_url }}">
 
 <div style="display:inline-block; padding:4px 8px 4px 0px; padding:auto;  background-color:#d6d6d6; border:1px #2D2D2D solid; border-radius:5px; color:black;">

@@ -1,12 +1,3 @@
----
-order : 2
-title:  "高科技合成台"
-icon: "ht-crafting-table.png"
-description: ""
-categories: custom_blocks
-layout: wiki
----
-
 ![]({{ "/assets/img/wiki/ht-ct/overview.png" | relative_url }})
 
 ### 簡介

@@ -22,37 +22,65 @@ index:
 
 wiki:
   command:
-    title:
-    description:
+    title: "指令"
+    description: "遊戲內可使用的指令"
   easy-recipe:
-    title:
-    description:
-  galaxy-manage:
-    title:
-    description:
+    title: "更多合成表"
+    description: "比原版更多的合成表"
+  galaxy-manage-tutorial:
+    title: "星系管理教學"
+    description: "在這裡可以找到關於星系管理的教學"
   introduction:
-    title:
-    description:
+    title: "簡介"
+    description: "簡介 OKTW 星系計畫"
   star-dust:
-    title:
-    description:
-  tutoial:
-    title:
-    description:
+    title: "星塵"
+    description: "與眾不同的經濟系統"
+  tutorial:
+    title: "遊玩教學"
+    description: "不知道怎麼玩嗎？這邊可以幫助你"
   words:
-    title:
-    description:
+    title: "用語集"
+    description: "不知道那些字詞在講什麼的話，這邊可以幫助你"
   custom-blocks:
-    title:
-    description:
+    title: "功能方塊"
+    description: "擁有更多功能的方塊"
+    chunkloader:
+      title: "Chunk Loader"
+      description: ""
+    elevator:
+      title: "電梯"
+      description: ""
+    ht-crafting-table:
+      title: "高科技合成台"
+      description: ""
+    teleporter:
+      title: "傳送站"
+      description: ""
   materials:
-    title:
-    description:
+    title: "材料"
+    description: ""
+    ceramic-plate:
+      title: "強化陶板"
+      description: ""
+    cooling-element:
+      title: "冷卻元件"
+      description: ""
+    logical-processing-element:
+      title: "邏輯處理元件"
+      description: ""
   tools:
-    title:
-    description:
+    title: "工具"
+    description: "更多不同的工具"
+    wrench:
+      title: "扳手"
+      description: ""
   upgrades:
-    title:
-    description:
-      
-  
+    title: "升級"
+    description: ""
+    base-upgrade:
+      title: "基礎升級"
+      description: ""
+    cool-upgrade:
+      title: "冷卻升級"
+      description: ""

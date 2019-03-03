@@ -1,12 +1,3 @@
----
-order : 1
-title:  "強化陶板"
-icon: "ceramic_plate.webp"
-description: ""
-categories: materials
-layout: wiki
----
-
 _注: 強化陶板 是 未成形的強化陶板 的變種，故本文將兩者併為一頁_
 
 <div style="display:inline-block; padding:4px 8px 4px 0px; padding:auto;  background-color:#d6d6d6; border:1px #2D2D2D solid; border-radius:5px; color:black;">

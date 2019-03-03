@@ -1,13 +1,3 @@
----
-order : 1
-title:  "扳手"
-icon: "wrench.png"
-description: ""
-date:  2018-09-02 00:00:00 +0000
-categories: tools
-layout: wiki
----
-
 ![]({{ "/assets/img/wiki/wrench/overview.png" | relative_url }})
 
 ### 合成

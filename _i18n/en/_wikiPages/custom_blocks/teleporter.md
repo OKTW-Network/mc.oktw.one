@@ -1,13 +1,3 @@
----
-order : 4
-title:  "傳送站"
-icon: "teleporter.gif"
-description: ""
-categories: custom_blocks
-layout: wiki
-published: false
----
-
 [電梯]: {{ "/custom_blocks/elevator.html" | relative_url }}
 [傳送站]: #傳送站
 [邏輯處理元件]: {{ "/materials/logical-processing-element.html" | relative_url }}

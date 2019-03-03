@@ -1,12 +1,3 @@
----
-order : 3
-title:  "Chunk Loader"
-icon: "chunkloader.png"
-description: ""
-categories: custom_blocks
-layout: wiki
----
-
 ![]({{ "/assets/img/wiki/chunkloader/overview.png" | relative_url }})  
 
 ### 說明

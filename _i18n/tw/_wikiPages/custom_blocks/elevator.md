@@ -1,12 +1,3 @@
----
-order : 1
-title:  "電梯"
-icon: "elevator.png"
-description: ""
-categories: custom_blocks
-layout: wiki
----
-
 ![]({{ "/assets/img/wiki/elevator/overview.png" | relative_url }})
 
 ### 合成
