@@ -3,7 +3,6 @@ git config user.email "circleci@oktw.network"
 
 mv _site ./../
 mv .git ./../
-mv .circleci ./../
 
 rm -rf ./*
 mv ./../.git ./
