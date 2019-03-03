@@ -12,11 +12,7 @@ layout: wiki
 <div class="container">
     <div class="wikiPages">
         <div class="row">
-<<<<<<< HEAD:_wikiPages/custom-blocks.html
-            {% assign wiki_pages = site.wikiPages | where:"categories","custom_block" | sort: 'order' %}
-=======
-            {% assign wiki_pages = site.categories.custom_blocks | sort: 'order' %}
->>>>>>> 899b13f261319eefe7d01ca76151067fa83979f2:_posts/wiki/2018-07-23-custom-blocks.markdown
+            {% assign wiki_pages = site.wikiPages | where:"categories","custom_blocks" | sort: 'order' %}
             {% for wiki in wiki_pages %}
             <div class="col-sm-3">
                 <a href="{{ wiki.url | relative_url }}" class="wiki-a">

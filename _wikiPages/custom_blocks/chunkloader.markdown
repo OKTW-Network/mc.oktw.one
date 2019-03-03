@@ -3,7 +3,7 @@ order : 3
 title:  "Chunk Loader"
 icon: "chunkloader.png"
 description: ""
-categories: custom_block
+categories: custom_blocks
 layout: wiki
 ---
 

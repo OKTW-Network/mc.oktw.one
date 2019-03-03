@@ -3,7 +3,7 @@ order : 1
 title:  "電梯"
 icon: "elevator.png"
 description: ""
-categories: custom_block
+categories: custom_blocks
 layout: wiki
 ---
 

@@ -3,7 +3,6 @@ order : 1
 title:  "基礎升級"
 icon: "upgrade_base.webp"
 description: ""
-date:  2019-01-28 00:00:00 +0000
 categories: upgrades
 layout: wiki
 ---
