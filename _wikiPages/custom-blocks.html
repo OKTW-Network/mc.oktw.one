@@ -12,7 +12,7 @@ layout: wiki
 <div class="container">
     <div class="wikiPages">
         <div class="row">
-                {% assign wiki_pages = site.wikiPages | where:"categories","custom_blocks" | sort: 'order' %}
+            {% assign wiki_pages = site.wikiPages | where:"categories","custom_blocks" | sort: 'order' %}
             {% for wiki in wiki_pages %}
             <div class="col-sm-3">
                 <a href="{{ wiki.url | relative_url }}" class="wiki-a">
