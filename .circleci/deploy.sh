@@ -9,11 +9,10 @@ mv ./../.git ./../_site ./
 
 git checkout gh-pages
 
-
-find . -maxdepth 1 ! -name '.git' ! -name '_site' ! -name '.circleci' ! -name 'CNAME' -exec rm -rf {} \;
+find . -maxdepth 1 ! -name '.git' ! -name '_site' -exec rm -rf {} \;
 
 mv _site/* ./
-mv ./../.circleci ./../CNAME ./
+cp ./../.circleci ./../CNAME ./ -rf
 
 rm ./_site -rf
 rm ./Dockerfile -rf
