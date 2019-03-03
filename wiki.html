@@ -1,23 +1,17 @@
 ---
-order : 23
-title:  "升級"
-icon: "fas fa-arrow-circle-up"
-description: ""
-date:  2019-01-28 00:00:00 +0000
-categories: wiki
-layout: wiki
-published: false
+layout: default
 ---
 
 <div class="container">
+    <h1>Wiki</h1>
     <div class="wikiPages">
         <div class="row">
-            {% assign wiki_pages = site.categories.upgrades | sort: 'order' %}
+            {% assign wiki_pages = site.wikiPages | where:"categories","wiki" | sort: 'order' %}
             {% for wiki in wiki_pages %}
             <div class="col-sm-3">
                 <a href="{{ wiki.url | relative_url }}" class="wiki-a">
                     <div class="card text-center wiki-item">
-                        <img class="card-img-top" src="{{ "/assets/img/wiki/upgrade_icons/" | relative_url  }}{{ wiki.icon }}">
+                        <i class="{{ wiki.icon }} fa-9x"></i>
                         <div class="card-body">
                             <h5 class="card-title no-shadow">{{ wiki.title }}</h5>
                             <p class="card-text no-shadow">{{ wiki.description }}</p>

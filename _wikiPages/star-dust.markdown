@@ -3,7 +3,6 @@ order : 19
 title:  "星塵"
 icon: "fas fa-dollar-sign"
 description: "與眾不同的經濟系統"
-date:  2018-08-04 00:00:00 +0000
 categories: wiki
 layout: wiki
 ---

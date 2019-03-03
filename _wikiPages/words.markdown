@@ -3,7 +3,6 @@ order : 2
 title:  "用語集"
 icon: "fas fa-clipboard-list"
 description: "不知道那些字詞在講什麼的話，這邊可以幫助你"
-date:  2018-07-24 00:00:00 +0000
 categories: wiki
 layout: wiki
 ---

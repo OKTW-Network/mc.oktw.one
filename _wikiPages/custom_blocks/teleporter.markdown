@@ -3,7 +3,6 @@ order : 4
 title:  "傳送站"
 icon: "teleporter.gif"
 description: ""
-date:  2019-01-28 00:00:00 +0000
 categories: custom_blocks
 layout: wiki
 published: false

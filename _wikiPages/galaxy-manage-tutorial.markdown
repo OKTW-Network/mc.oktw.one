@@ -3,7 +3,6 @@ order : 4
 title:  "星系管理教學"
 icon: "fas fa-user-cog"
 description: "在這裡可以找到關於星系管理的教學"
-date:  2018-08-04 00:00:00 +0000
 categories: wiki
 layout: wiki
 ---

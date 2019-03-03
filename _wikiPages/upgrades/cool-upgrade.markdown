@@ -3,7 +3,6 @@ order : 2
 title:  "冷卻升級"
 icon: "cooling_upgrade.webp"
 description: ""
-date:  2019-01-28 00:00:00 +0000
 categories: upgrades
 layout: wiki
 ---
