@@ -1,33 +1,68 @@
-![]({{ "/assets/img/wiki/ht-ct/overview.png" | relative_url }})
+[Wrench]: {{ "/wiki/wrench" | relative_url }}
 
-### 簡介
+![]({{ "/assets/img/wiki/ht-ct/overview.webp" | relative_url }})
 
-進階的合成台，主要用來合成插件物品
+An advanced crafting table, unlocks more item you don't know..
 
-### 合成
+<div class="article-content">
+<ol>
+    <li><a href="#obtain-ways">Obtain Ways</a></li>
+    <li><a href="#interface">Interface</a></li>
+    <li><a href="#usage">Usage</a></li>
+</ol>
+</div>
 
-使用合成台來合成(有序)
+---
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/ht-ct/recipe.png" | relative_url }}">
+## Obtain Ways
 
-### 介面
+Can be removed by pressing `Shift`+`Right Click` using [Wrench][].
 
-<img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/interface.png" | relative_url }}">
+#### Crafting Table
 
-上方為分類選單，下方則為能夠合成的物品。
+(Shaped Crafting)
 
-### 使用
+- Crafting Table x 1
+- Obsidian x 1
+- Diamond x 1
+- Iron Ingot x 2
+- Redstone x 2
+- Lapis x 2
 
-游標移到想要合成的物品上，會列出需要的材料。  
-點選要合成的物品可檢視合成的詳細資料  
-顯示綠色代表材料足夠，按下勾勾即可合成
+<img class="recipe-photo" src="{{ "/assets/img/wiki/ht-ct/recipe.webp" | relative_url }}">
 
-<img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/complete.png" | relative_url }}">
+<hr class="sub">
 
-<img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/success.png" | relative_url }}">
+#### HT Crafting Table
 
-而當缺少任一材料時，則會用紅色來提醒欠缺的材料
+- Crafting Table x 1
+- Obsidian x 1
+- Diamond x 1
+- Iron Ingot x 2
+- Redstone x 2
+- Lapis x 2
 
-<img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/lack.png" | relative_url }}">
+---
 
-<img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/failure.png" | relative_url }}">
+## Interface
+
+`Right Click` the device to open the interface.
+
+The top of the interface is category, and the bottom is the items that can be crafted:  
+<img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/interface.webp" | relative_url }}">
+
+Move the cursor on the item to preview the material and required quantity:  
+<img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/complete.webp" | relative_url }}">
+
+<img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/lack.webp" | relative_url }}">
+
+---
+
+## Usage
+
+Open the interface, click on the item you want to craft, and you will enter the crafting details page.
+If the material is enough, a green check button will be displayed. Click the green check button to get the composition:  
+<img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/success.webp" | relative_url }}">
+
+If the material is insufficient, the red cross button will be displayed. Click the red cross button to return to the main interface:  
+<img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/failure.webp" | relative_url }}">
