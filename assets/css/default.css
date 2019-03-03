@@ -126,6 +126,33 @@ hr {
   color: #000000 !important;
 }
 
+.article-content{
+  display: table;
+  padding: 8px;
+  background-color: #e5e5e5;
+  border: 2px #a2a9b1 solid;
+  border-radius: 2px;
+  color: black;
+  text-shadow: none !important;
+}
+
+.article-content ul{
+  padding: 0px 0px 0px 25px !important;
+  margin: 0px 0px 0px 0px !important;
+  list-style: circle !important;
+}
+
+.article-content ol{
+  padding: 0px 0px 0px 25px !important;
+  margin: 0px 0px 0px 0px !important;
+  list-style: decimal !important;
+}
+
+.article-content a{
+  text-shadow: none !important;
+  color: #0645ad !important;
+}
+
 .no-shadow{
   text-shadow: none !important;
 }
@@ -134,7 +161,7 @@ ul {
   list-style: none;
 }
 
-li:not(.nav-item):before{
+li:not(.nav-item):not(.article-content li):before{
   content: '\2022';
   padding: 10px;
   text-shadow: 0px 2px 10px #000000;
@@ -165,6 +192,9 @@ code{
   }
   .article-photo {
     width: 60%;
+  }
+  .small-picture{
+	width: 20%;
   }
   .subtitle {
     font-size: 1.9rem;
