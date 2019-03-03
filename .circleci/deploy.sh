@@ -1,20 +1,20 @@
 git config user.name "CircleCI"
 git config user.email "circleci@oktw.network"
 
-mv _site ./../
-mv .git ./../
-mv .circleci ./../
+mv ./_site ./.git ./.circleci ./CNAME ./../
 
 rm -rf ./*
-mv ./../.git ./
+
+mv ./../.git ./../_site ./
 
 git checkout gh-pages
 
-find . -maxdepth 1 ! -name '_site' ! -name '.git' ! -name '.gitignore' ! -name '.circleci' -exec rm -rf {} \;
+find . -maxdepth 1 ! -name '.git' ! -name '_site' -exec rm -rf {} \;
 
-mv ./../_site/* ./
-mv ./../.circleci ./
+mv _site/* ./
+cp ./../.circleci ./../CNAME ./ -rf
 
+rm ./_site -rf
 rm ./Dockerfile -rf
 rm ./now.json -rf
 
