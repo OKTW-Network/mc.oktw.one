@@ -1,33 +1,33 @@
 ![]({{ "/assets/img/wiki/ht-ct/overview.png" | relative_url }})
 
-### 簡介
+### Description  
 
-進階的合成台，主要用來合成插件物品
+A advanced crafting table, it is mainly used to craft items of this plugin.  
 
-### 合成
+### Crafting  
 
-使用合成台來合成(有序)
+It is crafted using the crafting table(Shaped).  
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/ht-ct/recipe.png" | relative_url }}">
+<img class="recipe-photo" src="{{ "/assets/img/wiki/ht-ct/recipe.png" | relative_url }}">  
 
-### 介面
+### Interface  
 
-<img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/interface.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/interface.png" | relative_url }}">  
 
-上方為分類選單，下方則為能夠合成的物品。
+The top part is the category tab, and the bottom part is the item that you can craft.  
 
-### 使用
+### Usage  
 
-游標移到想要合成的物品上，會列出需要的材料。  
-點選要合成的物品可檢視合成的詳細資料  
-顯示綠色代表材料足夠，按下勾勾即可合成
+Move the cursor onto the item you want to craft, and then it will show the materials needed.  
+Click ont the item to view the detailed material info.  
+When it shows the green check mark it means the materials needed is enough, click on the check mark to craft.  
 
-<img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/complete.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/complete.png" | relative_url }}">  
 
-<img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/success.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/success.png" | relative_url }}">  
 
-而當缺少任一材料時，則會用紅色來提醒欠缺的材料
+However, when one of the materials is not enough, it will show the missing materials by showing it as red text.  
 
-<img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/lack.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/lack.png" | relative_url }}">  
 
-<img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/failure.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/failure.png" | relative_url }}">  
