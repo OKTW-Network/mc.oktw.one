@@ -22,6 +22,16 @@ permalink: none
 github_username:  OKTW-Network
 repository: OKTW-Network/en
 
+collections:
+  wikiPages:
+    categories: true
+    order: true
+    title: true
+    description: true
+    icon: true
+    permalink: /wiki/:name
+    output: true
+
 # Build settings
 markdown: kramdown
 plugins:

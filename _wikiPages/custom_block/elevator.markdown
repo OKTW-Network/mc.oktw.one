@@ -3,7 +3,6 @@ order : 1
 title:  "電梯"
 icon: "elevator.png"
 description: ""
-date:  2018-09-01 00:00:00 +0000
 categories: custom_block
 layout: wiki
 ---
