@@ -1,0 +1,2 @@
+- `/spawn` Go to world spawn, good for when you're stuck in viewer mode.
+- `/sign` Change sign content when you look at sign, you can use color code on sign, just remember to use & instead of §.

@@ -1,13 +1,13 @@
 ---
-order : 20
-title:  "功能方塊"
+order: 20
+title:  wiki.custom-blocks.title
 icon: "fas fa-cube"
-description: "擁有更多功能的方塊"
+description: wiki.custome-blocks.description
 categories: wiki
 layout: wiki
 ---
 
-注意! 所有的功能方塊都必須由[扳手]({{ "/tools/Wrench.html" | relative_url }})拆除。
+{% tf _wikiPages/custom-blocks.md %}
 
 <div class="container">
     <div class="wikiPages">
@@ -19,8 +19,8 @@ layout: wiki
                     <div class="card text-center wiki-item">
                         <img class="card-img-top" src="{{ "/assets/img/wiki/custom_block_icons/" | relative_url  }}{{ wiki.icon }}">
                         <div class="card-body">
-                            <h5 class="card-title no-shadow">{{ wiki.title }}</h5>
-                            <p class="card-text no-shadow">{{ wiki.description }}</p>
+                            <h5 class="card-title no-shadow">{% t wiki.title %}</h5>
+                            <p class="card-text no-shadow">{% t wiki.description %}</p>
                         </div>
                     </div>
                 </a>

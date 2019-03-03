@@ -1,0 +1,95 @@
+global:
+  language_name: "繁體中文"
+
+contact_us:
+  title: 聯絡我們
+  github: Github
+  discord: Discord
+  youtube: Youtube
+  telegram: Telegram
+  facebook_page: Facebook Page
+  facebook_group: Facebook Group
+
+buttons:
+  about: "About"
+  status: "Status"
+  wiki: "Wiki"
+  news: "News"
+  read_more: "查看更多.."
+
+index:
+  title:
+    - "OKTW"
+    - "星系計畫"
+  description: 
+    - "OKTW Network 為大家帶來"
+    - "完全原創的原版組隊生存"
+    - "立即加入一同在星際間遨遊！"
+  ip_address: "連線位置"
+  version: "遊戲版本"
+  use_resourcepack: "請使用伺服器材質包"
+
+wiki:
+  command:
+    title: "指令"
+    description: "遊戲內可使用的指令"
+  easy-recipe:
+    title: "更多合成表"
+    description: "比原版更多的合成表"
+  galaxy-manage-tutorial:
+    title: "星系管理教學"
+    description: "在這裡可以找到關於星系管理的教學"
+  introduction:
+    title: "簡介"
+    description: "簡介 OKTW 星系計畫"
+  star-dust:
+    title: "星塵"
+    description: "與眾不同的經濟系統"
+  tutorial:
+    title: "遊玩教學"
+    description: "不知道怎麼玩嗎？這邊可以幫助你"
+  words:
+    title: "用語集"
+    description: "不知道那些字詞在講什麼的話，這邊可以幫助你"
+  custom-blocks:
+    title: "功能方塊"
+    description: "擁有更多功能的方塊"
+    chunkloader:
+      title: "Chunk Loader"
+      description: " "
+    elevator:
+      title: "電梯"
+      description: " "
+    ht-crafting-table:
+      title: "高科技合成台"
+      description: " "
+    teleporter:
+      title: "傳送站"
+      description: " "
+  materials:
+    title: "材料"
+    description: " "
+    ceramic-plate:
+      title: "強化陶板"
+      description: " "
+    cooling-element:
+      title: "冷卻元件"
+      description: " "
+    logical-processing-element:
+      title: "邏輯處理元件"
+      description: " "
+  tools:
+    title: "工具"
+    description: "更多不同的工具"
+    wrench:
+      title: "扳手"
+      description: " "
+  upgrades:
+    title: "升級"
+    description: " "
+    base-upgrade:
+      title: "基礎升級"
+      description: " "
+    cool-upgrade:
+      title: "冷卻升級"
+      description: " "

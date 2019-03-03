@@ -12,7 +12,7 @@ layout: default
                 {{ post.subtitle }}
             </div>
 
-             <a href="{{ post.url | relative_url }}" class="btn btn-primary mt-1">查看更多...</a>
+             <a href="{{ post.url | relative_url }}" class="btn btn-primary mt-1">{% t buttons.read_more %}</a>
         </article>
         {% endfor %}
      </div>

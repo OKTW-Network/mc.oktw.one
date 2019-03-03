@@ -1,12 +1,14 @@
 ---
-order : 23
-title:  "升級"
+order: 23
+title: wiki.upgrades.title
 icon: "fas fa-arrow-circle-up"
-description: ""
+description: wiki.upgrades.description
 categories: wiki
 layout: wiki
 published: false
 ---
+
+{% tf _wikiPages/upgrades.html %}
 
 <div class="container">
     <div class="wikiPages">
@@ -18,8 +20,8 @@ published: false
                     <div class="card text-center wiki-item">
                         <img class="card-img-top" src="{{ "/assets/img/wiki/upgrade_icons/" | relative_url  }}{{ wiki.icon }}">
                         <div class="card-body">
-                            <h5 class="card-title no-shadow">{{ wiki.title }}</h5>
-                            <p class="card-text no-shadow">{{ wiki.description }}</p>
+                            <h5 class="card-title no-shadow">{% t wiki.title %}</h5>
+                            <p class="card-text no-shadow">{% t wiki.description %}</p>
                         </div>
                     </div>
                 </a>
