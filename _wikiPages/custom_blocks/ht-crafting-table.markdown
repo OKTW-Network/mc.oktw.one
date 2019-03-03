@@ -3,7 +3,6 @@ order : 2
 title:  "高科技合成台"
 icon: "ht-crafting-table.png"
 description: ""
-date:  2018-10-06 00:00:00 +0000
 categories: custom_blocks
 layout: wiki
 ---

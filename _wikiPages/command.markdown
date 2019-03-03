@@ -3,7 +3,6 @@ order : 22
 title:  "指令"
 icon: "fas fa-terminal"
 description: "遊戲內可使用的指令"
-date:  2018-07-23 00:00:00 +0000
 categories: wiki
 layout: wiki
 ---

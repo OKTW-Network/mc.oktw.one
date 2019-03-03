@@ -3,7 +3,6 @@ order : 3
 title:  "遊玩教學"
 icon: "fas fa-question-circle"
 description: "不知道怎麼玩嗎？這邊可以幫助你"
-date:  2018-07-23 00:00:00 +0000
 categories: wiki
 layout: wiki
 ---
