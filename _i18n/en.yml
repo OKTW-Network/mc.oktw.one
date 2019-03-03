@@ -1,0 +1,95 @@
+global:
+  language_name: "English"
+
+contact_us:
+  title: Contact us
+  github: Github
+  discord: Discord
+  youtube: Youtube
+  telegram: Telegram
+  facebook_page: Facebook Page
+  facebook_group: Facebook Group
+
+buttons:
+  about: "About"
+  status: "Status"
+  wiki: "Wiki"
+  news: "News"
+  read_more: "Read More.."
+
+index:
+  title:
+    - "OKTW"
+    - "Project Galaxy"
+  description: 
+    - "OKTW Network brings you"
+    - "The Original Vanilla Team Survival"
+    - "Join NOW and travel in the Galaxy!"
+  ip_address: "Server IP Address"
+  version: "Minecraft Version"
+  use_resourcepack: "Please Enable the Server ResourcePack."
+
+wiki:
+  command:
+    title: "Commands"
+    description: " "
+  easy-recipe:
+    title: "More recipe"
+    description: " "
+  galaxy-manage-tutorial:
+    title: "Galaxy management"
+    description: " "
+  introduction:
+    title: "Introduction"
+    description: " "
+  star-dust:
+    title: "Star dust"
+    description: " "
+  tutorial:
+    title: "Tutorial"
+    description: " "
+  words:
+    title: "Words"
+    description: " "
+  custom-blocks:
+    title: "Functional block"
+    description: " "
+    chunkloader:
+      title: "Chunk Loader"
+      description: " "
+    elevator:
+      title: "Elevator"
+      description: " "
+    ht-crafting-table:
+      title: "HT Crafting Table"
+      description: " "
+    teleporter:
+      title: "Teleporter"
+      description: " "
+  materials:
+    title: "Materials"
+    description: " "
+    ceramic-plate:
+      title: "Ceramic Plate"
+      description: " "
+    cooling-element:
+      title: "Cooling Element"
+      description: " "
+    logical-processing-element:
+      title: "Logical Processing Element"
+      description: " "
+  tools:
+    title: "Tools"
+    description: " "
+    wrench:
+      title: "Wrench"
+      description: " "
+  upgrades:
+    title: "Upgrades"
+    description: " "
+    base-upgrade:
+      title: "Basic Upgrade"
+      description: " "
+    cool-upgrade:
+      title: "Cool Upgrade"
+      description: " "
