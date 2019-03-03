@@ -4,7 +4,7 @@ title:  "Chunk Loader"
 icon: "chunkloader.png"
 description: ""
 date:  2018-10-23 00:00:00 +0000
-categories: custom_block
+categories: custom_blocks
 layout: wiki
 ---
 
