@@ -1,19 +1,19 @@
 ![]({{ "/assets/img/wiki/elevator/overview.png" | relative_url }})
 
-### 合成
+### Crafting
 
-使用合成台來合成(無序)
+Use crafting table to craft(Shapeless)
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/elevator/recipe.png" | relative_url }}">
 
-### 用途
+### Usage
 
-使玩家在電梯之間快速移動。
+Move faster between two elevator
 
-### 功能
+### Features
 
-電梯(至少兩個)垂直放置時，蹲下可以向下傳送，跳躍可以向上傳送。
+When elevator(at least 2) place in vertical, sneak to move down, jump to move up.
 
-### 其他
+### Other
 
-電梯的最遠距離是 16 格方塊(不包括電梯自己上下 16 格)。
+Elevator will not work when the distance of two elveators is more than 16.

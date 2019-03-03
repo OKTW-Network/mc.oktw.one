@@ -22,65 +22,65 @@ index:
 
 wiki:
   command:
-    title: "指令"
-    description: "遊戲內可使用的指令"
+    title: "Commands"
+    description: ""
   easy-recipe:
-    title: "更多合成表"
-    description: "比原版更多的合成表"
+    title: "More recipe"
+    description: ""
   galaxy-manage-tutorial:
-    title: "星系管理教學"
-    description: "在這裡可以找到關於星系管理的教學"
+    title: "Galaxy management"
+    description: ""
   introduction:
-    title: "簡介"
-    description: "簡介 OKTW 星系計畫"
+    title: "Introduction"
+    description: ""
   star-dust:
-    title: "星塵"
-    description: "與眾不同的經濟系統"
+    title: "Star dust"
+    description: ""
   tutorial:
-    title: "遊玩教學"
-    description: "不知道怎麼玩嗎？這邊可以幫助你"
+    title: "Tutorial"
+    description: ""
   words:
-    title: "用語集"
-    description: "不知道那些字詞在講什麼的話，這邊可以幫助你"
+    title: "Words"
+    description: ""
   custom-blocks:
-    title: "功能方塊"
-    description: "擁有更多功能的方塊"
+    title: "Functional block"
+    description: ""
     chunkloader:
       title: "Chunk Loader"
       description: ""
     elevator:
-      title: "電梯"
+      title: "Elevator"
       description: ""
     ht-crafting-table:
-      title: "高科技合成台"
+      title: "HT Crafting Table"
       description: ""
     teleporter:
-      title: "傳送站"
+      title: "Teleporter"
       description: ""
   materials:
-    title: "材料"
+    title: "Materials"
     description: ""
     ceramic-plate:
-      title: "強化陶板"
+      title: "Ceramic Plate"
       description: ""
     cooling-element:
-      title: "冷卻元件"
+      title: "Cooling Element"
       description: ""
     logical-processing-element:
-      title: "邏輯處理元件"
+      title: "Logical Processing Element"
       description: ""
   tools:
-    title: "工具"
-    description: "更多不同的工具"
+    title: "Tools"
+    description: ""
     wrench:
-      title: "扳手"
+      title: "Wrench"
       description: ""
   upgrades:
-    title: "升級"
+    title: "Upgrades"
     description: ""
     base-upgrade:
-      title: "基礎升級"
+      title: "Basic Upgrade"
       description: ""
     cool-upgrade:
-      title: "冷卻升級"
+      title: "Cool Upgrade"
       description: ""

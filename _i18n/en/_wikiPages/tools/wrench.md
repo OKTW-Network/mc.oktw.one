@@ -1,15 +1,15 @@
 ![]({{ "/assets/img/wiki/wrench/overview.png" | relative_url }})
 
-### 合成
+### Crafting
 
-使用合成台來合成(有序)
+Use crafting table to craft(Shape)
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/wrench/recipe.png" | relative_url }}">
 
-### 用途
+### Usage
 
-拆除[功能方塊]({{ "/wiki/custom-blocks.html" | relative_url }})。
+Removes the [Functional Block]({{ "/wiki/custom-blocks.html" | relative_url }})。
 
-### 功能
+### Features
 
-蹲下+使用鍵(預設右鍵)可以拆除[功能方塊]({{ "/wiki/custom-blocks.html" | relative_url }})。
+Sneak and right click to remove [Functional Block]({{ "/wiki/custom-blocks.html" | relative_url }}).

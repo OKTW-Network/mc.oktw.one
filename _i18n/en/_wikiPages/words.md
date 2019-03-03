@@ -1,112 +1,139 @@
-# 索引
+# Indexs
 
-- [旅行者](#旅行者)
-- [星船](#星船)
-- [星系](#星系)
-- [星球](#星球)
-- [環境控制系統](#環境控制系統)
-- [星船控制台](#星船控制台)
-- [星球終端](#星球終端)
-- [星塵](#星塵)
+- [Traveler](#Traveler)
+- [Space Ship](#SpaceShip)
+- [Galaxy](#Galaxy)
+- [Planet](#Planet)
+- [Environment Control System](#ECS)
+- [Space Ship Controller](#SpaceShipController)
+- [Planet Terminal](#PlanetTerminal)
+- [Star Dust](#StarDust)
 
-## 權限
+## Permission
 
-- [擁有者](#擁有者)
-- [管理員](#管理員)
-- [成員](#成員)
+- [Owner](#Owner)
+- [Admin](#Admin)
+- [Member](#Member)
 
-## 星球種類
+## Planet Type
 
-- [普通星球](#普通星球)
-- [炎熱星球](#炎熱星球)
-- [黑暗星球](#黑暗星球)
+- [Normal Planet](#NormalPlanet)
+- [Hot Planet](#HotPlanet)
+- [Dark Planet](#DarkPlanet)
 
 ---
 
-# 旅行者
-#### Traveler
+<a name="Traveler">
 
-在星際中旅行的人，也就是玩家
+# Traveler
+#### 旅行者
 
-# 星船
-#### Space Ship
+Travels in the Galaxy, aka player.
+
+<a name="SpaceShip">
+
+# Space Ship
+#### 星船
 
 ![]({{ "/assets/img/wiki/words/spaceship.png" | relative_url }})
 
-伺服器入口  
-有一個控制面板讓玩家可以創造或選擇星系
+Server Entry Point  
+Having a control panel to manage Galaxy.
 
-# 星系
-#### Galaxy
+<a name="Galaxy">
 
-類似團隊的概念，包含多個星球與成員
+# Galaxy
+#### 星系
 
-# 星球
-#### Planet
+Similar to a Team, including many planets and members.
 
-對應到Minecraft的世界，每個星球都是獨立的世界
+<a name="Planet">
 
-# 環境控制系統
-#### Environment Control System
+# Planet
+#### 星球
 
-在星球外圍的衛星，用來改善星球環境讓人可以生存
+Corresponding to the Minecraft World, each planet is independent world.
 
-提升等級可擴大範圍及附加效果
+<a name="ECS">
 
-# 星船控制台
-#### Space Ship Controller
+# Environment Control System
+#### 環境控制系統
+
+A satellite around planet, improves planet environment  
+
+upgrade it to expand range and have more effect.
+
+<a name="SpaceShipController">
+
+# Space Ship Controller
+#### 星船控制台
 
 ![]({{ "/assets/img/wiki/words/galaxy_controller.png" | relative_url }})
 
-在星船上的控制台，用來管理星系與星球
+The controller on the space ship, use it to manage Galaxy
 
-# 星球終端
-#### Planet Terminal
+<a name="PlanetTerminal">
+
+# Planet Terminal
+#### 星球終端
 
 ![]({{ "/assets/img/wiki/words/planet_terminal.png" | relative_url }})
 
-星球的入口，一個5x5x5的結構  
-可以與飛船及ECS(環境控制系統)連線
-位於星球重生點的烽火臺 
+The entry point to planet, the 5x5x5 structure, it can connect to ECS(Environment Control System) and space ship
+On the Beacon in Planet spawn
+
+<a name="StarDust">
+
+# Star dust
+#### 星塵
+
+Money.  
+When you get experience, you will get star dust too.
   
-# 星塵
-#### Star dust
+<a name="Owner">
 
-就是錢  
-獲得經驗值的同時也會獲得星塵
-  
-# 擁有者
-#### Owner
+# Owner
+#### 擁有者
 
-星系的創立者  
-同時也是星球的管理員
+The founder/Admin of Galaxy.
 
-# 管理員
-#### Admin
+<a name="Admin">
 
-星系的管理者
+# Admin
+#### 管理員
+
+The Admin of Galaxy.
+
+<a name="Member">
 
 # 成員
 #### Member
 
-星系的成員
+The Member of Galaxy.
 
-# 普通星球
-#### Normal Planet
+<a name="NormalPlanet">
 
-普通世界
+# Normal Planet
+#### 普通星球
 
 ![]({{ "/assets/img/wiki/words/normal_planet.png" | relative_url }})
 
-# 炎熱星球
-#### Hot Planet
+Normal World
 
-地獄
+<a name="HotPlanet">
+
+# Hot Planet
+#### 炎熱星球
 
 ![]({{ "/assets/img/wiki/words/hot_planet.png" | relative_url }})
 
-# 黑暗星球
-#### Dark Planet
+Nether
 
-終界
+<a name="DarkPlanet">
 
+# Dark Planet
+#### 黑暗星球
+
+The End
+
+---

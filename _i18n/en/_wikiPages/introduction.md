@@ -1,47 +1,44 @@
-
-- [背景故事](#背景故事)
-- [概念](#概念)
-- [伺服器規範](#伺服器規範)
-- [注意事項](#注意事項)
-- [開始](#開始)
+- [Story](#story)
+- [Concept](#concept)
+- [Rules](#rules)
+- [Precautions](#precautions)
+- [Start](#start)
 
 ---
 
-# 背景故事
+# Story
 
-在遙遠的未來，星際旅行已經非常普及  
-玩家是來自遙遠星球的旅者，在旅途遇到其他玩家，決定一同在星系中開發星球
+In the future, traveling in Galaxy is very common  
+Player is a Traveler from other planet, they met other Player on the way, so they decided to develop a new Planet in the Galaxy together.
 
-# 概念
+# Concept
 
-伺服器如同一個宇宙  
-擁有多個星系在其中  
-星系內又有許多星球  
-在旅途中的旅行者們  
-在這廣大宇宙中相遇  
-決定去建設開發星球  
+Server is like a Universe  
+There are many Galaxy in Server  
+And there are many Planet in Galaxy  
+Travelers met each other on the way
+And decided to develop Planet
 
-# 伺服器規範
+# Rules
 
-本伺服器沒有任何規範！  
-你能做的就是能做，不希望你做的我們會直接讓你做不了
+No Rules.
+But doesn't mean that you can do Illegal things.
 
-# 注意事項
+# Precautions
 
-本伺服器還在開發中，部分功能尚未完善，且尚不穩定  
-如遇到任何問題請使用下面聯絡資訊聯繫我們
+Our Server still in development  
+Many feature not finish yet, and unstable  
+If you have any problem, you can contact us on the footer.
 
-## 請使用伺服器材質包
+## Please enable Server ResourcePack
 
-## 請使用伺服器材質包
+## Please enable Server ResourcePack
 
-## 請使用伺服器材質包
+## Please enable Server ResourcePack
 
-# 開始
+# Start
 
-加入伺服器後，你會在星船上  
-首先你必須要[加入]({{ "/wiki/tutorial.html#如何加入星系" | relative_url }})或[創建星系]({{ "/wiki/tutorial.html#如何創建星系" | relative_url }})  
-建議與朋友在同一個星系中遊玩  
-[加入星系]({{ "/wiki/tutorial.html#如何加入星系" | relative_url }})後，需要有一顆星球才能開始  
-所以如果自己創建星系，接著還要創星球  
+After joining server, you will appear in Space Ship.
+First you need to [Join]({{ "/wiki/tutorial.html#How_to_join_Galaxy" | relative_url }}) or [Create a Galaxy]({{ "/wiki/tutorial.html#How_to_create_a_galaxy" | relative_url }})  
+If you create Galaxy by youself, you will need to Create a planet
 

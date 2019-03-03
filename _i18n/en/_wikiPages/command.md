@@ -1,2 +1,2 @@
-- `/spawn` 傳送回重生點，在觀察模式卡點時很好用
-- `/sign` 修改告示牌，看著告示牌打指令即可修改，可使用&代替§
+- `/spawn` Go to world spawn, good for when you're stuck in viewer mode.
+- `/sign` Change sign content when you look at sign, you can use color code on sign, just remember to use & instead of §.

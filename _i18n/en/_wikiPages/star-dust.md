@@ -1,33 +1,32 @@
-- [用途](#用途)
-- [獲得方式](#獲得方式)
-- [如何貢獻星塵](#如何貢獻星塵)
+- [Features](#features)
+- [Get](#get)
+- [Contribute](#contribute)
   
 ---
 
-# 用途
+# Features
 
-- 購買星球
-- 升級星球
-- 合成物品
-- 交易
+- Buy Planet
+- Upgrade Planet
+- Craft item
+- Trade
 
-# 獲得方式
+# Get
 
-目前有下列幾種方式可以獲得星塵
-- 獲得經驗值時會同時獲得星塵
-- 交易 (尚未開放)
+- Experience
+- Trade (WIP)
 
-# 如何貢獻星塵
+# Contribute
 
-> 必須是星系的[成員]({{ "/wiki/words.html#成員" | relative_url }})
+> Must be [Member]({{ "/wiki/words.html#Member" | relative_url }}) of the Galaxy
 
-在[星船]({{ "/wiki/words.html#星船" | relative_url }})上對[星球終端]({{ "/wiki/words.html#星球終端" | relative_url }})點右鍵  
-點選 **星塵**  
+Use [Planet Terminal]({{ "/wiki/words.html#PlanetTerminal" | relative_url }})  
+Click **Star dust**  
 
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/star_dust.png" | relative_url }}">
 
-選擇 **要貢獻的數量**  
+Choose **Amount of star dust you want to contribute.**  
 
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/donate_stardust.png" | relative_url }}">
 
-點選 **打勾**
+Click **✓**
