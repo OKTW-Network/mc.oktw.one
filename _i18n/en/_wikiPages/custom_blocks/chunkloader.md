@@ -1,20 +1,20 @@
 ![]({{ "/assets/img/wiki/chunkloader/overview.png" | relative_url }})  
 
-### 說明
+### Description
 
-Minecraft 的世界運算是以 Chunk 為單位運算的，一般來說只有玩家周圍直徑 10 Chunk的範圍會載入。  
+Minecraft World is computed per chunk. Generally speaking, only the range of 10 chunks around the player will be loaded.
 
-有玩家在附近的 Chunk 才會更新，如果玩家遠離了那個 Chunk，伺服器會將 Chunk 中的方塊與生物等資料儲存並從記憶體中刪除，等到玩家下次接近時再從硬碟讀取並載入至記憶體。  
+Only chunks nearby player will be updated. If the player keeps away that chunk, the server will save the blocks and entities data into disk and delete from RAM, it won't be loaded back to RAM until the player is nearby.
 
-只有載入的 Chunk 會進行更新。玩家在附近時生物才會動，農作物才會成長。  
+Only loaded chunk will be updated. Mobs will move and crops will grow only when the player is nearby.
 
-如果希望某一個 Chunk 沒有玩家在附近也會保持載入，就可以使用 ChunkLoader。  
+If you wish to keep the chunk loaded even if the player is not nearby, you can use ChunkLoader.
 
-### 使用方法
+### Usage
 
-將終界水晶放置於黑曜石上方。
+Put the Ender Crystal onto the obsidian.
 
-### 其他
+### Other
 
-終界水晶在我們伺服器中另外作為 ChunkLoader 的功能。  
-目前範圍為 1 Chunk，未來可以插升級來擴大範圍。
+The Ender Crystal is additionally used as a feature of ChunkLoader in our server.
+Currently, range of the ChunkLoader is only 1 Chunk. You will be able to extend range by applying upgrade in the future.

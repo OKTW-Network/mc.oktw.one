@@ -14,16 +14,16 @@
 On the [Space Ship]({{ "/wiki/words.html#SpaceShip" | relative_url }}) Click [Space Ship Controller]({{ "/wiki/words.html#SpaceShipController" | relative_url }}) on the table  
 Switch to **All galaxy** using the button on the top-right corner
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/list_all_galaxy.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/list_all_galaxy.png" | relative_url }}">
 
 Find [Galaxy]({{ "/wiki/words.html#Galaxy" | relative_url }}) that you want to join  
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/select_galaxy.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/select_galaxy.png" | relative_url }}">
 
 Click **Join request**
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/send_application.png" | relative_url }}">
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/application_sent.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/send_application.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/application_sent.png" | relative_url }}">
 
 Wait for [Admin]({{ "/wiki/words.html#Admin" | relative_url }}) or [Owner]({{ "/wiki/words.html#Owner" | relative_url }}) to [Approve your request]({{ "/wiki/galaxy-manage-tutorial.html#How_to_review_request" | relative_url }})  
 Or you can ask [Admin]({{ "/wiki/words.html#Admin" | relative_url }}) or [Owner]({{ "/wiki/words.html#Owner" | relative_url }}) to [add you manually]({{ "/wiki/galaxy-manage-tutorial.html#How_to_add_member" | relative_url }})
@@ -37,19 +37,19 @@ Or you can ask [Admin]({{ "/wiki/words.html#Admin" | relative_url }}) or [Owner]
 On the [Space Ship]({{ "/wiki/words.html#SpaceShip" | relative_url }}) Click [Space Ship Controller]({{ "/wiki/words.html#SpaceShipController" | relative_url }}) on the table  
 Switch to **All galaxy** or **Joined galaxy** using the button on the top-right corner
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/list_all_galaxy.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/list_all_galaxy.png" | relative_url }}">
 
 Click **Galaxy** that you want to enter
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/select_galaxy.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/select_galaxy.png" | relative_url }}">
   
 Click **Planet List**
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/planet_list.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/planet_list.png" | relative_url }}">
 
 Click **Planet** that you want to enter
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/planet_list_select.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/planet_list_select.png" | relative_url }}">
 
 <a name="How_to_enter_other_world">
 
@@ -58,11 +58,11 @@ Click **Planet** that you want to enter
 On the [Planet]({{ "/wiki/words.html#Planet" | relative_url }}) Click [Planet Terminal]({{ "/wiki/words.html#PlanetTerminal" | relative_url }})  
 Click **Planet List**
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/planet_terminal.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/planet_terminal.png" | relative_url }}">
 
 Click **Planet** that you want to enter
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/planet_list_select.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/planet_list_select.png" | relative_url }}">
 
 <a name="How_to_back_to_Space_Ship">
 
@@ -71,4 +71,4 @@ Click **Planet** that you want to enter
 On the [Planet]({{ "/wiki/words.html#Planet" | relative_url }}) Click [Planet Terminal]({{ "/wiki/words.html#PlanetTerminal" | relative_url }})  
 Click **Back to SpaceShip**
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/leave_planet.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/leave_planet.png" | relative_url }}">
