@@ -8,8 +8,8 @@ Use crafting table to craft(Shape)
 
 ### Usage
 
-Removes the [Functional Block]({{ "/wiki/custom-blocks.html" | relative_url }})。
+Removes the [Functional Block]({{ "/wiki/custom-blocks" | relative_url }})。
 
 ### Features
 
-Sneak and right click to remove [Functional Block]({{ "/wiki/custom-blocks.html" | relative_url }}).
+Sneak and right click to remove [Functional Block]({{ "/wiki/custom-blocks" | relative_url }}).

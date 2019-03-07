@@ -6,7 +6,7 @@ layout: news
 subtitle: "快來看看都更新了些什麼"
 ---
 
-[傳送站的詳細說明]: {{ "/custom_block/teleporter.html" | relative_url }}
+[傳送站的詳細說明]: {{ "/wiki/teleporter" | relative_url }}
 
 # 傳送站
 

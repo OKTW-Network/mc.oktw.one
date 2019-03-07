@@ -19,9 +19,9 @@
 
 # 如何貢獻星塵
 
-> 必須是星系的[成員]({{ "/wiki/words.html#成員" | relative_url }})
+> 必須是星系的[成員]({{ "/wiki/words#成員" | relative_url }})
 
-在[星船]({{ "/wiki/words.html#星船" | relative_url }})上對[星球終端]({{ "/wiki/words.html#星球終端" | relative_url }})點右鍵  
+在[星船]({{ "/wiki/words#星船" | relative_url }})上對[星球終端]({{ "/wiki/words#星球終端" | relative_url }})點右鍵  
 點選 **星塵**  
 
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/star_dust.png" | relative_url }}">

@@ -18,8 +18,8 @@
 - 紅石 x 20  
 - 金錠 x 8  
 - 地域石英 x 4  
-- [強化陶板]({{ "/materials/ceramic-plate.html" | relative_url }}) x 1  
-- [星塵]({{ "wiki/star-dust.html" | relative_url }}) x 45  
+- [強化陶板]({{ "/wiki/ceramic-plate" | relative_url }}) x 1  
+- [星塵]({{ "/wiki/star-dust" | relative_url }}) x 45  
 
 ---
 
@@ -27,5 +27,5 @@
 
 ### 用途
 
-* 合成[傳送站]({{ "/custom_blocks/teleporter.html#傳送站" | relative_url }})  
-* 合成[高級傳送站]({{ "/custom_blocks/teleporter.html#高級傳送站" | relative_url }})
+* 合成[傳送站]({{ "/wiki/teleporter#傳送站" | relative_url }})  
+* 合成[高級傳送站]({{ "/wiki/teleporter#高級傳送站" | relative_url }})
