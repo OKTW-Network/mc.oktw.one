@@ -1,6 +1,6 @@
 <img class="small-picture" src="{{ "/assets/img/wiki/material_icons/logical_processing_element.webp" | relative_url }}">
 
-<div style="display:inline-block; padding:4px 8px 4px 0px; padding:auto;  background-color:#d6d6d6; border:1px #2D2D2D solid; border-radius:5px; color:black;">
+<div class="article-content">
 <ul style="padding:0px;margin:0px">
     <li><a href="#合成" style="color:#2a6cd6;">合成</a></li>
     <li><a href="#用途" style="color:#2a6cd6;">用途</a></li>
