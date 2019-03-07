@@ -8,8 +8,8 @@
 
 ### 用途
 
-拆除[功能方塊]({{ "/wiki/custom-blocks.html" | relative_url }})。
+拆除[功能方塊]({{ "/wiki/custom-blocks" | relative_url }})。
 
 ### 功能
 
-蹲下+使用鍵(預設右鍵)可以拆除[功能方塊]({{ "/wiki/custom-blocks.html" | relative_url }})。
+蹲下+使用鍵(預設右鍵)可以拆除[功能方塊]({{ "/wiki/custom-blocks" | relative_url }})。

@@ -18,9 +18,9 @@
 
 # Contribute
 
-> Must be [Member]({{ "/wiki/words.html#Member" | relative_url }}) of the Galaxy
+> Must be [Member]({{ "/wiki/words#Member" | relative_url }}) of the Galaxy
 
-Use [Planet Terminal]({{ "/wiki/words.html#PlanetTerminal" | relative_url }})  
+Use [Planet Terminal]({{ "/wiki/words#PlanetTerminal" | relative_url }})  
 Click **Star dust**  
 
 <img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/star_dust.png" | relative_url }}">
