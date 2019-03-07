@@ -1,4 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tw"><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://mc.oktw.one/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mc.oktw.one/" rel="alternate" type="text/html" hreflang="tw" /><updated>2019-03-03T15:23:28+00:00</updated><id>https://mc.oktw.one/feed.xml</id><title type="html">OKTW Network</title><subtitle>由許多人聯合經營的Minecraft伺服器</subtitle><entry><title type="html">2018/10/20 更新記錄</title><link href="https://mc.oktw.one/news/2018/10/20/changelog.html" rel="alternate" type="text/html" title="2018/10/20 更新記錄" /><published>2018-10-20T15:40:00+00:00</published><updated>2018-10-20T15:40:00+00:00</updated><id>https://mc.oktw.one/news/2018/10/20/changelog</id><content type="html" xml:base="https://mc.oktw.one/news/2018/10/20/changelog.html">&lt;h1 id=&quot;資源包&quot;&gt;資源包&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tw"><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://mc.oktw.one/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mc.oktw.one/" rel="alternate" type="text/html" hreflang="tw" /><updated>2019-03-07T11:48:05+00:00</updated><id>https://mc.oktw.one/feed.xml</id><title type="html">OKTW Network</title><subtitle>由許多人聯合經營的Minecraft伺服器</subtitle><entry><title type="html">19q1-傳送器!</title><link href="https://mc.oktw.one/news/2019/03/03/teleporter-update.html" rel="alternate" type="text/html" title="19q1-傳送器!" /><published>2019-03-03T12:00:00+00:00</published><updated>2019-03-03T12:00:00+00:00</updated><id>https://mc.oktw.one/news/2019/03/03/teleporter-update</id><content type="html" xml:base="https://mc.oktw.one/news/2019/03/03/teleporter-update.html">&lt;h1 id=&quot;傳送站&quot;&gt;傳送站&lt;/h1&gt;
+
+&lt;p&gt;架設傳送站來快速旅行&lt;br /&gt;
+&lt;em&gt;(&lt;a href=&quot;/custom_block/teleporter.html&quot;&gt;傳送站的詳細說明&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;article-photo&quot; src=&quot;/assets/img/news/20190303-teleporter-update/overview.webp&quot; /&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;img class=&quot;article-photo&quot; src=&quot;/assets/img/news/20190303-teleporter-update/interface.webp&quot; /&gt;&lt;/h2&gt;
+&lt;h1 id=&quot;其他&quot;&gt;其他&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;更多簡化合成表&lt;/li&gt;
+  &lt;li&gt;修正在意外情況下伺服器資源包沒有正確處理&lt;/li&gt;
+  &lt;li&gt;修正某些錯誤提示的英文翻譯&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;筆記&quot;&gt;筆記&lt;/h1&gt;
+
+&lt;p&gt;目前開發團隊的人力集中在改善遊戲體驗，導致更新的間隔時間增加，敬請期待更多新內容…&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">2018/10/20 更新記錄</title><link href="https://mc.oktw.one/news/2018/10/20/changelog.html" rel="alternate" type="text/html" title="2018/10/20 更新記錄" /><published>2018-10-20T15:40:00+00:00</published><updated>2018-10-20T15:40:00+00:00</updated><id>https://mc.oktw.one/news/2018/10/20/changelog</id><content type="html" xml:base="https://mc.oktw.one/news/2018/10/20/changelog.html">&lt;h1 id=&quot;資源包&quot;&gt;資源包&lt;/h1&gt;
 
 &lt;ul&gt;
   &lt;li&gt;由@infon_TW(隱風)重新設計的按鈕圖示&lt;/li&gt;
