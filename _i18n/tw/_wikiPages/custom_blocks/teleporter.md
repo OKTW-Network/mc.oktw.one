@@ -3,6 +3,7 @@
 [邏輯處理元件]: {{ "/wiki/logical-processing-element" | relative_url }}
 [冷卻元件]: {{ "/wiki/cooling-element" | relative_url }}
 [星塵]: {{ "/wiki/star-dust" | relative_url }}
+[扳手]: ({{ "/wiki/wrench" | relative_url }})
 
 ![]({{ "/assets/img/wiki/teleporter/overview.webp" | relative_url }})
 
@@ -33,8 +34,7 @@
 
 ## 獲得方式
 
-可由扳手`蹲下`+`右鍵`拆除
-
+可由[扳手][] `蹲下`+`右鍵`拆除
 
 #### 高科技合成台
 
@@ -124,7 +124,11 @@ __請注意，每個核心最多只能連接64個傳送框架!__
 
 ## 介面
 
+<<<<<<< HEAD
 `右鍵`核心方塊或在核心方塊上方蹲下，都可以開啟介面。
+=======
+對核心按右鍵或在方塊上方蹲下，都可以打開傳送站介面
+>>>>>>> e8b63a1... Teleporter
 
 介面上方的標題列會顯示該傳送站的名稱，底下是可傳送之傳送站列表，  
 依照圖示可區分要傳送的傳送站位於哪一種星球類型：  
