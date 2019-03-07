@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tw"><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://mc.oktw.one/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mc.oktw.one/" rel="alternate" type="text/html" hreflang="tw" /><updated>2019-03-07T11:52:29+00:00</updated><id>https://mc.oktw.one/feed.xml</id><title type="html">OKTW Network</title><subtitle>由許多人聯合經營的Minecraft伺服器</subtitle><entry><title type="html">19q1-傳送器!</title><link href="https://mc.oktw.one/news/2019/03/03/teleporter-update.html" rel="alternate" type="text/html" title="19q1-傳送器!" /><published>2019-03-03T12:00:00+00:00</published><updated>2019-03-03T12:00:00+00:00</updated><id>https://mc.oktw.one/news/2019/03/03/teleporter-update</id><content type="html" xml:base="https://mc.oktw.one/news/2019/03/03/teleporter-update.html">&lt;h1 id=&quot;傳送站&quot;&gt;傳送站&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tw"><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://mc.oktw.one/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mc.oktw.one/" rel="alternate" type="text/html" hreflang="tw" /><updated>2019-03-07T12:03:54+00:00</updated><id>https://mc.oktw.one/feed.xml</id><title type="html">OKTW Network</title><subtitle>由許多人聯合經營的Minecraft伺服器</subtitle><entry><title type="html">19q1-傳送器!</title><link href="https://mc.oktw.one/news/2019/03/03/teleporter-update.html" rel="alternate" type="text/html" title="19q1-傳送器!" /><published>2019-03-03T12:00:00+00:00</published><updated>2019-03-03T12:00:00+00:00</updated><id>https://mc.oktw.one/news/2019/03/03/teleporter-update</id><content type="html" xml:base="https://mc.oktw.one/news/2019/03/03/teleporter-update.html">&lt;h1 id=&quot;傳送站&quot;&gt;傳送站&lt;/h1&gt;
 
 &lt;p&gt;架設傳送站來快速旅行&lt;br /&gt;
-&lt;em&gt;(&lt;a href=&quot;/custom_block/teleporter.html&quot;&gt;傳送站的詳細說明&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
+&lt;em&gt;(&lt;a href=&quot;/wiki/teleporter&quot;&gt;傳送站的詳細說明&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img class=&quot;article-photo&quot; src=&quot;/assets/img/news/20190303-teleporter-update/overview.webp&quot; /&gt;&lt;/p&gt;
 
@@ -42,7 +42,7 @@
 &lt;h1 id=&quot;高科技合成台&quot;&gt;高科技合成台&lt;/h1&gt;
 
 &lt;p&gt;進階的合成台，主要用來合成更進階的工具、武器…和更多！&lt;br /&gt;
-詳細使用方式請至&lt;a href=&quot;/custom_block/ht-crafting-table.html&quot;&gt;高科技合成台&lt;/a&gt;&lt;/p&gt;
+詳細使用方式請至&lt;a href=&quot;/wiki/ht-crafting-table&quot;&gt;高科技合成台&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img class=&quot;article-photo&quot; src=&quot;/assets/img/news/20181006-ht-crafting-table-update/ht-crafting-table-overview.png&quot; /&gt;&lt;/p&gt;
 
@@ -70,8 +70,8 @@
 
 &lt;h1 id=&quot;遊戲內容變更&quot;&gt;遊戲內容變更&lt;/h1&gt;
 &lt;h2 id=&quot;星球與地獄&quot;&gt;星球與地獄&lt;/h2&gt;
-&lt;p&gt;首先最大的變更是現在允許創建地獄星球了，從管理星系中創建星球可以選擇&lt;a href=&quot;/wiki/words.html#%E7%82%8E%E7%86%B1%E6%98%9F%E7%90%83&quot;&gt;炎熱星球&lt;/a&gt;來創建一個地獄的世界&lt;br /&gt;
-每種類別的第一顆星球皆需要 1000&lt;a href=&quot;/wiki/star-dust.html&quot;&gt;星塵&lt;/a&gt;，未來將會開放星系允許更多星球，星系中的第一顆&lt;a href=&quot;/wiki/words.html#%E6%99%AE%E9%80%9A%E6%98%9F%E7%90%83&quot;&gt;普通星球&lt;/a&gt;不需要星塵&lt;/p&gt;
+&lt;p&gt;首先最大的變更是現在允許創建地獄星球了，從管理星系中創建星球可以選擇&lt;a href=&quot;/wiki/words#%E7%82%8E%E7%86%B1%E6%98%9F%E7%90%83&quot;&gt;炎熱星球&lt;/a&gt;來創建一個地獄的世界&lt;br /&gt;
+每種類別的第一顆星球皆需要 1000&lt;a href=&quot;/wiki/star-dust&quot;&gt;星塵&lt;/a&gt;，未來將會開放星系允許更多星球，星系中的第一顆&lt;a href=&quot;/wiki/words#%E6%99%AE%E9%80%9A%E6%98%9F%E7%90%83&quot;&gt;普通星球&lt;/a&gt;不需要星塵&lt;/p&gt;
 
 &lt;h2 id=&quot;chunk-loader&quot;&gt;Chunk Loader&lt;/h2&gt;
 &lt;p&gt;有玩過模組的玩家或許會知道這東西，簡單來說就是讓 ChunkLoader 所在的 Chunk 永遠保持載入。&lt;/p&gt;
