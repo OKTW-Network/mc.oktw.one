@@ -3,7 +3,7 @@
 [Logical Processing element]: {{ "/wiki/logical-processing-element" | relative_url }}
 [Cooling Element]: {{ "/materiwikials/cooling-element" | relative_url }}
 [Star Dust]: {{ "/wiki/star-dust" | relative_url }}
-[Wrench]: ({{ "/wiki/wrench" | relative_url }})
+[Wrench]: {{ "/wiki/wrench" | relative_url }}
 
 ![]({{ "/assets/img/wiki/teleporter/overview.webp" | relative_url }})
 

@@ -3,7 +3,7 @@
 [邏輯處理元件]: {{ "/wiki/logical-processing-element" | relative_url }}
 [冷卻元件]: {{ "/wiki/cooling-element" | relative_url }}
 [星塵]: {{ "/wiki/star-dust" | relative_url }}
-[扳手]: ({{ "/wiki/wrench" | relative_url }})
+[扳手]: {{ "/wiki/wrench" | relative_url }}
 
 ![]({{ "/assets/img/wiki/teleporter/overview.webp" | relative_url }})
 
