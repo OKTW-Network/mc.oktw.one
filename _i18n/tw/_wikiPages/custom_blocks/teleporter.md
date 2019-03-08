@@ -1,8 +1,8 @@
-[電梯]: {{ "/custom_blocks/elevator.html" | relative_url }}
+[電梯]: {{ "/wiki/elevator" | relative_url }}
 [傳送站]: #傳送站
-[邏輯處理元件]: {{ "/materials/logical-processing-element.html" | relative_url }}
-[冷卻元件]: {{ "/materials/cooling-element.html" | relative_url }}
-[星塵]: {{ "wiki/star-dust.html" | relative_url }}
+[邏輯處理元件]: {{ "/wiki/logical-processing-element" | relative_url }}
+[冷卻元件]: {{ "/wiki/cooling-element" | relative_url }}
+[星塵]: {{ "/wiki/star-dust" | relative_url }}
 
 ![]({{ "/assets/img/wiki/teleporter/overview.webp" | relative_url }})
 

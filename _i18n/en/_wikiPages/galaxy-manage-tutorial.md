@@ -16,7 +16,7 @@
 
 # How to create a Galaxy
 
-On the [Space Ship]({{ "/wiki/words.html#SpaceShip" | relative_url }}) Click [Space Ship Controller]({{ "/wiki/words.html#SpaceShipController" | relative_url }}) on the table  
+On the [Space Ship]({{ "/wiki/words#SpaceShip" | relative_url }}) Click [Space Ship Controller]({{ "/wiki/words#SpaceShipController" | relative_url }}) on the table  
 Click **Find unknown galaxy**  
 
 <img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/create_galaxy.png" | relative_url }}">
@@ -33,13 +33,13 @@ Click **Confirm**
 
 # How to open Galaxy manage GUI
 
-On the [Space Ship]({{ "/wiki/words.html#SpaceShip" | relative_url }}) Click [Space Ship Controller]({{ "/wiki/words.html#SpaceShipController" | relative_url }}) on the table  
+On the [Space Ship]({{ "/wiki/words#SpaceShip" | relative_url }}) Click [Space Ship Controller]({{ "/wiki/words#SpaceShipController" | relative_url }}) on the table  
 Switch to **Joined galaxy** using the button on the top-right
  corner
 
 <img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/joined_galaxy.png" | relative_url }}">
 
-Click [Galaxy]({{ "/wiki/words.html#Galaxy" | relative_url }}) that you want to manage. **You must be [Owner]({{ "/wiki/words.html#Owner" | relative_url }}) or [Admin]({{ "/wiki/words.html#Admin" | relative_url }}) of the Galaxy.**  
+Click [Galaxy]({{ "/wiki/words#Galaxy" | relative_url }}) that you want to manage. **You must be [Owner]({{ "/wiki/words#Owner" | relative_url }}) or [Admin]({{ "/wiki/words#Admin" | relative_url }}) of the Galaxy.**  
 
 <img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/select_galaxy.png" | relative_url }}">
 
@@ -146,7 +146,7 @@ Click **Change role**
 
 <img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/change_group.png" | relative_url }}">
 
-Click the role you want to give ( *[ADMIN]({{ "wiki/words.html#Admin" | relative_url }})* / *[MEMBER]({{ "/wiki/words.html#Member" | relative_url }})* )
+Click the role you want to give ( *[ADMIN]({{ "wiki/words#Admin" | relative_url }})* / *[MEMBER]({{ "/wiki/words#Member" | relative_url }})* )
 
 <img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/select_group.png" | relative_url }}">
 
