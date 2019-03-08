@@ -13,7 +13,7 @@
 
 ### 合成
 
-使用高科技合成台合成：
+使用[高科技合成台]({{ "/wiki/ht-crafting-table" | relative_url }})合成：
 
 - [基礎升級]({{ "/upgrades/base-upgrade.html" | relative_url }}) x 1  
 - 水瓶 x 1  
