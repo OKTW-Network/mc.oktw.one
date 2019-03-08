@@ -40,7 +40,7 @@ The green arrow on the left is upgrade, and the cross on the right is remove.
 
 #### Upgrading Interface
 
-<img class="recipe-photo" src="{{ "/assets/img/news/20180801-nether-update/chunkloader-upgrade.png" | relative_url }}">
+<img class="recipe-photo" src="{{ "/assets/en/img/news/20180801-nether-update/chunkloader-upgrade.png" | relative_url }}">
 
 It can be upgraded currently, we will add it in the future update.
 

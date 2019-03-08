@@ -23,7 +23,7 @@ After:
 * Redesigned the interface of the Space Ship Controller to improve using experience.
 * Add unclickable button
 
-<img class="article-photo" src="{{ "/assets/img/news/20181006-ht-crafting-table-update/new-galaxy-gui.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/en/img/news/20181006-ht-crafting-table-update/new-galaxy-gui.png" | relative_url }}">
 
 # HT Crafting Table
 
@@ -32,11 +32,11 @@ For the detailed usage, check [HT Crafting Table]({{ "/wiki/ht-crafting-table" |
 
 <img class="article-photo" src="{{ "/assets/img/news/20181006-ht-crafting-table-update/ht-crafting-table-overview.png" | relative_url }}">
 
-<img class="article-photo" src="{{ "/assets/img/news/20181006-ht-crafting-table-update/ht-crafting-table-interface.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/en/img/news/20181006-ht-crafting-table-update/ht-crafting-table-interface.png" | relative_url }}">
 
-<img class="article-photo" src="{{ "/assets/img/news/20181006-ht-crafting-table-update/ht-crafting-table-complete.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/en/img/news/20181006-ht-crafting-table-update/ht-crafting-table-complete.png" | relative_url }}">
 
-<img class="article-photo" src="{{ "/assets/img/news/20181006-ht-crafting-table-update/ht-crafting-table-success.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/en/img/news/20181006-ht-crafting-table-update/ht-crafting-table-success.png" | relative_url }}">
 
 # Multi-language Support
 
