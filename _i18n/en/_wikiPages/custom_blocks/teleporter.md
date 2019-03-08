@@ -90,22 +90,22 @@ Can teleport to other teleporters in this <b>galaxy</b>.
 
 #### Teleporter Frame
 
-To expand the teleporter area.
+To expand the teleporter area.  
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/frame.webp" | relative_url }}">
 <hr>
 <a name="Structure"></a>
 
 ### Structure
 
-A teleportation sturcture must have at least one core.
+A teleportation sturcture must have at least one core.  
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/structure_single.webp" | relative_url }}">
 
-You can also connect some teleporter frames to expand the structure:
+You can also connect some teleporter frames to expand the structure:  
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/structure_multi_1.webp" | relative_url }}">
 
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/structure_multi_2.webp" | relative_url }}">
 
-In addition, the placement of the teleporter frame is not limited to a flat platform:
+In addition, the placement of the teleporter frame is not limited to a flat platform:  
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/structure_stereoscopic.webp" | relative_url }}">
 
 __Notice that each core is able to connect at most 64 teleporter frame!__
@@ -114,20 +114,20 @@ __Notice that each core is able to connect at most 64 teleporter frame!__
 
 ### Interface
 
-Right click on the core or sneak on the core to open the teleport interface.
+Right click on the core or sneak on the core to open the teleport interface.  
 
-The name of this teleporter will show the title of interface, on the buttom is a list of teleporters that you can teleport to.
-You can figure out which type of planet is the destination by its icon.
+The name of this teleporter will show the title of interface, on the buttom is a list of teleporters that you can teleport to.  
+You can figure out which type of planet is the destination by its icon.  
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/interface.webp" | relative_url }}">
 <hr>
 <a name="Usage"></a>
 
 ### Usage
 
-Open the interface, click on the teleporter you want to teleport to, and wait for the countdown to teleport:
+Open the interface, click on the teleporter you want to teleport to, and wait for the countdown to teleport:  
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/interface_select.webp" | relative_url }}">
 
-Notice that entities to be teleported must stand on the teleporter structure .
+Notice that entities to be teleported must stand on the teleporter structure.  
 
 Correct：  
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/stand_O_1.webp" | relative_url }}">
@@ -139,8 +139,8 @@ Wrong：
 
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/stand_X_2.webp" | relative_url }}">
 
-Besides, entities to be teleported <b>must stand on the structure during the whole teleportation process</b>, if entities to be teleported leave the structure, its teleport qualifications will be cancelled.
+Besides, entities to be teleported <b>must stand on the structure during the whole teleportation process</b>, if entities to be teleported leave the structure, its teleport qualifications will be cancelled.  
 
-Finally, to identify every teleporter easily, you can name it using a name tag.
+Finally, to identify every teleporter easily, you can name it using a name tag.  
 <div style="width:100%;height:0px;position:relative;padding-bottom:52.927%;"><iframe src="https://streamable.com/s/78e4k/jtyolf?autoplay=1&muted=1" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
