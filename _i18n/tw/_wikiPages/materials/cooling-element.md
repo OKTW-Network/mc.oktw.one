@@ -13,7 +13,7 @@
 
 ### 合成
 
-使用高科技合成台合成：
+使用[高科技合成台]({{ "/wiki/ht-crafting-table" | relative_url }})合成：
 
 - [冷卻升級 LV.1]({{ "/wiki/cool-upgrade" | relative_url }}) x 1  
 - 紅石 x 20  
