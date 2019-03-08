@@ -6,7 +6,7 @@ layout: news
 subtitle: "Update the resourcepack, multi-language support and ht crafting table"
 ---
 
-# 資源包
+# Resourcepack
 
 * Icon of buttons redesigned by @infon_TW.
 * Add more button icons, make each button have its own icon.
