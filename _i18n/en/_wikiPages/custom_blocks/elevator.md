@@ -2,7 +2,7 @@
 
 ### Crafting
 
-Use crafting table to craft(Shapeless)
+It is crafted using the crafting table(Shapeless).
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/elevator/recipe.png" | relative_url }}">
 

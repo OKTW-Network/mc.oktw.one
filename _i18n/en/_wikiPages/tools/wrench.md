@@ -2,7 +2,7 @@
 
 ### Crafting
 
-Use crafting table to craft(Shape)
+It is crafted using the crafting table(Shape)
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/wrench/recipe.png" | relative_url }}">
 
