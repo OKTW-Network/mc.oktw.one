@@ -1,3 +1,7 @@
+[高科技合成台]: {{ "/wiki/ht-crafting-table" | relative_url }}
+[星塵]: {{ "/wiki/star-dust" | relative_url }}
+[強化陶板]: {{ "/wiki/ceramic-plate" | relative_url }}
+
 <img class="small-picture" src="{{ "/assets/img/wiki/material_icons/unformed_ceramic_plate.webp" | relative_url }}">
 
 <div class="article-content">
@@ -11,14 +15,14 @@
 
 ## 獲得方式
 
-#### 高科技合成台
+#### [高科技合成台][]
 
 - 黏土 x 8  
 - 黑曜石 x 8  
-- [星塵]({{ "/wiki/star-dust" | relative_url }}) x 20  
+- [星塵][] x 20  
 
 ---
 
 ## 用途
 
-- 合成[強化陶板]({{ "/wiki/ceramic-plate" | relative_url }})
+- 合成[強化陶板][]
