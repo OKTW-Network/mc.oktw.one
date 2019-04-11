@@ -69,10 +69,10 @@ wiki:
   materials:
     title: "材料"
     description: " "
-    ceramic-plate:
     unformed-ceramic-plate:
       title: "未成形的強化陶板"
       description: " "
+    ceramic-plate:
       title: "強化陶板"
       description: " "
     cooling-element:
