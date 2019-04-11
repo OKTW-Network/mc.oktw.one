@@ -1,5 +1,5 @@
 ---
-order : 3
+order : 4
 title:  wiki.materials.cooling-element.title
 icon: "cooling_element.webp"
 description: wiki.materials.cooling-element.description

@@ -1,19 +1,59 @@
-![]({{ "/assets/img/wiki/elevator/overview.png" | relative_url }})
+![]({{ "/assets/img/wiki/elevator/overview.webp" | relative_url }})
 
-### 合成
+一種進階的垂直移動方式
 
-使用合成台來合成(無序)
+<div class="article-content">
+<ol>
+    <li><a href="#獲得方式">獲得方式</a></li>
+	<li><a href="#結構">結構</a></li>
+    <li><a href="#使用">使用</a></li>
+	<li><a href="#其他用途">其他用途</a></li>
+</ol>
+</div>
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/elevator/recipe.png" | relative_url }}">
+---
 
-### 用途
+<a name="獲得方式"></a>
 
-使玩家在電梯之間快速移動。
+### 獲得方式
 
-### 功能
+#### 工作台
 
-電梯(至少兩個)垂直放置時，蹲下可以向下傳送，跳躍可以向上傳送。
+(無序合成)
 
-### 其他
+- 鐵磚 x 1  
+- 終界珍珠 x 1
 
-電梯的最遠距離是 16 格方塊(不包括電梯自己上下 16 格)。
+<img class="recipe-photo" src="{{ "/assets/img/wiki/elevator/recipe.webp" | relative_url }}">
+
+#### 高科技合成台
+
+- 鐵錠 x 9  
+- 終界珍珠 x 1
+
+---
+
+<a name="結構"></a>
+
+### 結構
+
+電梯的構成，必須至少有兩個電梯方塊互相垂直放置：  
+<img class="article-photo" src="{{ "/assets/img/wiki/elevator/structure.webp" | relative_url }}">
+
+__請注意，電梯可傳送的最遠距離只有不包括電梯本身的向外16格方塊遠__
+
+---
+
+<a name="使用"></a>
+
+### 使用
+
+蹲下可以向下傳送，跳躍則可以向上傳送。
+
+---
+
+<a name="其他用途"></a>
+
+### 其他用途
+
+- 合成[傳送站]({{ "/wiki/teleporter" | relative_url }})  

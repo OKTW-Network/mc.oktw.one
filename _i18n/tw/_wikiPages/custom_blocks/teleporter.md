@@ -64,7 +64,9 @@
 - 金錠 x 4  
 - 玻璃 x 1  
 - [星塵][] x 5
-<hr>
+
+---
+
 <a name="結構部件"></a>
 
 ### 結構部件
@@ -91,7 +93,9 @@
 
 用來擴大傳送站範圍  
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/frame.webp" | relative_url }}">
-<hr>
+
+---
+
 <a name="結構"></a>
 
 ### 結構
@@ -108,17 +112,21 @@
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/structure_stereoscopic.webp" | relative_url }}">
 
 __請注意，每個核心最多只能連接64個傳送框架!__
-<hr>
+
+---
+
 <a name="介面"></a>
 
 ### 介面
 
-對方塊按右鍵或在方塊上方蹲下，都可以打開傳送站介面
+右鍵核心方塊或在核心方塊上方蹲下，都可以打開介面。
 
 介面上方的標題列會顯示該傳送站的名稱，底下是可傳送之傳送站列表，  
-依照圖示可區分要傳送的傳送站位於哪一種星球類型:  
+依照圖示可區分要傳送的傳送站位於哪一種星球類型：  
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/interface.webp" | relative_url }}">
-<hr>
+
+---
+
 <a name="使用"></a>
 
 ### 使用
@@ -138,8 +146,7 @@ __請注意，每個核心最多只能連接64個傳送框架!__
 
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/stand_X_2.webp" | relative_url }}">
 
-另外，被傳送者<b>必須整個傳送過程都站在傳送站結構上</b>，若被傳送者離開結構，將會取消該實體的傳送資格
+另外，被傳送者<b>必須整個傳送過程都站在傳送站結構上</b>，若被傳送者離開結構，將會取消該實體的傳送資格!
 
 最後，如果想要更好的識別每個傳送站，你可以使用命名牌命名傳送站:  
-<div style="width:100%;height:0px;position:relative;padding-bottom:52.927%;"><iframe src="https://streamable.com/s/78e4k/jtyolf?autoplay=1&muted=1" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
-
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/s/ibton/kjsffs?autoplay=1&muted=1" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>

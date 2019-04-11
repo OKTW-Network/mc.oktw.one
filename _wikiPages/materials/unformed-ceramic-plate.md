@@ -1,7 +1,7 @@
 ---
-order : 2
+order : 1
 title: wiki.materials.ceramic-plate.title
-icon: "ceramic_plate.webp"
+icon: "unformed-ceramic-plate.webp"
 description: wiki.materials.ceramic-plate.description
 categories: materials
 layout: wiki
