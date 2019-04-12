@@ -9,22 +9,18 @@
 
 ---
 
-<a name="合成"></a>
+## 獲得方法
 
-### 合成
-
-使用高科技合成台合成：
+#### 高科技合成台
 
 - 紅石 x 4  
 - 地域石英 x 2  
 - 金錠 x 2  
 - 玻璃 x 1  
-- [星塵]({{ "wiki/star-dust.html" | relative_url }}) x 5  
+- [星塵]({{ "wiki/star-dust.html" | relative_url }}) x 5
 
 ---
 
-<a name="用途"></a>
-
-### 用途
+## 用途
 
 - 合成[升級]({{ "wiki/upgrades.html" | relative_url }})

@@ -43,6 +43,8 @@
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/log_slab.webp" | relative_url }}">  
 
+<hr class="sub">
+
 #### 半磚還原
 
 (木半磚合成表適用於所有木材種類，但不可混搭)
@@ -67,6 +69,8 @@
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/clear_color_glass.webp" | relative_url }}">  
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/color_glass.webp" | relative_url }}">  
 
+<hr class="sub">
+
 #### 玻璃片
 
 (適用於所有染色玻璃)  
@@ -74,6 +78,8 @@
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/clear_color_glass_pane.webp" | relative_url }}">  
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/color_glass_pane.webp" | relative_url }}">
+
+<hr class="sub">
 
 #### 玻璃片還原
 
@@ -127,7 +133,7 @@
 
 ### 陷阱儲物箱
 
-(適用於所有木頭種類)
+(適用於所有木材種類)
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/trapped_chest.webp" | relative_url }}">
 

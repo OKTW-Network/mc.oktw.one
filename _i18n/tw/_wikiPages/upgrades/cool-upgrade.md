@@ -9,22 +9,18 @@
 
 ---
 
-<a name="合成"></a>
+## 獲得方法
 
-### 合成
-
-使用高科技合成台合成：
+#### 高科技合成台
 
 - [基礎升級]({{ "/upgrades/base-upgrade.html" | relative_url }}) x 1  
 - 水瓶 x 1  
 - 任何樹葉 x 8  
-- [星塵]({{ "wiki/star-dust.html" | relative_url }}) x 10  
+- [星塵]({{ "wiki/star-dust.html" | relative_url }}) x 10
 
 ---
 
-<a name="用途"></a>
-
-### 用途
+## 用途
 
 - 合成[冷卻元件]({{ "/materials/cooling-element.html" | relative_url }})  
 - (未來)_武器升級物品_

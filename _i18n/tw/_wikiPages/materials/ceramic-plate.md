@@ -9,9 +9,7 @@
 
 ---
 
-<a name="獲得方式"></a>
-
-### 獲得方式
+## 獲得方式
 
 #### 熔爐燒製
 
@@ -21,9 +19,7 @@
 
 ---
 
-<a name="用途"></a>
-
-### 用途
+## 用途
 
 - 合成[冷卻元件]({{ "/wiki/cooling-element" | relative_url }})  
 - 合成[邏輯處理元件]({{ "/wiki/logical-processing-element" | relative_url }})

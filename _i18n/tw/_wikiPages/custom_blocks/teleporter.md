@@ -26,9 +26,7 @@
 
 ---
 
-<a name="獲得方式"></a>
-
-### 獲得方式
+## 獲得方式
 
 可由扳手`蹲下`+`右鍵`拆除
 
@@ -45,6 +43,7 @@
 - 黑曜石 x 6  
 - [星塵][] x 15
 
+<hr class="sub">
 
 ##### 高級傳送站
 
@@ -57,6 +56,7 @@
 - 鑽石 x2  
 - [星塵][] x 25
 
+<hr class="sub">
 
 ##### 傳送框架
 
@@ -67,11 +67,7 @@
 
 ---
 
-<a name="結構部件"></a>
-
-### 結構部件
-
-<a name="傳送站"></a>
+## 結構部件
 
 #### 傳送站
 
@@ -79,7 +75,7 @@
 可傳送到該<b>星球</b>內的其他傳送站  
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/teleporter.webp" | relative_url }}">
 
-<a name="高級傳送站"></a>
+<hr class="sub">
 
 #### 高級傳送站
 
@@ -87,7 +83,7 @@
 可傳送到該<b>星系</b>內的其他傳送站  
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/advanced_teleporter.webp" | relative_url }}">
 
-<a name="傳送框架"></a>
+<hr class="sub">
 
 #### 傳送框架
 
@@ -96,9 +92,7 @@
 
 ---
 
-<a name="結構"></a>
-
-### 結構
+## 結構
 
 傳送站的構成，必須至少要有一個核心：  
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/structure_single.webp" | relative_url }}">
@@ -115,11 +109,9 @@ __請注意，每個核心最多只能連接64個傳送框架!__
 
 ---
 
-<a name="介面"></a>
+## 介面
 
-### 介面
-
-右鍵核心方塊或在核心方塊上方蹲下，都可以打開介面。
+右鍵核心方塊或在核心方塊上方蹲下，都可以開啟介面。
 
 介面上方的標題列會顯示該傳送站的名稱，底下是可傳送之傳送站列表，  
 依照圖示可區分要傳送的傳送站位於哪一種星球類型：  
@@ -127,9 +119,7 @@ __請注意，每個核心最多只能連接64個傳送框架!__
 
 ---
 
-<a name="使用"></a>
-
-### 使用
+## 使用
 
 開啟介面，點選目標的傳送站，待倒數完畢之後便會傳送：  
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/interface_select.webp" | relative_url }}">
