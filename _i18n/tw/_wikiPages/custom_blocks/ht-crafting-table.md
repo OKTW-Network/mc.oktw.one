@@ -67,5 +67,5 @@
 若材料足夠將會顯示綠色勾勾按鈕，點擊綠色勾勾按鈕即可獲得合成物：  
 <img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/success.webp" | relative_url }}">
 
-若材料不足將會顯示紅色叉叉按鈕，點擊紅色叉叉按鈕則會返回主要介面：  
+若材料不足將會顯示紅色叉叉按鈕，點擊紅色叉叉按鈕將會返回主要介面：  
 <img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/failure.webp" | relative_url }}">
