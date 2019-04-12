@@ -72,8 +72,8 @@
 (適用於所有染色玻璃)  
 (無序合成)
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/color_glass_pane.webp" | relative_url }}">  
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/clear_color_glass_pane.webp" | relative_url }}">
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/clear_color_glass_pane.webp" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/color_glass_pane.webp" | relative_url }}">
 
 #### 玻璃片還原
 
