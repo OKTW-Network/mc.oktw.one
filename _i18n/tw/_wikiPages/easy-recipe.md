@@ -1,106 +1,165 @@
 
-- [箱子](#箱子)
-- [木棒](#木棒)
-- [漏斗](#漏斗)
-- [梯子](#梯子)
-- [半磚](#半磚)
-- [胡蘿蔔釣竿](#胡蘿蔔釣竿)
-- [書和羽毛筆](#書和羽毛筆)
-- [紅石燈](#紅石燈)
-- [發射器](#發射器)
-- [礦車](#礦車)
-- [玻璃](#玻璃)
-- [玻璃片](#玻璃片)
-- [玻璃片合成回磚](#玻璃片合成回磚)
-- [紅石中繼器](#紅石中繼器)
-- [陷阱箱](#陷阱箱)
+> 你現在有了更多的選擇。
+
+注: 沒有特別標記`(無序合成)`或`(鏡像合成)`者，皆為`有序合成`或`半有序合成`
+
+<div class="article-content">
+<ul>
+    <li><a href="#梯子">梯子</a></li>
+	<li><a href="#半磚">半磚</a></li>
+		<ul>
+			<li><a href="#半磚還原">半磚還原</a></li>
+		</ul>
+	<li><a href="#玻璃">玻璃</a></li>
+		<ul>
+			<li><a href="#玻璃片">玻璃片</a></li>
+		</ul>
+    <li><a href="#箱子">箱子</a></li>
+    <li><a href="#漏斗">漏斗</a></li>
+	<li><a href="#紅石燈">紅石燈</a></li>
+	<li><a href="#發射器">發射器</a></li>
+	<li><a href="#紅石中繼器">紅石中繼器</a></li>
+	<li><a href="#陷阱儲物箱">陷阱儲物箱</a></li>
+    <li><a href="#木棒">木棒</a></li>
+	<li><a href="#胡蘿蔔釣竿">胡蘿蔔釣竿</a></li>
+	<li><a href="#書和羽毛筆">書和羽毛筆</a></li>
+	<li><a href="#礦車">礦車</a></li>
+</ul>
+</div>
 
 ---
 
-# 箱子
+### 梯子
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/log_chest.png" | relative_url }}">  
-> 所有木頭種類都可以合成
+(適用於所有木頭種類)
 
-# 木棒
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/log_ladder.webp" | relative_url }}">
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/log_stick.png" | relative_url }}">  
-> 所有木頭種類都可以合成
+---
 
-# 漏斗
+### 半磚
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/log_hopper.png" | relative_url }}">  
-> 所有木頭種類都可以合成
+(適用於所有木頭種類)
 
-# 梯子
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/log_slab.webp" | relative_url }}">  
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/log_ladder.png" | relative_url }}">  
-> 所有木頭種類都可以合成
+#### 半磚還原
 
-# 半磚
+(木半磚合成表適用於所有木材種類，但不可混搭)
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/log_slab.png" | relative_url }}">  
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/wooden_slab_to_block.png" | relative_url }}">  
-> 所有木頭種類都可以合成  
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/cobblestone_slab_to_block.png" | relative_url }}">  
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/stone_slab_to_stone.png" | relative_url }}">  
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/stone_brick_slab_to_block.png" | relative_url }}">  
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/brick_slab_to_block.png" | relative_url }}">  
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/sandstone_slab_to_block.png" | relative_url }}">  
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/red_sandstone_slab_to_block.png" | relative_url }}">  
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/nether_slab_to_block.png" | relative_url }}">  
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/quartz_slab_to_block.png" | relative_url }}">  
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/purpur_slab_to_block.png" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/wooden_slab_to_block.webp" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/cobblestone_slab_to_block.webp" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/stone_slab_to_stone.webp" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/stone_brick_slab_to_block.webp" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/brick_slab_to_block.webp" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/sandstone_slab_to_block.webp" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/red_sandstone_slab_to_block.webp" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/nether_slab_to_block.webp" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/quartz_slab_to_block.webp" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/purpur_slab_to_block.webp" | relative_url }}">  
 
-# 胡蘿蔔釣竿
+---
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/carrot_on_a_stick.png" | relative_url }}">
+### 玻璃
 
-# 書和羽毛筆
+(適用於所有染色玻璃)
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/writable_book_made_with_uncrafted_book.png" | relative_url }}"> 
-> 無序合成
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/clear_color_glass.webp" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/color_glass.webp" | relative_url }}">  
 
-# 紅石燈
+#### 玻璃片
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/redstone_lamp_dust.png" | relative_url }}">
+(適用於所有染色玻璃)  
+(無序合成)
 
-# 發射器
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/color_glass_pane.webp" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/clear_color_glass_pane.webp" | relative_url }}">
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/dispenser.png" | relative_url }}">  
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/dispenser_unfinished_bow.png" | relative_url }}">  
+#### 玻璃片還原
 
-# 礦車
+(適用於所有染色玻璃，但不可混色)  
+(無序合成)
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/chest_minecart.png" | relative_url }}">  
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/tnt_minecart.png" | relative_url }}">  
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/hopper_minecart.png" | relative_url }}">  
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/furnace_minecart.png" | relative_url }}">
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/glass_pane_to_block.webp" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/stained_glass_pane_to_block.webp" | relative_url }}">   
 
-# 玻璃
+---
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/clear_color_glass.png" | relative_url }}">  
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/color_glass.png" | relative_url }}">  
-> 所有玻璃顏色都可以合成
+### 箱子
 
-# 玻璃片
+(適用於所有木頭種類)
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/color_glass_pane.png" | relative_url }}">  
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/clear_color_glass_pane.png" | relative_url }}">  
-> 所有玻璃顏色都可以合成
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/log_chest.webp" | relative_url }}">
 
-# 玻璃片合成回磚
+---
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/glass_pane_to_block.png" | relative_url }}">  
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/stained_glass_pane_to_block.png" | relative_url }}">   
-> 無序合成
-> 所有玻璃顏色都可以合成
+### 漏斗
 
-# 紅石中繼器
+(適用於所有木頭種類)
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/redstone_repeater.png" | relative_url }}">
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/log_hopper.webp" | relative_url }}">
 
-# 陷阱箱
+---
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/trapped_chest.png" | relative_url }}">  
-> 所有木頭種類都可以合成
+### 紅石燈
+
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/redstone_lamp_dust.webp" | relative_url }}">
+
+---
+
+### 發射器
+
+(無序合成)
+
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/dispenser.webp" | relative_url }}">
+
+(可垂直鏡像合成)
+
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/dispenser_unfinished_bow.webp" | relative_url }}">  
+
+---
+
+### 紅石中繼器
+
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/redstone_repeater.webp" | relative_url }}">
+
+---
+
+### 陷阱儲物箱
+
+(適用於所有木頭種類)
+
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/trapped_chest.webp" | relative_url }}">
+
+---
+
+### 木棒
+
+(適用於所有木頭種類)
+
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/log_stick.webp" | relative_url }}">
+
+---
+
+### 胡蘿蔔釣竿
+
+(可垂直鏡像合成)
+
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/carrot_on_a_stick.webp" | relative_url }}">
+
+---
+
+### 書和羽毛筆
+
+(無序合成)
+
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/writable_book_made_with_uncrafted_book.webp" | relative_url }}">
+
+---
+
+### 礦車
+
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/chest_minecart.webp" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/furnace_minecart.webp" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/hopper_minecart.webp" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/tnt_minecart.webp" | relative_url }}">
