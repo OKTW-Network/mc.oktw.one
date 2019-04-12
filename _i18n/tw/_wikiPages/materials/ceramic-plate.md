@@ -15,7 +15,7 @@
 
 #### 熔爐燒製
 
-[未成形的強化陶板]({{ "/wiki/unformed_ceramic_plate" | relative_url }}) -> 強化陶板
+[未成形的強化陶板]({{ "/wiki/unformed-ceramic-plate" | relative_url }}) -> 強化陶板
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/ceramic_plate/recipe.webp" | relative_url }}">
 
