@@ -41,7 +41,7 @@ __請注意，如果在進行星系命名時顯示「已取消創建星系」，
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/select_galaxy.png" | relative_url }}">
 
 然後選擇`管理星系`：  
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/gm_galaxy_manage.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/galaxy_manage.png" | relative_url }}">
 
 選擇`尋找未知星球`：  
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/gm_create_planet.png" | relative_url }}">

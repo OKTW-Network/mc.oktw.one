@@ -31,7 +31,7 @@ __請注意，使用`管理星系`功能必須先[擁有]({{ "/wiki/tutorial#創
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/galaxy_manage.png" | relative_url }}">
 
 或是在[星球終端]()介面裡也可以找到`管理星系`：  
-
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/terminal_galaxy_manage.png" | relative_url }}">
 
 <hr class="sub">
 
@@ -92,7 +92,7 @@ __請注意，移除玩家將會清除該玩家在星系內的所有資料__
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/select_join_request_player.png" | relative_url }}">
 
 進行審核後選擇`是`或`否`：  
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/review_join_request.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/join_request_review.png" | relative_url }}">
 
 *你也可以按`Esc`或`E`不進行審核離開介面*
 
