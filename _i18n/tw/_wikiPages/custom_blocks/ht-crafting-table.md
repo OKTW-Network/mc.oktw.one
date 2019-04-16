@@ -32,6 +32,8 @@
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/ht-ct/recipe.webp" | relative_url }}">
 
+<hr class="sub">
+
 #### 高科技合成台
 
 - 工作台 x 1  
