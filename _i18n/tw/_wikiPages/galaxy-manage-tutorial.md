@@ -1,7 +1,7 @@
 
 
 <div class="article-content">
-<ol>
+<ul>
     <li><a href="#介面">介面</a></li>
     <li><a href="#新增星球">新增星球</a></li>
 	<li><a href="#移除成員">移除成員</a></li>
@@ -11,7 +11,7 @@
 	<li><a href="#修改星系名稱">修改星系名稱</a></li>
 	<li><a href="#設定星系簡介">設定星系簡介</a></li>
 	<li><a href="#設定星系通知">設定星系通知</a></li>
-</ol>
+</ul>
 </div>
 
 ---
