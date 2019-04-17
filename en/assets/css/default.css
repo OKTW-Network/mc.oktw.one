@@ -104,9 +104,10 @@ hr {
   background: #f9f9f9 !important;
   color: #000000 !important;
   text-shadow: none !important;
-  padding: 2rem;
   height: 90%;
   transition: 0.4s;
+  padding-bottom: 2rem;
+  padding-top: 2rem;
 }
 
 .wiki-item:hover {
@@ -158,10 +159,6 @@ hr {
   text-shadow: none !important;
 }
 
-.wikiIcon {
-  font-size: 8vw;
-}
-
 ul {
   list-style: none;
 }
@@ -207,11 +204,18 @@ code {
   .subtitle {
     font-size: 1.9rem;
   }
+
+  .wikiIcon {
+    font-size: 5vw;
+  }
 }
 
 @media only screen and (max-width: 599px) {
   .subtitle {
     font-size: 1rem;
+  }
+  .wikiIcon {
+    font-size: 10vw;
   }
 }
 
