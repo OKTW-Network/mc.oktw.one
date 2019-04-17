@@ -131,6 +131,8 @@
 
 ## 星球種類
 
+<hr class="sub">
+
 ### 普通星球
 ##### Normal Planet
 
