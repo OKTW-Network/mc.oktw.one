@@ -11,7 +11,7 @@
 	<li><a href="#星系">星系</a></li>
 	<li><a href="#星球">星球</a></li>
 		<ul>
-			<li><a href="#星球終端"></a></li>
+			<li><a href="#星球終端">星球終端</a></li>
 			<li><a href="#環境控制系統">環境控制系統</a></li>
 		</ul>
 	<li><a href="#身分組">身分組</a></li>
