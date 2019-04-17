@@ -45,8 +45,8 @@ wiki:
   star-dust:
     title: "星塵"
     description: " "
-  tutorial:
-    title: "遊玩教學"
+  quick-start:
+    title: "快速入門"
     description: " "
   words:
     title: "用語集"

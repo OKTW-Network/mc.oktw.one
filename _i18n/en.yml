@@ -45,8 +45,8 @@ wiki:
   star-dust:
     title: "Star dust"
     description: " "
-  tutorial:
-    title: "Tutorial"
+  quick-start:
+    title: "Quick start"
     description: " "
   words:
     title: "Words"

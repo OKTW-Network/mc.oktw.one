@@ -16,7 +16,7 @@
 
 ---
 
-__請注意，使用`管理星系`功能必須先[擁有]({{ "/wiki/tutorial#創立星系" | relative_url }})一個星系，或是在該星系中是[管理員]({{ "/wiki/words#管理員" | relative_url }})！__
+__請注意，使用`管理星系`功能必須先[擁有]({{ "/wiki/quick-start#創立星系" | relative_url }})一個星系，或是在該星系中是[管理員]({{ "/wiki/words#管理員" | relative_url }})！__
 
 
 ## 介面
