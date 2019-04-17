@@ -35,14 +35,14 @@
 ---
 
 ## 旅行者
-#### Traveler
+##### Traveler
 
 在星際中旅行的人，也就是玩家。
 
 ---
 
 ## 星船
-#### SpaceShip
+##### SpaceShip
 
 <img class="article-photo" src="{{ "/assets/img/wiki/words/spaceship.png" | relative_url }}">
 
@@ -51,7 +51,7 @@
 <hr class="sub">
 
 ### 星船控制台
-#### SpaceShip Controler
+##### SpaceShip Controler
 
 <img class="article-photo" src="{{ "/assets/img/wiki/words/galaxy_controller.png" | relative_url }}">
 
@@ -60,7 +60,7 @@
 ---
 
 ## 星塵
-#### Star dust
+##### Star dust
 
 (詳見[星塵]({{ "/wiki/star-dust" | relative_url }}))
 
@@ -69,7 +69,7 @@
 ---
 
 ## 星系
-#### Galaxy
+##### Galaxy
 
 類似團隊的概念。
 
@@ -78,14 +78,14 @@
 ---
 
 ## 星球
-#### Planet
+##### Planet
 
 對應到Minecraft的世界，每個星球都是獨立的世界。
 
 <hr class="sub">
 
 ### 星球終端
-#### Terminal
+##### Terminal
 
 <img class="article-photo" src="{{ "/assets/img/wiki/words/planet_terminal.png" | relative_url }}">
 
@@ -94,36 +94,36 @@
 <hr class="sub">
 
 ### 環境控制系統
-#### Environment Control System
+##### Environment Control System
 
 在星球外圍的衛星，用來改善星球環境讓人可以生存。  
 提升星球終端等級可擴大範圍和使用附加效果 *(尚未開放)*
 
 ---
 
-#### Roles
 ## 身分組
+##### Roles
 
 權位區分，階級型權限結構(較高的權位可以無限向下繼承低權位的權限，但不會有更高權位的權限)。
 
 <hr class="sub">
 
 ### 擁有者
-#### Owner
+##### Owner
 
 星系的創立者，也擁有星系的完全管理權限。
 
 <hr class="sub">
 
 ### 管理員
-#### Admin
+##### Admin
 
 星系的管理者，擁有星系的完整管理權限。
 
 <hr class="sub">
 
 ### 成員
-#### Member
+##### Member
 
 星系的成員，擁有進入星球和完整的世界互動權限。
 
@@ -132,7 +132,7 @@
 ## 星球種類
 
 ### 普通星球
-#### Normal Planet
+##### Normal Planet
 
 生態域豐富且動植物茂密生長，適合人類居住。
 
@@ -143,7 +143,7 @@
 <hr class="sub">
 
 ### 炎熱星球
-#### Hot Planet
+##### Hot Planet
 
 該星球的溫度極高且地形複雜，有貌似人為建築分佈於各處。
 
@@ -154,7 +154,7 @@
 <hr class="sub">
 
 ### 黑暗星球
-#### Dark Planet
+##### Dark Planet
 
 *(尚未開放)*
 
