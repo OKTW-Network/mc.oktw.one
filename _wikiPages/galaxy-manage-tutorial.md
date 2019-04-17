@@ -1,5 +1,5 @@
 ---
-order: 4
+order: 3
 title: wiki.galaxy-manage-tutorial.title
 icon: "fas fa-user-cog"
 description: wiki.galaxy-manage-tutorial.description
