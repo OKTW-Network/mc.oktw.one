@@ -9,14 +9,19 @@
 傳送站是一種多點傳送結構，可以傳送任何實體。
 
 <div class="article-content">
-<ol>
+<ul>
     <li><a href="#獲得方式">獲得方式</a></li>
+		<ul>
+            <li><a href="#A傳送站">傳送站</a></li>
+            <li><a href="#A高級傳送站">高級傳送站</a></li>
+            <li><a href="#A傳送框架">傳送框架</a></li>
+        </ul>
     <li><a href="#結構部件">結構部件</a>
-        <ol>
-            <li><a href="#傳送站">傳送站</a></li>
-            <li><a href="#高級傳送站">高級傳送站</a></li>
-            <li><a href="#傳送框架">傳送框架</a></li>
-        </ol>
+        <ul>
+            <li><a href="#B傳送站">傳送站</a></li>
+            <li><a href="#B高級傳送站">高級傳送站</a></li>
+            <li><a href="#B傳送框架">傳送框架</a></li>
+        </ul>
     </li>
     <li><a href="#結構">結構</a></li>
     <li><a href="#介面">介面</a></li>
@@ -33,6 +38,8 @@
 
 #### 高科技合成台
 
+<a name="A傳送站"></a>
+
 ##### 傳送站
 
 - [電梯][] x 1  
@@ -44,6 +51,7 @@
 - [星塵][] x 15
 
 <hr class="sub">
+<a name="A高級傳送站"></a>
 
 ##### 高級傳送站
 
@@ -57,6 +65,7 @@
 - [星塵][] x 25
 
 <hr class="sub">
+<a name="A傳送框架"></a>
 
 ##### 傳送框架
 
@@ -69,6 +78,8 @@
 
 ## 結構部件
 
+<a name="B傳送站"></a>
+
 #### 傳送站
 
 傳送站結構核心  
@@ -76,6 +87,7 @@
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/teleporter.webp" | relative_url }}">
 
 <hr class="sub">
+<a name="B高級傳送站"></a>
 
 #### 高級傳送站
 
@@ -84,6 +96,7 @@
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/advanced_teleporter.webp" | relative_url }}">
 
 <hr class="sub">
+<a name="B傳送框架"></a>
 
 #### 傳送框架
 
