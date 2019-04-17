@@ -136,7 +136,7 @@ hr.sub {
 }
 
 .article-content{
-  display: table;
+  display: table-cell;
   padding: 8px;
   background-color: #e5e5e5;
   border: 2px #a2a9b1 solid;
@@ -146,15 +146,51 @@ hr.sub {
 }
 
 .article-content ul{
-  padding: 0px 0px 0px 25px !important;
-  margin: 0px 0px 0px 0px !important;
-  list-style: circle !important;
+  padding: 0px 0px 0px 20px;
+  margin: 0px 0px 0px 0px;
+  list-style: circle;
+}
+
+.article-content ul ul{
+  padding: 0px 0px 0px 20px;
+  margin: 0px 0px 0px 0px;
+  list-style: disc;
+}
+
+.article-content ol ul{
+  padding: 0px 0px 0px 20px;
+  margin: 0px 0px 0px 0px;
+  list-style: disc;
+}
+
+.article-content ul ul ul{
+  padding: 0px 0px 0px 20px;
+  margin: 0px 0px 0px 0px;
+  list-style: square;
 }
 
 .article-content ol{
-  padding: 0px 0px 0px 25px !important;
-  margin: 0px 0px 0px 0px !important;
-  list-style: decimal !important;
+  padding: 0px 0px 0px 20px;
+  margin: 0px 0px 0px 0px;
+  list-style: decimal;
+}
+
+.article-content ol ol{
+  padding: 0px 0px 0px 23;
+  margin: 0px 0px 0px 0px;
+  list-style: lower-roman;
+}
+
+.article-content ul ol{
+  padding: 0px 0px 0px 20px;
+  margin: 0px 0px 0px 0px;
+  list-style: lower-roman;
+}
+
+.article-content ol ol ol{
+  padding: 0px 0px 0px 20px;
+  margin: 0px 0px 0px 0px;
+  list-style: lower-alpha;
 }
 
 .article-content a{
