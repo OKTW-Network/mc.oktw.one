@@ -38,7 +38,7 @@
 
 ## 結構
 
-電梯的構成，必須至少有兩個電梯方塊互相垂直放置：  
+構成一座可以使用的電梯，必須至少有兩個電梯方塊互相垂直放置：  
 <img class="article-photo" src="{{ "/assets/img/wiki/elevator/structure.webp" | relative_url }}">
 
 __請注意，電梯可傳送的最遠距離只有不包括電梯本身的向外16格方塊遠__

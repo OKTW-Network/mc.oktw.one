@@ -9,7 +9,7 @@
 傳送站是一種多點傳送結構，可以傳送任何實體。
 
 <div class="article-content">
-<ul>
+<ol>
     <li><a href="#獲得方式">獲得方式</a></li>
 		<ul>
             <li><a href="#A傳送站">傳送站</a></li>
@@ -26,7 +26,7 @@
     <li><a href="#結構">結構</a></li>
     <li><a href="#介面">介面</a></li>
     <li><a href="#使用">使用</a></li>
-</ul>
+</ol>
 </div>
 
 ---

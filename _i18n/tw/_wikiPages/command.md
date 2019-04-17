@@ -1,10 +1,10 @@
 
 
 <div class="article-content">
-<ol>
+<ul>
     <li><a href="#spawn">/spawn</a></li>
     <li><a href="#sign">/sign</a></li>
-</ol>
+</ul>
 </div>
 
 ---
