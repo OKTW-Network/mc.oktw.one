@@ -5,6 +5,7 @@ icon: "fas fa-cube"
 description: wiki.custome-blocks.description
 categories: wiki
 layout: wiki
+---
 
 {% tf _wikiPages/custom-blocks.md %}
 
@@ -16,7 +17,7 @@ layout: wiki
             <div class="col-sm-3">
                 <a href="{{ wiki.url | relative_url }}" class="wiki-a">
                     <div class="card text-center wiki-item">
-                        <div class="card-img-top">
+                        <div class="card-img-top wikiImageIcon">
                             <img src="{{ "/assets/img/wiki/custom_block_icons/" | relative_url  }}{{ wiki.icon }}">
                         </div>
                         <div class="card-body">
