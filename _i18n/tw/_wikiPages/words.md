@@ -44,7 +44,7 @@
 ## 星船
 ##### SpaceShip
 
-<img class="article-photo" src="{{ "/assets/img/wiki/words/spaceship.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/img/wiki/words/spaceship.webp" | relative_url }}">
 
 伺服器大廳，設有[星船控制台](#星船控制台)供旅行者使用。
 
@@ -53,7 +53,7 @@
 ### 星船控制台
 ##### SpaceShip Controler
 
-<img class="article-photo" src="{{ "/assets/img/wiki/words/galaxy_controller.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/img/wiki/words/galaxy_controller.webp" | relative_url }}">
 
 在星船上的控制台，用來探索宇宙或管理星系。
 
@@ -87,7 +87,7 @@
 ### 星球終端
 ##### Terminal
 
-<img class="article-photo" src="{{ "/assets/img/wiki/words/planet_terminal.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/img/wiki/words/planet_terminal.webp" | relative_url }}">
 
 星球的入口，一個5x5x5的結構，結構中央的烽火台可以與飛船和[環境控制系統](#環境控制系統)連線。
 
@@ -140,7 +140,7 @@
 
 對應Minecraft的基礎世界類型。
 
-<img class="article-photo" src="{{ "/assets/img/wiki/words/normal_planet.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/img/wiki/words/normal_planet.webp" | relative_url }}">
 
 <hr class="sub">
 
@@ -151,7 +151,7 @@
 
 對應Minecraft的地獄世界類型。
 
-<img class="article-photo" src="{{ "/assets/img/wiki/words/hot_planet.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/img/wiki/words/hot_planet.webp" | relative_url }}">
 
 <hr class="sub">
 
