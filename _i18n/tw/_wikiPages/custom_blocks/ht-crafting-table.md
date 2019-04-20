@@ -12,8 +12,6 @@
 
 ---
 
-<a name="獲得方式"></a>
-
 ### 獲得方式
 
 可由扳手`蹲下`+`右鍵`拆除
@@ -45,8 +43,6 @@
 
 ---
 
-<a name="介面"></a>
-
 ### 介面
 
 `右鍵`方塊可開啟介面。
@@ -60,8 +56,6 @@
 <img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/lack.webp" | relative_url }}">
 
 ---
-
-<a name="使用"></a>
 
 ### 使用
 
