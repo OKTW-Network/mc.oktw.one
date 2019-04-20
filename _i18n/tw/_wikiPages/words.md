@@ -20,9 +20,6 @@
 			<li><a href="#管理員">管理員</a></li>
 			<li><a href="#成員">成員</a></li>
 		</ul>
-	<li><a href="#成員">成員</a></li>
-	<li><a href="#管理員">管理員</a></li>
-	<li><a href="#擁有者">擁有者</a></li>
 	<li><a href="#星球種類">星球種類</a></li>
 		<ol>
 			<li><a href="#普通星球">普通</a></li>
