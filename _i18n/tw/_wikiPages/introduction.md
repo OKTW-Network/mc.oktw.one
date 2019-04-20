@@ -1,12 +1,12 @@
 
 <div class="article-content">
-<ul>
+<ol>
     <li><a href="#故事設定">故事設定</a></li>
     <li><a href="#伺服器特色">伺服器特色</a></li>
 	<li><a href="#伺服器規範">伺服器規範</a></li>
 	<li><a href="#注意事項">注意事項</a></li>
 	<li><a href="#加入星系計畫">加入星系計畫</a></li>
-</ul>
+</ol>
 </div>
 
 ---

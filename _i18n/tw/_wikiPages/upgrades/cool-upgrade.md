@@ -1,10 +1,10 @@
 <img class="small-picture" src="{{ "/assets/img/wiki/upgrade_icons/cooling_upgrade.webp" | relative_url }}">
 
 <div class="article-content">
-<ul>
     <li><a href="#獲得方法">獲得方法</a></li>
+<ol>
     <li><a href="#用途">用途</a></li>
-</ul>
+</ol>
 </div>
 
 ---
