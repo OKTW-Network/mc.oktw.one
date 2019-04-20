@@ -1,15 +1,15 @@
 <img class="small-picture" src="{{ "/assets/img/wiki/upgrade_icons/upgrade_base.webp" | relative_url }}">
 
 <div class="article-content">
-    <li><a href="#獲得方法">獲得方法</a></li>
 <ol>
+    <li><a href="#獲得方式">獲得方式</a></li>
     <li><a href="#用途">用途</a></li>
 </ol>
 </div>
 
 ---
 
-## 獲得方法
+## 獲得方式
 
 #### 高科技合成台
 
