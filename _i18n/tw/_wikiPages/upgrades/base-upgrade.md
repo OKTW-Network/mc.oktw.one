@@ -2,7 +2,7 @@
 
 <div class="article-content">
 <ul>
-    <li><a href="#合成" style="color:#2a6cd6;">合成</a></li>
+    <li><a href="#獲得方法" style="color:#2a6cd6;">獲得方法</a></li>
     <li><a href="#用途" style="color:#2a6cd6;">用途</a></li>
 </ul>
 </div>
@@ -17,10 +17,10 @@
 - 地域石英 x 2  
 - 金錠 x 2  
 - 玻璃 x 1  
-- [星塵]({{ "wiki/star-dust.html" | relative_url }}) x 5
+- [星塵]({{ "wiki/star-dust" | relative_url }}) x 5
 
 ---
 
 ## 用途
 
-- 合成[升級]({{ "wiki/upgrades.html" | relative_url }})
+- 合成[升級]({{ "wiki/upgrades" | relative_url }})
