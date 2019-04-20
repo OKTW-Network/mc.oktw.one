@@ -90,10 +90,19 @@ a.list-group-item.list-group-item-action {
 hr {
   background-color: white;
   height: 2px;
-  margin-top: 40px;
-  margin-bottom: 40px;
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 5px;
+  margin-right: 15%;
+}
+
+hr.sub {
+  background-color: #dee2e6;
+  height: 2px;
+  margin-top: 15px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  margin-right: 45%;
 }
 
 .container-fluid {
@@ -128,8 +137,8 @@ hr {
   color: #000000 !important;
 }
 
-.article-content {
-  display: table;
+.article-content{
+  display: table-cell;
   padding: 8px;
   background-color: #e5e5e5;
   border: 2px #a2a9b1 solid;
@@ -138,16 +147,52 @@ hr {
   text-shadow: none !important;
 }
 
-.article-content ul {
-  padding: 0px 0px 0px 25px !important;
-  margin: 0px 0px 0px 0px !important;
-  list-style: circle !important;
+.article-content ul{
+  padding: 0px 0px 0px 20px;
+  margin: 0px 0px 0px 0px;
+  list-style: circle;
 }
 
-.article-content ol {
-  padding: 0px 0px 0px 25px !important;
-  margin: 0px 0px 0px 0px !important;
-  list-style: decimal !important;
+.article-content ul ul{
+  padding: 0px 0px 0px 20px;
+  margin: 0px 0px 0px 0px;
+  list-style: disc;
+}
+
+.article-content ol ul{
+  padding: 0px 0px 0px 20px;
+  margin: 0px 0px 0px 0px;
+  list-style: disc;
+}
+
+.article-content ul ul ul{
+  padding: 0px 0px 0px 20px;
+  margin: 0px 0px 0px 0px;
+  list-style: square;
+}
+
+.article-content ol{
+  padding: 0px 0px 0px 20px;
+  margin: 0px 0px 0px 0px;
+  list-style: decimal;
+}
+
+.article-content ol ol{
+  padding: 0px 0px 0px 23;
+  margin: 0px 0px 0px 0px;
+  list-style: lower-roman;
+}
+
+.article-content ul ol{
+  padding: 0px 0px 0px 20px;
+  margin: 0px 0px 0px 0px;
+  list-style: lower-roman;
+}
+
+.article-content ol ol ol{
+  padding: 0px 0px 0px 20px;
+  margin: 0px 0px 0px 0px;
+  list-style: lower-alpha;
 }
 
 .article-content a {
@@ -194,15 +239,14 @@ code {
 
 @media only screen and (min-width: 600px) {
   .recipe-photo {
-    width: 40%;
+    width: 45%;
   }
 
   .article-photo {
     width: 60%;
   }
-
-  .small-picture {
-    width: 20%;
+  .small-picture{
+	width: 33%;
   }
 
   .subtitle {

@@ -30,7 +30,7 @@
     <link rel="stylesheet" href="//fonts.googleapis.com/earlyaccess/notosanstc.css">
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/bootstrap@4.1.2/dist/css/bootstrap.min.css" integrity="sha256-zVUlvIh3NEZRYa9X/qpNY8P1aBy0d4FrI7bhfZSZVwc=" crossorigin="anonymous">
     <link rel="stylesheet" href="//use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="/assets/css/default.css?v=20190418124807">
+    <link rel="stylesheet" type="text/css" href="/assets/css/default.css?v=20190420122433">
 </head>
 
 <body>
@@ -80,26 +80,95 @@
     <article class="post">
         <h1>Chunk Loader</h1>
         <div class="entry">
-            <p><img src="/assets/img/wiki/chunkloader/overview.png" alt="" /></p>
+            <p><img src="/assets/img/wiki/chunkloader/overview.webp" alt="" /></p>
 
-<h3 id="說明">說明</h3>
+<p>賦予終界水晶一個新的功能</p>
 
-<p>Minecraft 的世界運算是以 Chunk 為單位運算的，一般來說只有玩家周圍直徑 10 Chunk的範圍會載入。</p>
+<div class="article-content">
+<ol>
+    <li><a href="#獲得方式">獲得方式</a></li>
+    <li><a href="#結構">結構</a></li>
+    <li><a href="#介面">介面</a></li>
+    <li><a href="#使用">使用</a></li>
+	<li><a href="#額外補充">額外補充</a></li>
+</ol>
+</div>
 
-<p>有玩家在附近的 Chunk 才會更新，如果玩家遠離了那個 Chunk，伺服器會將 Chunk 中的方塊與生物等資料儲存並從記憶體中刪除，等到玩家下次接近時再從硬碟讀取並載入至記憶體。</p>
+<hr />
 
-<p>只有載入的 Chunk 會進行更新。玩家在附近時生物才會動，農作物才會成長。</p>
+<h2 id="獲得方式">獲得方式</h2>
 
-<p>如果希望某一個 Chunk 沒有玩家在附近也會保持載入，就可以使用 ChunkLoader。</p>
+<h4 id="工作台">工作台</h4>
 
-<h3 id="使用方法">使用方法</h3>
+<p>(有序合成)</p>
 
-<p>將終界水晶放置於黑曜石上方。</p>
+<ul>
+  <li>終界之眼 x 1</li>
+  <li>幽靈眼淚 x 1</li>
+  <li>玻璃 x 7</li>
+</ul>
 
-<h3 id="其他">其他</h3>
+<p><img class="recipe-photo" src="/assets/img/wiki/chunkloader/recipe.webp" /></p>
 
-<p>終界水晶在我們伺服器中另外作為 ChunkLoader 的功能。<br />
-目前範圍為 1 Chunk，未來可以插升級來擴大範圍。</p>
+<hr />
+
+<h2 id="結構">結構</h2>
+
+<p>只要是由玩家將終界水晶放置在黑曜石上，即會變為有區塊載入功能的裝置，但外觀上不會有變化</p>
+
+<hr />
+
+<h2 id="介面">介面</h2>
+
+<p><code class="highlighter-rouge">右鍵</code>裝置可開啟介面。</p>
+
+<p>一個較為簡單的介面，介面中有兩個按鈕：<br />
+<img class="article-photo" src="/assets/img/wiki/chunkloader/interface.webp" /></p>
+
+<p>介面中間偏左的綠色向上箭頭按鈕是升級按鈕：<br />
+<img class="article-photo" src="/assets/img/wiki/chunkloader/interface_upgrade.webp" /></p>
+
+<p>介面中間偏右的紅色叉叉按鈕則是移除按鈕：<br />
+<img class="article-photo" src="/assets/img/wiki/chunkloader/interface_remove.webp" /></p>
+
+<hr />
+
+<h2 id="使用">使用</h2>
+
+<p>將終界水晶放置下來後，裝置便會開始運作。<br />
+目前因為還無法放入升級，所以運作範圍將只有裝置所在的Chunk。</p>
+
+<p>若要將裝置取下，只需點擊移除按鈕</p>
+
+<p>升級插槽目前還無法放入任何升級，敬請期待…</p>
+
+<hr />
+
+<h2 id="額外補充">額外補充</h2>
+
+<h4 id="chunk-x-load-x-unload">Chunk X load X unload</h4>
+
+<p>Chunk 是一個在遊戲世界中 長16 寬16 高256 的三維區域，用於管理世界。<br />
+對玩家而言，最能感受到 Chunk 的不外乎就是視野距離，但事實上這並不是 Chunk 唯一的用途。</p>
+
+<p>想像一下，你今天準備出門時，先在熔爐裡放了一整組的鐵礦和一些當做燃料的煤炭磚，然後你出了門，騎著馬跑了三天三夜終於找到了離家幾千格的村莊，
+跟村民哈拉了兩句，最後啟程回家，沒想到回到家後發現熔爐裡的那些鐵礦居然還在處裡…<br />
+這並不是什麼 bug，也不是什麼人品問題，而是一項為了遊戲效能的設計。</p>
+
+<p>在遊戲裡，玩家視野距離範圍的 Chunk 會載入到記憶體中，此時範圍中的 Chunk 才會不斷更新，而那些不在視野距離範圍內的 Chunk 則會存入硬碟，這也就是為什麼會發生上面的小短劇。</p>
+
+<p>那要是你就是希望跑離家幾千格遠，家中的熔爐卻還能持續運作，這要如何辦到呢?<br />
+答案就是── Chunk loader，簡單來說就是不依靠玩家也能繼續更新 Chunk 的東西。</p>
+
+<p>那原生遊戲中就沒有 Chunk loader 嗎?<br />
+有的，其實世界重生點就是一個Chunk loader，但只限於玩家存在該世界的時候，而且對事件的處理也有限制。<br />
+你也能從網路上找到其他怪怪的方法來實現 Chunk load ，像是什麼拿物品往地獄門裡丟之類的。<br />
+在1.13.1以後的版本也可以使用<code class="highlighter-rouge">/forceload</code>指令達成 Chunk load。(<a href="https://minecraft.gamepedia.com/Minecraft_Wiki">Minecraft Wiki</a> 中的 <a href="https://minecraft.gamepedia.com/Commands/forceload">forceload 指令</a>)</p>
+
+<p>聽起來蠻麻煩的對吧?<br />
+所以星系計畫提供了一種更方便的方法，你只需要把它做出來，然後放下它，它就會為你載入 Chunk 了!</p>
+
+<p>最後，如果你想要在遊戲裡使用 Chunk loader，請謹慎使用，持續載入 Chunk 也代表持續的運算、監控該區域，若是在重度自動化的區域使用 Chunk loader，必定會對主機造成一定程度的負擔。</p>
 
         </div>
     </article>
@@ -152,7 +221,7 @@
         crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.js" integrity="sha256-icjghcPaibMf1jv4gQIGi5MeWNHem2SispcorCiCfSg="
         crossorigin="anonymous"></script>
-    <script src="/assets/js/main.js?v=20190418124807"></script>
+    <script src="/assets/js/main.js?v=20190420122433"></script>
 
 </body>
 
