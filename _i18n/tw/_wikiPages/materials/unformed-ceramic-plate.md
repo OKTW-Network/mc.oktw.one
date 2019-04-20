@@ -21,4 +21,4 @@
 
 ## 用途
 
-- 合成[強化陶板]({{ "/wiki/ceramic_plate" | relative_url }})
+- 合成[強化陶板]({{ "/wiki/ceramic-plate" | relative_url }})
