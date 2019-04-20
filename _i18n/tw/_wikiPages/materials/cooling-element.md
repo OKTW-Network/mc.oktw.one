@@ -24,5 +24,5 @@
 
 ## 用途
 
-- 合成[傳送站]({{ "/wiki/teleporter" | relative_url }})  
-- 合成[高級傳送站]({{ "/wiki/teleporter" | relative_url }})
+- 合成[傳送站]({{ "/wiki/teleporter#A傳送站" | relative_url }})  
+- 合成[高級傳送站]({{ "/wiki/teleporter#A高級傳送站" | relative_url }})
