@@ -1,5 +1,5 @@
 ---
-order: 2
+order: 4
 title: wiki.words.title
 icon: "fas fa-clipboard-list"
 description: wiki.words.description

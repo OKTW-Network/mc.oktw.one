@@ -1,172 +1,181 @@
-- [如何創造星系](#如何創造星系)
-- [如何開啟管理星系介面](#如何開啟管理星系介面)
-- [如何新增星球](#如何新增星球)
-- [如何升級星球](#如何升級星球)
-- [如何添加成員](#如何添加成員)
-- [如何移除成員](#如何移除成員)
-- [如何審核加入申請](#如何審核加入申請)
-- [如何修改成員身分組](#如何修改成員身分組)
-- [如何修改星系名稱](#如何修改星系名稱)
-- [如何修改星系簡介](#如何修改星系簡介)
-- [如何設定星系通知](#如何設定星系通知)
+
+
+<div class="article-content">
+<ol>
+    <li><a href="#介面">介面</a></li>
+    <li><a href="#新增星球">新增星球</a></li>
+	<li><a href="#移除成員">移除成員</a></li>
+    <li><a href="#添加成員">添加成員</a></li>
+	<li><a href="#審核加入申請">審核加入申請</a></li>
+	<li><a href="#修改成員身分組">修改成員身分組</a></li>
+	<li><a href="#修改星系名稱">修改星系名稱</a></li>
+	<li><a href="#設定星系簡介">設定星系簡介</a></li>
+	<li><a href="#設定星系通知">設定星系通知</a></li>
+</ol>
+</div>
 
 ---
 
-# 如何創造星系
+__請注意，使用`管理星系`功能必須先[擁有一個星系]({{ "/wiki/quick-start#創立星系" | relative_url }})，或是在該星系中是[管理員]({{ "/wiki/words#管理員" | relative_url }})！__
 
-在[星船]({{ "/wiki/words#星船" | relative_url }})中對桌上的[星船控制台]({{ "/wiki/words#星船控制台" | relative_url }})點右鍵  
-在跳出的介面中點選 **尋找未知星系**  
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/create_galaxy.png" | relative_url }}">
+## 介面
 
-在 **聊天介面** 中輸入 **星系名稱** 並送出  
+開啟[星船控制台]({{ "/wiki/words#星船控制台" | relative_url }})介面，然後確認右上角的按鈕顯示為`已加入`，如果顯示`全部`，請按一下按鈕來切換：  
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/list_joined_galaxy.webp" | relative_url }}">
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/type_galaxy_name.png" | relative_url }}">
+<hr class="sub">
 
-點選確定  
+選擇需要管理的[星系]({{ "/wiki/words#星系" | relative_url }})：  
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/select_galaxy_list_joined.webp" | relative_url }}">
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/confirm_galaxy.png" | relative_url }}">
+<hr class="sub">
 
-# 如何開啟管理星系介面
+然後選擇`管理星系`進入介面：  
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/galaxy_manage.webp" | relative_url }}">
 
-在[星船]({{ "/wiki/words#星船" | relative_url }})中對桌上的[星船控制台]({{ "/wiki/words#星船控制台" | relative_url }})點右鍵  
-按一下右上角的切換按鈕切換成**已加入**  
+<hr class="sub">
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/joined_galaxy.png" | relative_url }}">
+或是在[星球終端]({{ "/wiki/words#星球終端" | relative_url }})介面裡也可以找到`管理星系`：  
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/terminal_galaxy_manage.webp" | relative_url }}">
 
-點選你要管理的[星系]({{ "/wiki/words#星系" | relative_url }}) **必須是[擁有者]({{ "/wiki/words#擁有者" | relative_url }})或是[管理員]({{ "/wiki/words#管理員" | relative_url }})** 
+---
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/select_galaxy.png" | relative_url }}">
+## 新增星球
 
-然後點選 **管理星系**
+在[管理星系](#介面)介面中選擇`尋找未知星球`：  
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/gm_create_planet.webp" | relative_url }}">
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/galaxy_manage.png" | relative_url }}">
+<hr class="sub">
 
-# 如何新增星球
+選擇一種星球種類：  
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/planet_type.webp" | relative_url }}">
 
-開啟 **[管理星系介面](#如何開啟管理星系介面)**  
-點選 **尋找未知星球**  
+*目前只能夠擁有`普通星球`和`炎熱星球`各一顆，其他星球敬請期待未來開放...*
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/create_planet.png" | relative_url }}">
+<hr class="sub">
 
-點選 **新增的星球種類**  
+在聊天介面中輸入一個星球名稱並送出：  
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/input_planet_name.webp" | relative_url }}">
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/planet_type.png" | relative_url }}">
+__請注意，星球名稱只允許使用: 英文、數字、底線(`_`)、減號(`-`) ，如果因為輸入了不允許的字元跳出紅字錯誤提示，請重做第一步驟並再次輸入和檢查新的名稱是不是符合可使用的字元。__
 
-> 目前只可新增兩顆，第一顆普通地球不需要星塵，第二顆只限定新增地域(需要 1000 星塵)
-在 **聊天介面** 中輸入 **星球名稱** 並送出 ( **只可輸入英文、數字、底線(_)、減號(-)** )  
+<hr class="sub">
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/type_planet_name.png" | relative_url }}">
+確認名稱無誤後選擇`確定`：  
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/confirm_planet.webp" | relative_url }}">
 
-點選確定  
+---
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/confirm_planet.png" | relative_url }}">
+## 移除成員
 
-> 如果出現紅字代表名稱已經被使用或包含不允許的字，請將名稱修正後再嘗試一次  
+在[管理星系](#介面)介面中選擇`管理成員`：  
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/gm_manage_member.webp" | relative_url }}">
 
-# 如何升級星球
+<hr class="sub">
 
-尚未開放
+選擇想要移除的玩家：  
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/select_member.webp" | relative_url }}">
 
-# 如何移除成員
+<hr class="sub">
 
-開啟 **[管理星系介面](#如何開啟管理星系介面)**  
-點選 **管理成員**  
+選擇`移除成員`：  
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/remove_member.webp" | relative_url }}">
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/manage_member.png" | relative_url }}">
+<hr class="sub">
 
-選擇 **要移除的玩家**  
+確認無誤後選擇`是`：  
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/confirm_remove.webp" | relative_url }}">
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/select_member.png" | relative_url }}">
+__請注意，移除玩家將會清除該玩家在該星系內的所有資料__
 
-點選 **移除成員**  
+---
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/remove_member.png" | relative_url }}">
+## 添加成員
 
-點選 **是**  
+在[管理星系](#介面)介面中選擇`添加成員`：  
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/gm_add_member.webp" | relative_url }}">
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/confirm_remove.png" | relative_url }}">
+<hr class="sub">
 
-# 如何添加成員
+在聊天介面中輸入玩家名稱並送出：  
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/input_player.webp" | relative_url }}">
 
-開啟 **[管理星系介面](#如何開啟管理星系介面)**  
-點選 **添加成員**  
+---
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/add_member.png" | relative_url }}">
+## 審核加入申請
 
-在 **聊天介面** 中輸入玩家名稱並送出  
+在[管理星系](#介面)介面中選擇`加入申請`：  
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/gm_join_requests.webp" | relative_url }}">
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/type_player.png" | relative_url }}">
+<hr class="sub">
 
-# 如何審核加入申請
+選擇需要審核的玩家：  
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/select_join_request_player.webp" | relative_url }}">
 
-開啟 **[管理星系介面](#如何開啟管理星系介面)**  
-點選 **加入申請**  
+<hr class="sub">
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/join_requests.png" | relative_url }}">
+進行審核後選擇`是`或`否`：  
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/join_request_review.webp" | relative_url }}">
 
-點選 **要審核的玩家**
+*你也可以按`Esc`或`E`不進行審核離開介面*
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/select_join_request_player.png" | relative_url }}">
+---
 
-點選 **是** 或 **否**
+## 修改成員身分組
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/review_join_request.png" | relative_url }}">
+在[管理星系](#介面)介面中選擇`管理成員`：  
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/gm_manage_member.webp" | relative_url }}">
 
+<hr class="sub">
 
-# 如何修改成員身分組
+選擇想要修改的玩家：  
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/select_member.webp" | relative_url }}">
 
-開啟 **[管理星系介面](#如何開啟管理星系介面)**  
-點選 **管理成員**  
+<hr class="sub">
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/manage_member.png" | relative_url }}">
+選擇`更改身分組`：  
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/change_group.webp" | relative_url }}">
 
-選擇 **要修改的玩家**  
+<hr class="sub">
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/select_member.png" | relative_url }}">
+選擇一個所選玩家的新身分組([管理員]({{ "wiki/words#管理員" | relative_url }})/[成員]({{ "/wiki/words#成員" | relative_url }}))：  
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/select_group.webp" | relative_url }}">
 
-點選 **更改身分組**  
+---
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/change_group.png" | relative_url }}">
+## 修改星系名稱
 
-點選要給予的身分組 ( *[ADMIN(管理員)]({{ "wiki/words#管理員" | relative_url }})* / *[MEMBER(成員)]({{ "/wiki/words#成員" | relative_url }})* )
+在[管理星系](#介面)介面中選擇`重新命名`：  
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/gm_rename.webp" | relative_url }}">
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/select_group.png" | relative_url }}">
+<hr class="sub">
 
+然後在聊天介面中輸入新的星系名稱並送出：  
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/input_rename.webp" | relative_url }}">
 
-# 如何修改星系名稱
+---
 
-開啟 **[管理星系介面](#如何開啟管理星系介面)**  
-點選 **重新命名**  
+## 設定星系簡介
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/rename.png" | relative_url }}">
+在[管理星系](#介面)介面中選擇`更改簡介`：  
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/gm_change_info.webp" | relative_url }}">
 
-在 **聊天介面** 中輸入 **新的星系名稱** 並送出  
+<hr class="sub">
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/rename_type.png" | relative_url }}">
+然後在聊天介面中輸入(新的)簡介並送出：  
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/input_info.webp" | relative_url }}">
 
+---
 
-# 如何修改星系簡介
+## 設定星系通知
 
-開啟 **[管理星系介面](#如何開啟管理星系介面)**  
-點選 **更改簡介**  
+在[管理星系](#介面)介面中選擇`更改通知`：  
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/gm_change_notice.webp" | relative_url }}">
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/change_info.png" | relative_url }}">
+<hr class="sub">
 
-在 **聊天介面** 中輸入 **新的簡介** 並送出  
+然後在聊天介面中輸入新的通知並送出：  
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/input_notice.webp" | relative_url }}">
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/info_type.png" | relative_url }}">
-
-
-# 如何設定星系通知
-
-開啟 **[管理星系介面](#如何開啟管理星系介面)**  
-點選 **更改通知**  
-
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/change_notice.png" | relative_url }}">
-
-在 **聊天介面** 中輸入 **新的通知** 並送出  
-
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/notice_type.png" | relative_url }}">
-
-> 可以使用  `\n` 換行
+*可以使用`\n`換行*
