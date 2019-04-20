@@ -49,7 +49,7 @@
 
 ### 介面
 
-右鍵方塊可開啟介面。
+`右鍵`方塊可開啟介面。
 
 介面上方為分類選單，底下是可合成的物品：  
 <img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/interface.webp" | relative_url }}">
