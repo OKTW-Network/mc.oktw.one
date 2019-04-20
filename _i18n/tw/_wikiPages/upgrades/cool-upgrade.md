@@ -13,7 +13,7 @@
 
 #### 高科技合成台
 
-- [基礎升級]({{ "wiki/upgrades/base-upgrade" | relative_url }}) x 1  
+- [基礎升級]({{ "wiki/base-upgrade" | relative_url }}) x 1  
 - 水瓶 x 1  
 - 任何樹葉 x 8  
 - [星塵]({{ "wiki/star-dust" | relative_url }}) x 10
@@ -22,5 +22,5 @@
 
 ## 用途
 
-- 合成[冷卻元件]({{ "wiki/materials/cooling-element" | relative_url }})  
+- 合成[冷卻元件]({{ "wiki/cooling-element" | relative_url }})  
 - (未來)_武器升級物品_
