@@ -3,7 +3,7 @@
 
 <div class="article-content">
 <ol>
-    <li><a href="#獲得方式"></a></li>
+    <li><a href="#獲得方式">獲得方式</a></li>
     <li><a href="#用途">用途</a></li>
 	<li><a href="#貢獻星塵">貢獻星塵</a></li>
 </ol>

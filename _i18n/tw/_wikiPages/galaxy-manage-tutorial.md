@@ -16,7 +16,7 @@
 
 ---
 
-__請注意，使用`管理星系`功能必須先[擁有]({{ "/wiki/quick-start#創立星系" | relative_url }})一個星系，或是在該星系中是[管理員]({{ "/wiki/words#管理員" | relative_url }})！__
+__請注意，使用`管理星系`功能必須先[擁有一個星系]({{ "/wiki/quick-start#創立星系" | relative_url }})，或是在該星系中是[管理員]({{ "/wiki/words#管理員" | relative_url }})！__
 
 
 ## 介面
@@ -36,7 +36,7 @@ __請注意，使用`管理星系`功能必須先[擁有]({{ "/wiki/quick-start#
 
 <hr class="sub">
 
-或是在[星球終端]()介面裡也可以找到`管理星系`：  
+或是在[星球終端]({{ "/wiki/words#星球終端" | relative_url }})介面裡也可以找到`管理星系`：  
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/terminal_galaxy_manage.webp" | relative_url }}">
 
 ---
