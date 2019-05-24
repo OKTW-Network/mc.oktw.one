@@ -1,5 +1,5 @@
 ---
-order : 2
+order : 3
 title: wiki.materials.logical-processing-element.title
 icon: "logical_processing_element.webp"
 description: wiki.materials.logical-processing-element.description

@@ -44,7 +44,7 @@ img {
   z-index: -1;
 }
 
-.subtitle{
+.subtitle {
   font-size: 1.25rem;
 }
 
@@ -65,7 +65,7 @@ img {
 }
 
 .profile_img {
-  height:100%;
+  height: 100%;
   border-radius: 50%
 }
 
@@ -83,51 +83,62 @@ a:hover {
   text-decoration: underline gray;
 }
 
-a.list-group-item.list-group-item-action{
+a.list-group-item.list-group-item-action {
   text-shadow: unset !important;
 }
 
 hr {
   background-color: white;
   height: 2px;
-  margin-top: 40px;
-  margin-bottom: 40px;
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 5px;
+  margin-right: 15%;
+}
+
+hr.sub {
+  background-color: #dee2e6;
+  height: 2px;
+  margin-top: 15px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  margin-right: 45%;
 }
 
 .container-fluid {
   min-height: 100%;
 }
 
-.wiki-item{
+.wiki-item {
   background: #f9f9f9 !important;
   color: #000000 !important;
   text-shadow: none !important;
-  padding: 2rem;
   height: 90%;
   transition: 0.4s;
+  padding-bottom: 2rem;
+  padding-top: 2rem;
 }
 
 .wiki-item:hover {
   color: #000000 !important;
-  text-decoration: none !important ;
-  -webkit-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.75);
-  -moz-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.75);
-  box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.75);
+  text-decoration: none !important;
+  -webkit-box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.75);
 }
 
-.wiki-a{
-  text-decoration: none !important ;
+.wiki-a {
+  text-decoration: none !important;
   color: #000000 !important;
 }
-.wiki-a:hover{
-  text-decoration: none !important ;
+
+.wiki-a:hover {
+  text-decoration: none !important;
   color: #000000 !important;
 }
 
 .article-content{
-  display: table;
+  display: table-cell;
   padding: 8px;
   background-color: #e5e5e5;
   border: 2px #a2a9b1 solid;
@@ -137,23 +148,59 @@ hr {
 }
 
 .article-content ul{
-  padding: 0px 0px 0px 25px !important;
-  margin: 0px 0px 0px 0px !important;
-  list-style: circle !important;
+  padding: 0px 0px 0px 20px;
+  margin: 0px 0px 0px 0px;
+  list-style: circle;
+}
+
+.article-content ul ul{
+  padding: 0px 0px 0px 20px;
+  margin: 0px 0px 0px 0px;
+  list-style: disc;
+}
+
+.article-content ol ul{
+  padding: 0px 0px 0px 20px;
+  margin: 0px 0px 0px 0px;
+  list-style: disc;
+}
+
+.article-content ul ul ul{
+  padding: 0px 0px 0px 20px;
+  margin: 0px 0px 0px 0px;
+  list-style: square;
 }
 
 .article-content ol{
-  padding: 0px 0px 0px 25px !important;
-  margin: 0px 0px 0px 0px !important;
-  list-style: decimal !important;
+  padding: 0px 0px 0px 20px;
+  margin: 0px 0px 0px 0px;
+  list-style: decimal;
 }
 
-.article-content a{
+.article-content ol ol{
+  padding: 0px 0px 0px 23;
+  margin: 0px 0px 0px 0px;
+  list-style: lower-roman;
+}
+
+.article-content ul ol{
+  padding: 0px 0px 0px 20px;
+  margin: 0px 0px 0px 0px;
+  list-style: lower-roman;
+}
+
+.article-content ol ol ol{
+  padding: 0px 0px 0px 20px;
+  margin: 0px 0px 0px 0px;
+  list-style: lower-alpha;
+}
+
+.article-content a {
   text-shadow: none !important;
   color: #0645ad !important;
 }
 
-.no-shadow{
+.no-shadow {
   text-shadow: none !important;
 }
 
@@ -161,7 +208,7 @@ ul {
   list-style: none;
 }
 
-li:not(.nav-item):not(.article-content li):before{
+li:not(.nav-item):not(.article-content li):before {
   content: '\2022';
   padding: 10px;
   text-shadow: 0px 2px 10px #000000;
@@ -180,30 +227,43 @@ li,
   text-shadow: 0px 2px 10px #000000;
 }
 
-code{
+code {
   background: rgba(80, 80, 80, 1);
   padding: 2px;
   border-radius: 5px;
 }
 
+.card-img-top.wikiImageIcon {
+  padding:1em;
+}
+
 @media only screen and (min-width: 600px) {
   .recipe-photo {
-    width: 40%;
+    width: 45%;
   }
+
   .article-photo {
     width: 60%;
   }
   .small-picture{
-	width: 20%;
+	width: 33%;
   }
+
   .subtitle {
     font-size: 1.9rem;
+  }
+
+  .wikiIcon {
+    font-size: 5vw;
   }
 }
 
 @media only screen and (max-width: 599px) {
   .subtitle {
     font-size: 1rem;
+  }
+  .wikiIcon {
+    font-size: 10vw;
   }
 }
 

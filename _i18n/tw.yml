@@ -31,29 +31,29 @@ index:
 
 wiki:
   command:
-    title: "指令"
-    description: "遊戲內可使用的指令"
+    title: "指令集"
+    description: " "
   easy-recipe:
     title: "更多合成表"
-    description: "比原版更多的合成表"
+    description: " "
   galaxy-manage-tutorial:
     title: "星系管理教學"
-    description: "在這裡可以找到關於星系管理的教學"
+    description: " "
   introduction:
     title: "簡介"
-    description: "簡介 OKTW 星系計畫"
+    description: " "
   star-dust:
     title: "星塵"
-    description: "與眾不同的經濟系統"
-  tutorial:
-    title: "遊玩教學"
-    description: "不知道怎麼玩嗎？這邊可以幫助你"
+    description: " "
+  quick-start:
+    title: "快速入門"
+    description: " "
   words:
     title: "用語集"
-    description: "不知道那些字詞在講什麼的話，這邊可以幫助你"
+    description: " "
   custom-blocks:
     title: "功能方塊"
-    description: "擁有更多功能的方塊"
+    description: " "
     chunkloader:
       title: "Chunk Loader"
       description: " "
@@ -69,6 +69,9 @@ wiki:
   materials:
     title: "材料"
     description: " "
+    unformed-ceramic-plate:
+      title: "未成形的強化陶板"
+      description: " "
     ceramic-plate:
       title: "強化陶板"
       description: " "
@@ -80,7 +83,7 @@ wiki:
       description: " "
   tools:
     title: "工具"
-    description: "更多不同的工具"
+    description: " "
     wrench:
       title: "扳手"
       description: " "

@@ -45,8 +45,8 @@ wiki:
   star-dust:
     title: "Star dust"
     description: " "
-  tutorial:
-    title: "Tutorial"
+  quick-start:
+    title: "Quick start"
     description: " "
   words:
     title: "Words"
@@ -69,6 +69,9 @@ wiki:
   materials:
     title: "Materials"
     description: " "
+    unformed-ceramic-plate:
+      title: "Unformed Ceramic Plate"
+      description: " "
     ceramic-plate:
       title: "Ceramic Plate"
       description: " "

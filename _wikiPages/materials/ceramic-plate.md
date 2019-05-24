@@ -1,5 +1,5 @@
 ---
-order : 1
+order : 2
 title: wiki.materials.ceramic-plate.title
 icon: "ceramic_plate.webp"
 description: wiki.materials.ceramic-plate.description
