@@ -1,5 +1,4 @@
-export PATH=$PATH:/usr/sbin/
-find / -iname "groupadd"
+export PATH=$PATH:/usr/sbin/:/usr/local/rvm/
 yum install wget gcc-c++ patch readline readline-devel zlib zlib-devel libyaml-devel libffi-devel openssl-devel make bzip2 autoconf automake libtool bison iconv-devel sqlite-devel
 wget -O rvm.asc "https://rvm.io/mpapis.asc"
 gpg --import rvm.asc
@@ -14,3 +13,6 @@ rvm use 2.6.3 --default
 gem install jekyll bundler
 bundle install
 jekyll build
+find . -iname "ruby"
+find . -iname "jekyll"
+find . -iname "bundler"
