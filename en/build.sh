@@ -13,6 +13,7 @@ rvm use 2.6.3 --default
 gem install jekyll bundler
 bundle install
 jekyll build
-find . -iname "ruby"
-find . -iname "jekyll"
-find . -iname "bundler"
+find / -iname "rvm"
+find / -iname "ruby"
+find / -iname "jekyll"
+find / -iname "bundler"
