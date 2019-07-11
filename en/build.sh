@@ -3,7 +3,7 @@ wget -O rvm.asc "https://rvm.io/mpapis.asc"
 gpg --import rvm.asc
 wget -O rvm.sh "get.rvm.io"
 chmod +x rvm.sh
-./rvm.sh -s stable
+bash ./rvm.sh -s stable --ruby
 source /etc/profile.d/rvm.sh
 rvm reload
 rvm requirements run
