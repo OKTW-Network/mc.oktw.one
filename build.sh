@@ -1,4 +1,4 @@
-export PATH=$PATH:/usr/sbin/:/usr/local/rvm/bin/
+export PATH=$PATH:/usr/sbin/:/usr/local/rvm/bin/:/usr/local/rvm/src/ruby-2.6.3/bin/
 yum install wget gcc-c++ patch readline readline-devel zlib zlib-devel libyaml-devel libffi-devel openssl-devel make bzip2 autoconf automake libtool bison iconv-devel sqlite-devel
 wget -O rvm.asc "https://rvm.io/mpapis.asc"
 gpg --import rvm.asc
