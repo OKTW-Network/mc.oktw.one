@@ -22,6 +22,11 @@ rvm requirements run
 rvm install 2.6.3
 rvm use 2.6.3 --default
 
+rm /usr/bin/ruby
+rm /usr/bin/gem
+ln -s /usr/local/rvm/src/ruby-2.6.3/bin/ruby /usr/sbin/ruby
+ln -s /usr/local/rvm/src/ruby-2.6.3/bin/gem /usr/sbin/gem
+
 # Install Jekyll
 gem install jekyll bundler
 bundler install
