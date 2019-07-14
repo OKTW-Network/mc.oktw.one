@@ -1,7 +1,4 @@
-export PATH=$PATH:/usr/sbin/:/usr/local/rvm/bin/:/usr/local/rvm/src/ruby-2.6.3/bin/
-
-# Remove original Ruby
-yum remove ruby -y
+export PATH=$PATH:/usr/sbin/:/usr/local/rvm/bin/
 
 # Install wget
 yum install wget
@@ -16,8 +13,6 @@ chmod +x rvm-installer
 bash ./rvm-installer 
 
 # Install Ruby 2.6.3
-cat /etc/profile.d/rvm.sh
-/etc/profile.d/rvm.sh
 rvm reload
 rvm requirements run
 rvm install 2.6.3
@@ -27,3 +22,9 @@ rvm use 2.6.3
 gem install jekyll bundler
 bundler install
 jekyll build
+
+ls $HOME/.rvm
+ls $HOME/.rvm/bin
+ls $HOME/.rvm/scripts/
+
+$HOME/.rvm/scripts/rvm
