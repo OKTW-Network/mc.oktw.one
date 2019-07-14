@@ -1,26 +1,17 @@
 export PATH=$PATH:/usr/sbin/:/usr/local/rvm/bin/
 
-# Install wget
-yum install wget
+# Install packages
+yum install -y wget gcc-c++ patch readline readline-devel zlib zlib-devel libyaml-devel libffi-devel openssl-devel make bzip2 autoconf automake libtool bison iconv-devel sqlite-devel
 
-# Install RVM Public GPG Key
-wget -O rvm.asc "https://rvm.io/mpapis.asc"
-gpg --import rvm.asc
 
-# Install RVM
-wget -O rvm-installer "get.rvm.io"
-chmod +x rvm-installer
-bash ./rvm-installer 
-
-# Install Ruby 2.6.3
-ls /usr/local/rvm
-ls /usr/local/rvm/bin
-ls /usr/local/rvm/scripts/
-/usr/local/rvm/scripts/rvm
-rvm reload
-rvm requirements run
-rvm install 2.6.3
-rvm use 2.6.3
+# Build Ruby
+wget https://cache.ruby-lang.org/pub/ruby/2.6/ruby-2.6.3.tar.gz
+tar -xvf ruby-2.6.3.tar.gz
+cd ruby-2.6.3
+./configure
+make -j8
+make install
+cd ..
 
 # Install Jekyll
 gem install jekyll bundler
