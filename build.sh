@@ -1,4 +1,4 @@
-export PATH=$PATH:/usr/sbin/:/usr/local/rvm/bin/:/usr/local/rvm/src/ruby-2.6.3/bin/
+export PATH=$PATH:/usr/sbin/:/usr/local/rvm/bin/
 yum install wget gcc-c++ patch readline readline-devel zlib zlib-devel libyaml-devel libffi-devel openssl-devel make bzip2 autoconf automake libtool bison iconv-devel sqlite-devel
 wget -O rvm.asc "https://rvm.io/mpapis.asc"
 gpg --import rvm.asc
@@ -10,9 +10,9 @@ rvm reload
 rvm requirements run
 rvm install 2.6.3
 rvm use 2.6.3 --default
-gem install jekyll bundler
-bundle install
-jekyll build
+/usr/local/rvm/src/ruby-2.6.3/bin/gem install jekyll bundler
+/usr/local/rvm/src/ruby-2.6.3/bin/bundler install
+/usr/local/rvm/src/ruby-2.6.3/bin/jekyll build
 find / -iname "rvm"
 find / -iname "ruby"
 find / -iname "gem"
