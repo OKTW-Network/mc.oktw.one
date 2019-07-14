@@ -20,7 +20,7 @@ source /etc/profile.d/rvm.sh
 rvm reload
 rvm requirements run
 rvm install 2.6.3
-rvm use 2.6.3 --default
+rvm use 2.6.3
 
 rm /usr/bin/ruby
 rm /usr/bin/gem
