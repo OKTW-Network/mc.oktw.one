@@ -13,6 +13,10 @@ chmod +x rvm-installer
 bash ./rvm-installer 
 
 # Install Ruby 2.6.3
+ls /usr/local/rvm
+ls /usr/local/rvm/bin
+ls /usr/local/rvm/scripts/
+/usr/local/rvm/scripts/rvm
 rvm reload
 rvm requirements run
 rvm install 2.6.3
@@ -22,9 +26,3 @@ rvm use 2.6.3
 gem install jekyll bundler
 bundler install
 jekyll build
-
-ls $HOME/.rvm
-ls $HOME/.rvm/bin
-ls $HOME/.rvm/scripts/
-
-$HOME/.rvm/scripts/rvm
