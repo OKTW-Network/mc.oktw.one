@@ -3,6 +3,9 @@ export PATH=$PATH:/usr/sbin/:/usr/local/rvm/bin/:/usr/local/rvm/src/ruby-2.6.3/b
 # Remove original Ruby
 yum remove ruby -y
 
+# Install wget
+yum install wget
+
 # Install RVM Public GPG Key
 wget -O rvm.asc "https://rvm.io/mpapis.asc"
 gpg --import rvm.asc
