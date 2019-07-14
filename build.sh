@@ -16,4 +16,4 @@ cd ..
 # Install Jekyll
 gem install jekyll bundler
 bundler install
-jekyll build
+bundle exec jekyll build
