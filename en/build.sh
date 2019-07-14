@@ -15,5 +15,6 @@ bundle install
 jekyll build
 find / -iname "rvm"
 find / -iname "ruby"
+find / -iname "gem"
 find / -iname "jekyll"
 find / -iname "bundler"
