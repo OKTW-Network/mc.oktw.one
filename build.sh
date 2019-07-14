@@ -12,6 +12,7 @@ cd ruby-2.6.3
 make -j8
 make install
 cd ..
+rm -rf ruby-2.6.3.tar.gz ruby-2.6.3
 
 # Install Jekyll
 gem install jekyll bundler
