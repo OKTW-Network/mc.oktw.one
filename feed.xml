@@ -1,4 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tw"><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://mc.oktw.one/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mc.oktw.one/" rel="alternate" type="text/html" hreflang="tw" /><updated>2019-07-14T13:26:05+00:00</updated><id>https://mc.oktw.one/feed.xml</id><title type="html">OKTW Network</title><subtitle>由許多人聯合經營的Minecraft伺服器</subtitle><entry><title type="html">2019Q1-傳送器!</title><link href="https://mc.oktw.one/news/2019/03/03/teleporter-update.html" rel="alternate" type="text/html" title="2019Q1-傳送器!" /><published>2019-03-03T12:00:00+00:00</published><updated>2019-03-03T12:00:00+00:00</updated><id>https://mc.oktw.one/news/2019/03/03/teleporter-update</id><content type="html" xml:base="https://mc.oktw.one/news/2019/03/03/teleporter-update.html">&lt;h1 id=&quot;傳送站&quot;&gt;傳送站&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tw"><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://mc.oktw.one/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mc.oktw.one/" rel="alternate" type="text/html" hreflang="tw" /><updated>2019-07-20T05:53:26+00:00</updated><id>https://mc.oktw.one/feed.xml</id><title type="html">OKTW Network</title><subtitle>由許多人聯合經營的Minecraft伺服器</subtitle><entry><title type="html">星系計畫2.0 - 公測開始</title><link href="https://mc.oktw.one/news/2019/07/09/2.0lite-open-beta.html" rel="alternate" type="text/html" title="星系計畫2.0 - 公測開始" /><published>2019-07-09T16:00:00+00:00</published><updated>2019-07-09T16:00:00+00:00</updated><id>https://mc.oktw.one/news/2019/07/09/2.0lite-open-beta</id><content type="html" xml:base="https://mc.oktw.one/news/2019/07/09/2.0lite-open-beta.html">&lt;p&gt;&lt;img src=&quot;/assets/img/news/20190710-2.0lite-open-beta/banner.webp&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;星系計畫2.0公開測試開始，歡迎玩家踴躍參與!&lt;/p&gt;
+
+&lt;p&gt;由於原1.12.2星系計畫大部分功能尚未移植至1.14，所以可以當作是多世界的原版 Minecraft，未來也會陸續加入相關功能。&lt;br /&gt;
+沿用多世界概念，但不會限制地圖邊界，並且開放地獄與終界。&lt;/p&gt;
+
+&lt;p&gt;本次公測目標為測試伺服器集群負載與穩定性，歡迎玩家用最兇殘的方式遊玩!&lt;/p&gt;
+
+&lt;hr class=&quot;sub&quot; /&gt;
+
+&lt;p&gt;&lt;strong&gt;連線資訊&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;連線位置: &lt;code class=&quot;highlighter-rouge&quot;&gt;beta.galaxy.mc.oktw.one&lt;/code&gt;&lt;br /&gt;
+遊戲版本: &lt;code class=&quot;highlighter-rouge&quot;&gt;1.14.4&lt;/code&gt;&lt;/p&gt;
+
+&lt;hr class=&quot;sub&quot; /&gt;
+
+&lt;p&gt;&lt;strong&gt;注意事項&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;本次測試採刪檔制，所有資料在公開測試結束後將會銷毀。&lt;/li&gt;
+  &lt;li&gt;由於使用實驗性架構，公測期間可能會發生服務中斷或資料遺失等狀況。&lt;/li&gt;
+  &lt;li&gt;公測期間若在遊戲內有&lt;strong&gt;任何&lt;/strong&gt;損失都將不會補償。&lt;/li&gt;
+  &lt;li&gt;測試期間如果遭遇任何問題，請務必通知我們。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr class=&quot;sub&quot; /&gt;
+
+&lt;p&gt;&lt;strong&gt;開始吧!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;進入伺服器大廳後，請先輸入指令&lt;code class=&quot;highlighter-rouge&quot;&gt;/join [玩家]&lt;/code&gt;。&lt;em&gt;(指令輸入後可能需要一些時間處理，請耐心等候)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;/join [玩家]&lt;/code&gt; 加入&lt;code class=&quot;highlighter-rouge&quot;&gt;[玩家]&lt;/code&gt;的世界，如果不輸入&lt;code class=&quot;highlighter-rouge&quot;&gt;[玩家]&lt;/code&gt;則加入自己的世界，如果&lt;code class=&quot;highlighter-rouge&quot;&gt;[玩家]&lt;/code&gt;的世界不存在則會創建一個世界。&lt;br /&gt;
+範例: &lt;code class=&quot;highlighter-rouge&quot;&gt;/join&lt;/code&gt; 或 &lt;code class=&quot;highlighter-rouge&quot;&gt;/join steve&lt;/code&gt;&lt;/p&gt;
+
+&lt;hr class=&quot;sub&quot; /&gt;
+
+&lt;p&gt;不想錯過任何重要資訊?&lt;br /&gt;
+加入我們的 &lt;a href=&quot;https://discord.gg/E74tcJC&quot;&gt;Discord&lt;/a&gt; 或是 &lt;a href=&quot;https://www.facebook.com/oktw.mc&quot;&gt;Facebook&lt;/a&gt; 吧!&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">2019Q1-傳送器!</title><link href="https://mc.oktw.one/news/2019/03/03/teleporter-update.html" rel="alternate" type="text/html" title="2019Q1-傳送器!" /><published>2019-03-03T12:00:00+00:00</published><updated>2019-03-03T12:00:00+00:00</updated><id>https://mc.oktw.one/news/2019/03/03/teleporter-update</id><content type="html" xml:base="https://mc.oktw.one/news/2019/03/03/teleporter-update.html">&lt;h1 id=&quot;傳送站&quot;&gt;傳送站&lt;/h1&gt;
 
 &lt;p&gt;架設傳送站來快速旅行&lt;br /&gt;
 &lt;em&gt;(&lt;a href=&quot;/wiki/teleporter&quot;&gt;傳送站的詳細說明&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
