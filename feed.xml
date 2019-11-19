@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tw"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://mc.oktw.one/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mc.oktw.one/" rel="alternate" type="text/html" hreflang="tw" /><updated>2019-10-01T13:58:07+00:00</updated><id>https://mc.oktw.one/feed.xml</id><title type="html">OKTW Network</title><subtitle>由許多人聯合經營的Minecraft伺服器</subtitle><entry><title type="html">星系計畫2.0 - 公測開始</title><link href="https://mc.oktw.one/news/2019/07/09/2.0lite-open-beta.html" rel="alternate" type="text/html" title="星系計畫2.0 - 公測開始" /><published>2019-07-09T16:00:00+00:00</published><updated>2019-07-09T16:00:00+00:00</updated><id>https://mc.oktw.one/news/2019/07/09/2.0lite-open-beta</id><content type="html" xml:base="https://mc.oktw.one/news/2019/07/09/2.0lite-open-beta.html">&lt;p&gt;&lt;img src=&quot;/assets/img/news/20190710-2.0lite-open-beta/banner.webp&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tw"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://mc.oktw.one/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mc.oktw.one/" rel="alternate" type="text/html" hreflang="tw" /><updated>2019-11-19T10:21:31+00:00</updated><id>https://mc.oktw.one/feed.xml</id><title type="html">OKTW Network</title><subtitle>由許多人聯合經營的Minecraft伺服器</subtitle><entry><title type="html">星系計畫2.0 - 公測開始</title><link href="https://mc.oktw.one/news/2019/07/09/2.0lite-open-beta.html" rel="alternate" type="text/html" title="星系計畫2.0 - 公測開始" /><published>2019-07-09T16:00:00+00:00</published><updated>2019-07-09T16:00:00+00:00</updated><id>https://mc.oktw.one/news/2019/07/09/2.0lite-open-beta</id><content type="html" xml:base="https://mc.oktw.one/news/2019/07/09/2.0lite-open-beta.html">&lt;p&gt;&lt;img src=&quot;/assets/img/news/20190710-2.0lite-open-beta/banner.webp&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;星系計畫2.0公開測試開始，歡迎玩家踴躍參與!&lt;/p&gt;
 
@@ -11,8 +11,8 @@
 
 &lt;p&gt;&lt;strong&gt;連線資訊&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;連線位置: &lt;code class=&quot;highlighter-rouge&quot;&gt;beta.galaxy.mc.oktw.one&lt;/code&gt;&lt;br /&gt;
-遊戲版本: &lt;code class=&quot;highlighter-rouge&quot;&gt;1.14.4&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;連線位置: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;beta.galaxy.mc.oktw.one&lt;/code&gt;&lt;br /&gt;
+遊戲版本: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;1.14.4&lt;/code&gt;&lt;/p&gt;
 
 &lt;hr class=&quot;sub&quot; /&gt;
 
@@ -29,10 +29,10 @@
 
 &lt;p&gt;&lt;strong&gt;開始吧!&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;進入伺服器大廳後，請先輸入指令&lt;code class=&quot;highlighter-rouge&quot;&gt;/join [玩家]&lt;/code&gt;。&lt;em&gt;(指令輸入後可能需要一些時間處理，請耐心等候)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;進入伺服器大廳後，請先輸入指令&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/join [玩家]&lt;/code&gt;。&lt;em&gt;(指令輸入後可能需要一些時間處理，請耐心等候)&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;/join [玩家]&lt;/code&gt; 加入&lt;code class=&quot;highlighter-rouge&quot;&gt;[玩家]&lt;/code&gt;的世界，如果不輸入&lt;code class=&quot;highlighter-rouge&quot;&gt;[玩家]&lt;/code&gt;則加入自己的世界，如果&lt;code class=&quot;highlighter-rouge&quot;&gt;[玩家]&lt;/code&gt;的世界不存在則會創建一個世界。&lt;br /&gt;
-範例: &lt;code class=&quot;highlighter-rouge&quot;&gt;/join&lt;/code&gt; 或 &lt;code class=&quot;highlighter-rouge&quot;&gt;/join steve&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/join [玩家]&lt;/code&gt; 加入&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[玩家]&lt;/code&gt;的世界，如果不輸入&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[玩家]&lt;/code&gt;則加入自己的世界，如果&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[玩家]&lt;/code&gt;的世界不存在則會創建一個世界。&lt;br /&gt;
+範例: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/join&lt;/code&gt; 或 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/join steve&lt;/code&gt;&lt;/p&gt;
 
 &lt;hr class=&quot;sub&quot; /&gt;
 
@@ -94,7 +94,7 @@
 &lt;h1 id=&quot;多語言支援&quot;&gt;多語言支援&lt;/h1&gt;
 
 &lt;p&gt;伺服器內的文字會隨著你的遊戲語言一起變更&lt;br /&gt;
-目前僅有 &lt;code class=&quot;highlighter-rouge&quot;&gt;繁體中文&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;English&lt;/code&gt;&lt;br /&gt;
+目前僅有 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;繁體中文&lt;/code&gt; &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;English&lt;/code&gt;&lt;br /&gt;
 如果可以，請協助我們完成翻譯！&lt;/p&gt;
 
 &lt;h1 id=&quot;其他&quot;&gt;其他&lt;/h1&gt;
@@ -104,7 +104,7 @@
   &lt;li&gt;修正用詞，使其更符合主題&lt;/li&gt;
   &lt;li&gt;統一按鈕文字的字型&lt;/li&gt;
 &lt;/ul&gt;</content><author><name></name></author><summary type="html">資源包</summary></entry><entry><title type="html">2018/8/1 地獄更新</title><link href="https://mc.oktw.one/news/2018/07/31/nether-update.html" rel="alternate" type="text/html" title="2018/8/1 地獄更新" /><published>2018-07-31T16:00:00+00:00</published><updated>2018-07-31T16:00:00+00:00</updated><id>https://mc.oktw.one/news/2018/07/31/nether-update</id><content type="html" xml:base="https://mc.oktw.one/news/2018/07/31/nether-update.html">&lt;h1 id=&quot;地獄開放&quot;&gt;地獄開放&lt;/h1&gt;
-&lt;p&gt;這是自從我們&lt;code class=&quot;highlighter-rouge&quot;&gt;OKTW 星系計畫&lt;/code&gt;開服以來最大的一次更新！&lt;br /&gt;
+&lt;p&gt;這是自從我們&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;OKTW 星系計畫&lt;/code&gt;開服以來最大的一次更新！&lt;br /&gt;
 改進了星球終端的功能與開放地獄&lt;/p&gt;
 
 &lt;h1 id=&quot;遊戲內容變更&quot;&gt;遊戲內容變更&lt;/h1&gt;
