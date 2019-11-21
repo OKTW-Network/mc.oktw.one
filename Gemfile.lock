@@ -254,7 +254,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  github-pages (>= 200)
+  github-pages (>= 202)
   jekyll-feed
   jekyll-include-cache
   jekyll-multiple-languages-plugin
