@@ -16,5 +16,6 @@ rm -rf ruby-2.6.3.tar.gz ruby-2.6.3
 
 # Install Jekyll
 gem install jekyll bundler
+rm Gemfile.lock
 bundler install
 bundle exec jekyll build

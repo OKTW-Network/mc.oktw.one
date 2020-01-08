@@ -18,5 +18,6 @@ WORKDIR /app
 COPY . /app
 
 RUN bundle install
+RUN rm Gemfile.lock
 RUN bundle exec jekyll build --destination /public
 
