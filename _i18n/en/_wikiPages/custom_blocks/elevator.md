@@ -1,19 +1,59 @@
-![]({{ "/assets/img/wiki/elevator/overview.png" | relative_url }})
+[HT Crafting Table]: {{ "/wiki/ht-crafting-table" | relative_url }}
+[Wrench]: {{ "/wiki/wrench" | relative_url }}
+[Teleporter]: {{ "/wiki/teleporter" | relative_url }}
 
-### Crafting
+![]({{ "/assets/img/wiki/elevator/overview.webp" | relative_url }})
 
-It is crafted using the crafting table(Shapeless).
+An advanced way to move vertically.
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/elevator/recipe.png" | relative_url }}">
+<div class="article-content">
+<ol>
+    <li><a href="#optain-ways">Obtain Ways</a></li>
+    <li><a href="#structure">Structure</a></li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#other-usage">Other Usage</a></li>
+</ol>
+</div>
 
-### Usage
+---
 
-Move faster between two elevator
+## Optain Ways
 
-### Features
+Can be removed by pressing `Shift`+`Right Click` using [Wrench][].
 
-When elevator(at least 2) place in vertical, sneak to move down, jump to move up.
+#### Crafting Table
 
-### Other
+(Shapeless Crafting)
 
-Elevator will not work when the distance of two elveators is more than 16.
+- Iron Block x 1  
+- Ender Pearl x 1
+
+<img class="recipe-photo" src="{{ "/assets/img/wiki/elevator/recipe.webp" | relative_url }}">
+
+<hr class="sub">
+
+#### [HT Crafting Table][]
+
+- Iron Ingot x 9  
+- Ender Pearl x 1
+
+---
+
+## Structure
+
+To build a working elevator, at least two elevator blocks must be placed perpendicular to each other:  
+<img class="article-photo" src="{{ "/assets/img/wiki/elevator/structure.webp" | relative_url }}">
+
+__Please note that the farthest distance the elevator can transmit is only 16 blocks away from the elevator itself.__
+
+---
+
+## Usage
+
+When using, user should stand on top of the block, sneak to teleport downwards, and jump to teleport upwards.
+
+---
+
+## Other usage
+
+- Craft the [Teleporter][]  
