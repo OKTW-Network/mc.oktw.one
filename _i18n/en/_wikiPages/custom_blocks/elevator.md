@@ -8,7 +8,7 @@ An advanced way to move vertically.
 
 <div class="article-content">
 <ol>
-    <li><a href="#optain-ways">Obtain Ways</a></li>
+    <li><a href="#obtain-ways">Obtain Ways</a></li>
     <li><a href="#structure">Structure</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#other-usage">Other Usage</a></li>
@@ -17,7 +17,7 @@ An advanced way to move vertically.
 
 ---
 
-## Optain Ways
+## Obtain Ways
 
 Can be removed by pressing `Shift`+`Right Click` using [Wrench][].
 
