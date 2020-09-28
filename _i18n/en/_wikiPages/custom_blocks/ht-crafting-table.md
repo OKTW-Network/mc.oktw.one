@@ -1,33 +1,68 @@
-![]({{ "/assets/img/wiki/ht-ct/overview.png" | relative_url }})
+[Wrench]: {{ "/wiki/wrench" | relative_url }}
 
-### Description  
+![]({{ "/assets/img/wiki/ht-ct/overview.webp" | relative_url }})
 
-A advanced crafting table, it is mainly used to craft items of this plugin.  
+An advanced crafting table, unlocks more item you don't know..
 
-### Crafting  
+<div class="article-content">
+<ol>
+    <li><a href="#obtain-ways">Obtain Ways</a></li>
+    <li><a href="#interface">Interface</a></li>
+    <li><a href="#usage">Usage</a></li>
+</ol>
+</div>
 
-It is crafted using the crafting table(Shaped).  
+---
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/ht-ct/recipe.png" | relative_url }}">  
+## Obtain Ways
 
-### Interface  
+Can be removed by pressing `Shift`+`Right Click` using [Wrench][].
 
-<img class="article-photo" src="{{ "/assets/en/img/wiki/ht-ct/interface.png" | relative_url }}">  
+#### Crafting Table
 
-The top part is the category tab, and the bottom part is the item that you can craft.  
+(Shaped Crafting)
 
-### Usage  
+- Crafting Table x 1
+- Obsidian x 1
+- Diamond x 1
+- Iron Ingot x 2
+- Redstone x 2
+- Lapis x 2
 
-Move the cursor onto the item you want to craft, and then it will show the materials needed.  
-Click ont the item to view the detailed material info.  
-When it shows the green check mark it means the materials needed is enough, click on the check mark to craft.  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/ht-ct/recipe.webp" | relative_url }}">
 
-<img class="article-photo" src="{{ "/assets/en/img/wiki/ht-ct/complete.png" | relative_url }}">  
+<hr class="sub">
 
-<img class="article-photo" src="{{ "/assets/en/img/wiki/ht-ct/success.png" | relative_url }}">  
+#### HT Crafting Table
 
-However, when one of the materials is not enough, it will show the missing materials by showing it as red text.  
+- Crafting Table x 1
+- Obsidian x 1
+- Diamond x 1
+- Iron Ingot x 2
+- Redstone x 2
+- Lapis x 2
 
-<img class="article-photo" src="{{ "/assets/en/img/wiki/ht-ct/lack.png" | relative_url }}">  
+---
 
-<img class="article-photo" src="{{ "/assets/en/img/wiki/ht-ct/failure.png" | relative_url }}">  
+## Interface
+
+`Right Click` the device to open the interface.
+
+The top of the interface is category, and the bottom is the items that can be crafted:  
+<img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/interface.webp" | relative_url }}">
+
+Move the cursor on the item to preview the material and required quantity:  
+<img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/complete.webp" | relative_url }}">
+
+<img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/lack.webp" | relative_url }}">
+
+---
+
+## Usage
+
+Open the interface, click on the item you want to craft, and you will enter the crafting details page.
+If the material is enough, a green check button will be displayed. Click the green check button to get the composition:  
+<img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/success.webp" | relative_url }}">
+
+If the material is insufficient, the red cross button will be displayed. Click the red cross button to return to the main interface:  
+<img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/failure.webp" | relative_url }}">
