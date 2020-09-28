@@ -4,7 +4,7 @@ Give Ender Crystal a New Feature.
 
 <div class="article-content">
 <ol>
-    <li><a href="#optain-ways">Obtain Ways</a></li>
+    <li><a href="#obtain-ways">Obtain Ways</a></li>
     <li><a href="#structure">Structure</a></li>
     <li><a href="#interface">Interface</a></li>
     <li><a href="#usage">Usage</a></li>
@@ -14,7 +14,7 @@ Give Ender Crystal a New Feature.
 
 ---
 
-## Optain Ways
+## Obtain Ways
 
 #### Crafting Table
 
