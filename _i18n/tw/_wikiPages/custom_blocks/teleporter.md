@@ -4,6 +4,7 @@
 [冷卻元件]: {{ "/wiki/cooling-element" | relative_url }}
 [星塵]: {{ "/wiki/star-dust" | relative_url }}
 [扳手]: {{ "/wiki/wrench" | relative_url }}
+[高科技合成台]: {{ "/wiki/ht-crafting-table" | relative_url }}
 
 ![]({{ "/assets/img/wiki/teleporter/overview.webp" | relative_url }})
 
@@ -34,9 +35,9 @@
 
 ## 獲得方式
 
-可由[扳手][] `蹲下`+`右鍵`拆除
+可由[扳手][]`蹲下`+`右鍵`拆除
 
-#### 高科技合成台
+#### [高科技合成台][]
 
 <a name="A傳送站"></a>
 
@@ -83,7 +84,7 @@
 #### 傳送站
 
 傳送站結構核心  
-可傳送到該<b>星球</b>內的其他傳送站  
+可傳送到該**星球**內的其他傳送站  
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/teleporter.webp" | relative_url }}">
 
 <hr class="sub">
@@ -92,7 +93,7 @@
 #### 高級傳送站
 
 進階的傳送站結構核心  
-可傳送到該<b>星系</b>內的其他傳送站  
+可傳送到該**星系**內的其他傳送站  
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/advanced_teleporter.webp" | relative_url }}">
 
 <hr class="sub">
@@ -137,7 +138,7 @@ __請注意，每個核心最多只能連接64個傳送框架!__
 開啟介面，點選目標的傳送站，待倒數完畢之後便會傳送：  
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/interface_select.webp" | relative_url }}">
 
-需要注意的是，被傳送的實體<b>必須站在傳送站結構上</b>
+需要注意的是，被傳送的實體**必須站在傳送站結構上**
 
 正確：  
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/stand_O_1.webp" | relative_url }}">
@@ -149,7 +150,7 @@ __請注意，每個核心最多只能連接64個傳送框架!__
 
 <img class="article-photo" src="{{ "/assets/img/wiki/teleporter/stand_X_2.webp" | relative_url }}">
 
-另外，被傳送者<b>必須整個傳送過程都站在傳送站結構上</b>，若被傳送者離開結構，將會取消該實體的傳送資格!
+另外，被傳送者**必須整個傳送過程都站在傳送站結構上**，若被傳送者離開結構，將會取消該實體的傳送資格!
 
 最後，如果想要更好的識別每個傳送站，你可以使用命名牌命名傳送站:  
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/s/ibton/kjsffs?autoplay=1&muted=1" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
