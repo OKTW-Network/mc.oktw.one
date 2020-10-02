@@ -29,6 +29,10 @@ index:
   version: "遊戲版本"
   use_resourcepack: "請使用伺服器材質包"
 
+post:
+  post-20190710:
+    title: 星系計畫2.0 - 公測開始"
+
 wiki:
   command:
     title: "指令集"
