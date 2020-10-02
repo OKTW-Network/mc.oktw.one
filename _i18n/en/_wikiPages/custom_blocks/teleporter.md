@@ -154,4 +154,3 @@ Besides, entities to be teleported __must stand on the structure during the whol
 
 Finally, to identify every teleporter easily, you can name it using a name tag.  
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/s/ibton/kjsffs?autoplay=1&muted=1" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
-
