@@ -1,30 +1,30 @@
+[HT Crafting Table]: {{ "/wiki/ht-crafting-table" | relative_url }}
+[Star Dust]: {{ "/wiki/star-dust" | relative_url }}
+[Upgrades]: {{ "wiki/upgrades" | relative_url }}
+
 <img class="small-picture" src="{{ "/assets/img/wiki/upgrade_icons/upgrade_base.webp" | relative_url }}">
 
 <div class="article-content">
-<ul style="padding:0px;margin:0px">
-    <li><a href="#Crafting" style="color:#2a6cd6;">Crafting</a></li>
-    <li><a href="#Usage" style="color:#2a6cd6;">Usage</a></li>
-</ul>
+<ol>
+    <li><a href="#obtain-ways">Obtain Ways</a></li>
+    <li><a href="#usage">Usage</a></li>
+</ol>
 </div>
 
 ---
 
-<a name="Crafting"></a>
+## Obtain Ways
 
-### Crafting
-
-It is crafted using the [HT Crafting Table]({{ "/wiki/ht-crafting-table" | relative_url }}):  
+#### [HT Crafting Table][]
 
 - Redstone x 4  
 - Nether Quartz x 2  
-- Gold Ignot x 2  
+- Gold Ingot x 2  
 - Glass x 1  
-- [Star Dust]({{ "wiki/star-dust.html" | relative_url }}) x 5  
+- [Star Dust][] x 5
 
 ---
 
-<a name="Usage"></a>
+## Usage
 
-### Usage
-
-- Used to craft [Upgrades]({{ "wiki/upgrades.html" | relative_url }})
+- Craft [Upgrades][]
