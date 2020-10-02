@@ -1,32 +1,35 @@
+[Cooling Upgrade Lv.1]: {{ "/wiki/cool-upgrade" | relative_url }}
+[Reinforced Ceramic Plate]: {{ "/wiki/ceramic-plate" | relative_url }}
+[Star Dust]: {{ "/wiki/star-dust" | relative_url }}
+[Teleporter]: {{ "/wiki/teleporter#ATeleporter" | relative_url }}
+[Advanced Teleporter]: {{ "/wiki/teleporter#AAdvanced_Teleporter" | relative_url }}
+[HT Crafting Table]: {{ "/wiki/ht-crafting-table" | relative_url }}
+
 <img class="small-picture" src="{{ "/assets/img/wiki/material_icons/cooling_element.webp" | relative_url }}">
 
 <div class="article-content">
-<ul style="padding:0px;margin:0px">
-    <li><a href="#Crafting" style="color:#2a6cd6;">Crafting</a></li>
-    <li><a href="#Usage" style="color:#2a6cd6;">Usage</a></li>
-</ul>
+<ol>
+    <li><a href="#obtain-ways">Obtain Ways</a></li>
+    <li><a href="#usage">Usage</a></li>
+</ol>
 </div>
 
 ---
 
-<a name="Crafting"></a>
+## Obtain Ways
 
-### Crafting
+#### [HT Crafting Table][]
 
-It is crafted using the [HT Crafting Table]({{ "/wiki/ht-crafting-table" | relative_url }}):  
-
-- [Cooling Upgrade LV.1]({{ "/wiki/cool-upgrade" | relative_url }}) x 1  
+- [Cooling Upgrade Lv.1][] x 1  
 - Redstone x 20  
-- Gold Ignot x 8  
+- Gold Ingot x 8  
 - Nether Quartz x 4  
-- [Reinforced ceramic plate]({{ "/wiki/ceramic-plate" | relative_url }}) x 1  
-- [Star Dust]({{ "/wiki/star-dust" | relative_url }}) x 20
+- [Reinforced Ceramic Plate][] x 1  
+- [Star Dust][] x 20
 
 ---
 
-<a name="Usage"></a>
+## Usage
 
-### Usage
-
-* Used to craft [Teleporter]({{ "/wiki/teleporter#Teleporter" | relative_url }})  
-* Used to craft [Advanced Teleporter]({{ "/wiki/teleporter#Advanced_Teleporter" | relative_url }})
+- Craft the [Teleporter][]  
+- Craft the [Advanced Teleporter][]
