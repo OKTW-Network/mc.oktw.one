@@ -1,15 +1,37 @@
-![]({{ "/assets/img/wiki/wrench/overview.png" | relative_url }})
+[HT Crafting Table]: {{ "/wiki/ht-crafting-table" | relative_url }}
+[Functional block]: {{ "/wiki/custom-blocks" | relative_url }}
 
-### Crafting
+![]({{ "/assets/img/wiki/wrench/overview.webp" | relative_url }})
 
-It is crafted using the crafting table(Shape)
+<div class="article-content">
+<ol>
+    <li><a href="#obtain-ways">Obtain Ways</a></li>
+    <li><a href="#usage">Usage</a></li>
+</ol>
+</div>
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/wrench/recipe.png" | relative_url }}">
+---
 
-### Usage
+## Obtain Ways
 
-Removes the [Functional Block]({{ "/wiki/custom-blocks" | relative_url }})。
+#### Crafting Table
 
-### Features
+(Shaped Crafting)
 
-Sneak and right click to remove [Functional Block]({{ "/wiki/custom-blocks" | relative_url }}).
+- Stick x 1  
+- Iron Ingot x 3
+
+<img class="recipe-photo" src="{{ "/assets/img/wiki/wrench/recipe.webp" | relative_url }}">
+
+#### [HT Crafting Table][]
+
+- Stick x 1  
+- Iron Ingot x 3
+
+---
+
+## Usage
+
+Can remove [Functional block][] by pressing `Sneak`+`Right Click`.  
+
+__Be noticed that `Right Click` in any page means `Use Key`.__
