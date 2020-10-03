@@ -1,4 +1,10 @@
-
+[擁有一個星系]: {{ "/wiki/quick-start#創立星系" | relative_url }}
+[管理員]: {{ "/wiki/words#管理員" | relative_url }}
+[星船控制台]: {{ "/wiki/words#星船控制台" | relative_url }}
+[星系]: {{ "/wiki/words#星系" | relative_url }}
+[星球終端]: {{ "/wiki/words#星球終端" | relative_url }}
+[管理星系]: #介面
+[成員]: {{ "/wiki/words#成員" | relative_url }}
 
 <div class="article-content">
 <ol>
@@ -16,17 +22,16 @@
 
 ---
 
-__請注意，使用`管理星系`功能必須先[擁有一個星系]({{ "/wiki/quick-start#創立星系" | relative_url }})，或是在該星系中是[管理員]({{ "/wiki/words#管理員" | relative_url }})！__
-
+__請注意，使用`管理星系`功能必須先[擁有一個星系][]，或是在該星系中是[管理員][]！__
 
 ## 介面
 
-開啟[星船控制台]({{ "/wiki/words#星船控制台" | relative_url }})介面，然後確認右上角的按鈕顯示為`已加入`，如果顯示`全部`，請按一下按鈕來切換：  
+開啟[星船控制台][]介面，然後確認右上角的按鈕顯示為`已加入`，如果顯示`全部`，請按一下按鈕來切換：  
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/list_joined_galaxy.webp" | relative_url }}">
 
 <hr class="sub">
 
-選擇需要管理的[星系]({{ "/wiki/words#星系" | relative_url }})：  
+選擇需要管理的[星系][]：  
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/select_galaxy_list_joined.webp" | relative_url }}">
 
 <hr class="sub">
@@ -36,14 +41,14 @@ __請注意，使用`管理星系`功能必須先[擁有一個星系]({{ "/wiki/
 
 <hr class="sub">
 
-或是在[星球終端]({{ "/wiki/words#星球終端" | relative_url }})介面裡也可以找到`管理星系`：  
+或是在[星球終端][]介面裡也可以找到`管理星系`：  
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/terminal_galaxy_manage.webp" | relative_url }}">
 
 ---
 
 ## 新增星球
 
-在[管理星系](#介面)介面中選擇`尋找未知星球`：  
+在[管理星系][]介面中選擇`尋找未知星球`：  
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/gm_create_planet.webp" | relative_url }}">
 
 <hr class="sub">
@@ -69,7 +74,7 @@ __請注意，星球名稱只允許使用: 英文、數字、底線(`_`)、減�
 
 ## 移除成員
 
-在[管理星系](#介面)介面中選擇`管理成員`：  
+在[管理星系][]介面中選擇`管理成員`：  
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/gm_manage_member.webp" | relative_url }}">
 
 <hr class="sub">
@@ -93,7 +98,7 @@ __請注意，移除玩家將會清除該玩家在該星系內的所有資料__
 
 ## 添加成員
 
-在[管理星系](#介面)介面中選擇`添加成員`：  
+在[管理星系][]介面中選擇`添加成員`：  
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/gm_add_member.webp" | relative_url }}">
 
 <hr class="sub">
@@ -105,7 +110,7 @@ __請注意，移除玩家將會清除該玩家在該星系內的所有資料__
 
 ## 審核加入申請
 
-在[管理星系](#介面)介面中選擇`加入申請`：  
+在[管理星系][]介面中選擇`加入申請`：  
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/gm_join_requests.webp" | relative_url }}">
 
 <hr class="sub">
@@ -124,7 +129,7 @@ __請注意，移除玩家將會清除該玩家在該星系內的所有資料__
 
 ## 修改成員身分組
 
-在[管理星系](#介面)介面中選擇`管理成員`：  
+在[管理星系][]介面中選擇`管理成員`：  
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/gm_manage_member.webp" | relative_url }}">
 
 <hr class="sub">
@@ -139,14 +144,14 @@ __請注意，移除玩家將會清除該玩家在該星系內的所有資料__
 
 <hr class="sub">
 
-選擇一個所選玩家的新身分組([管理員]({{ "wiki/words#管理員" | relative_url }})/[成員]({{ "/wiki/words#成員" | relative_url }}))：  
+選擇一個所選玩家的新身分組([管理員][]/[成員][])：  
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/select_group.webp" | relative_url }}">
 
 ---
 
 ## 修改星系名稱
 
-在[管理星系](#介面)介面中選擇`重新命名`：  
+在[管理星系][]介面中選擇`重新命名`：  
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/gm_rename.webp" | relative_url }}">
 
 <hr class="sub">
@@ -158,7 +163,7 @@ __請注意，移除玩家將會清除該玩家在該星系內的所有資料__
 
 ## 設定星系簡介
 
-在[管理星系](#介面)介面中選擇`更改簡介`：  
+在[管理星系][]介面中選擇`更改簡介`：  
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/gm_change_info.webp" | relative_url }}">
 
 <hr class="sub">
