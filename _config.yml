@@ -10,6 +10,7 @@ exclude_from_localizations: ["javascript", "images", "css"]
 
 github_username:  OKTW-Network
 repository: OKTW-Network/oktw-network.github.io
+permalink: pretty
 
 collections:
   wikiPages:
@@ -18,7 +19,7 @@ collections:
     title: true
     description: true
     icon: true
-    permalink: /wiki/:name
+    permalink: /wiki/:name:output_ext
     output: true
 
 lsi: false

@@ -1,7 +1,0 @@
-{
-    "version": 2,
-    "name": "mc.oktw.one",
-    "builds": [
-      { "src": "build.sh", "use": "@now/static-build", "config": { "distDir": "_site" } }
-    ]
-}
