@@ -1,44 +1,45 @@
-- [Story](#story)
-- [Concept](#concept)
-- [Rules](#rules)
-- [Precautions](#precautions)
-- [Start](#start)
+[GitHub]: https://github.com/OKTW-Network
+[Quick Start]: {{ "/wiki/quick-start" | relative_url }}
+
+<div class="article-content">
+<ol>
+    <li><a href="#story">Story</a></li>
+    <li><a href="#features">Features</a></li>
+	<li><a href="#rules">Rules</a></li>
+	<li><a href="#precautions">Precautions</a></li>
+	<li><a href="#get-started">Get Started</a></li>
+</ol>
+</div>
 
 ---
 
-# Story
+## Story
 
-In the future, traveling in Galaxy is very common  
-Player is a Traveler from other planet, they met other Player on the way, so they decided to develop a new Planet in the Galaxy together.
+In the far future, interstellar travel has become very popular. Players are travelers from distant planets. They meet other players during the journey and decide to develop the galaxy together...
 
-# Concept
+<hr class="sub">
 
-Server is like a Universe  
-There are many Galaxy in Server  
-And there are many Planet in Galaxy  
-Travelers met each other on the way
-And decided to develop Planet
+## Features
 
-# Rules
+The galaxy project uses a multi-world technology to give each player or each group an independent development space. Although the area that can be explored is limited, it also solves the problem of resource grabbing.
+Besides, we are also developing a series of new features, new blocks, new tools, weapons, gameplay, and look forward to color game experience in the future.
 
-No Rules.
-But doesn't mean that you can do Illegal things.
+<hr class="sub">
 
-# Precautions
+## Rules
 
-Our Server still in development  
-Many feature not finish yet, and unstable  
-If you have any problem, you can contact us on the footer.
+__There is no rule on this server.__
 
-## Please enable Server ResourcePack
+<hr class="sub">
 
-## Please enable Server ResourcePack
+## Precautions
 
-## Please enable Server ResourcePack
+1. Please enable the server resource pack! (If your network situation is special, which causes the resource pack download speed to be slow or unable to download the resource pack, you can go to our [GitHub][] page to download)
+2. The Galaxy Project is currently under development. Some functions are not yet complete and unstable. If you encounter any problems, please contact us.
 
-# Start
+<hr class="sub">
 
-After joining server, you will appear in Space Ship.
-First you need to [Join]({{ "/wiki/tutorial#How_to_join_Galaxy" | relative_url }}) or [Create a Galaxy]({{ "/wiki/tutorial#How_to_create_a_galaxy" | relative_url }})  
-If you create Galaxy by youself, you will need to Create a planet
+## Get Started
 
+Go to MultiPlayer, add a server, and fill in IP: `mc.oktw.one`.  
+After joining the game, checkout "[Quick Start][]" to start.
