@@ -1,139 +1,161 @@
-# Indexs
+[SpaceShip Controller]: #spaceship-controller
+[Star dust]: {{ "/wiki/star-dust" | relative_url }}
+[Environment Control System]: #environment-control-system
 
-- [Traveler](#Traveler)
-- [Space Ship](#SpaceShip)
-- [Galaxy](#Galaxy)
-- [Planet](#Planet)
-- [Environment Control System](#ECS)
-- [Space Ship Controller](#SpaceShipController)
-- [Planet Terminal](#PlanetTerminal)
-- [Star Dust](#StarDust)
+<div class="article-content">
+<ul>
+    <li><a href="#traveler">Traveler</a></li>
+    <li><a href="#spaceship">SpaceShip</a></li>
+		<ul>
+			<li><a href="#spaceship-controller">SpaceShip Controller</a></li>
+		</ul>
+	<li><a href="#star-dust">Star Dust</a></li>
+	<li><a href="#galaxy">Galaxy</a></li>
+	<li><a href="#planet">Planet</a></li>
+		<ul>
+			<li><a href="#planet-terminal">Planet Terminal</a></li>
+			<li><a href="#environment-control-system">Environment Control System</a></li>
+		</ul>
+	<li><a href="#roles">Roles</a></li>
+		<ul>
+			<li><a href="#owner">Owner</a></li>
+			<li><a href="#admin">Admin</a></li>
+			<li><a href="#member">Member</a></li>
+		</ul>
+	<li><a href="#planet-type">Planet Type</a></li>
+		<ol>
+			<li><a href="#normal-planet">Normal</a></li>
+			<li><a href="#hot-planet">Hot</a></li>
+			<li><a href="#dark-planet">Dark</a></li>
+		</ol>
+</ul>
+</div>
 
-## Permission
+---
 
-- [Owner](#Owner)
-- [Admin](#Admin)
-- [Member](#Member)
+## Traveler
+##### 旅行者
+
+A person who travels in the universe, a.k.a. player.
+
+---
+
+## SpaceShip
+##### 星船
+
+<img class="article-photo" src="{{ "/assets/img/wiki/words/spaceship.webp" | relative_url }}">
+
+Server lobby, with a [SpaceShip Controller][] for travelers to use.
+
+<hr class="sub">
+
+### SpaceShip Controller
+##### 星船控制台
+
+<img class="article-photo" src="{{ "/assets/img/wiki/words/galaxy_controller.webp" | relative_url }}">
+
+A control panel on the spaceship, used to explore the universe or manage the galaxy.
+
+---
+
+## Star Dust
+##### 星塵
+
+(See [Star dust][])
+
+The currency in the Galaxy project.
+
+---
+
+## Galaxy
+##### 星系
+
+Like a team.
+
+*Compare the server itself to the universe, and the groups in the server are like galaxies in the universe...*
+
+---
+
+## Planet
+##### 星球
+
+Corresponding to the world of Minecraft, each planet is an independent world.
+
+<hr class="sub">
+
+### Planet Terminal
+##### 星球終端
+
+<img class="article-photo" src="{{ "/assets/img/wiki/words/planet_terminal.webp" | relative_url }}">
+
+The entrance of the planet, a 5x5x5 structure, the beacon tower in the center of the structure can be connected to the spaceship and [Environment Control System][].
+
+<hr class="sub">
+
+### Environment Control System
+##### 環境控制系統
+
+Satellites on the periphery of the planet are used to improve the environment of the planet so that people can survive.
+Upgrade the planet terminal level to expand the range and use additional effects *(Not Available Yet)*
+
+---
+
+## Roles
+##### 身分組
+
+Power distinction, hierarchical permission structure (higher powers can inherit the lower powers infinitely, but there will be no higher powers).
+
+<hr class="sub">
+
+### Owner
+##### 擁有者
+
+Creator of the Galaxy, with full manage permission to the Galaxy.
+
+<hr class="sub">
+
+### Admin
+##### 管理員
+
+Admin of the Galaxy, with full manage permission to the Galaxy.
+
+<hr class="sub">
+
+### Member
+##### 成員
+
+Member of the Galaxy, with have access to the planet and complete world interaction.
+
+---
 
 ## Planet Type
+##### 星球種類
 
-- [Normal Planet](#NormalPlanet)
-- [Hot Planet](#HotPlanet)
-- [Dark Planet](#DarkPlanet)
+<hr class="sub">
 
----
+### Normal Planet
+##### 普通星球
 
-<a name="Traveler">
+The ecological area is rich and the animals and plants grow densely, suitable for human living.
 
-# Traveler
-#### 旅行者
+Corresponds to the overworld of Minecraft.
 
-Travels in the Galaxy, aka player.
+<img class="article-photo" src="{{ "/assets/img/wiki/words/normal_planet.webp" | relative_url }}">
 
-<a name="SpaceShip">
+<hr class="sub">
 
-# Space Ship
-#### 星船
+### Hot Planet
+##### 炎熱星球
 
-![]({{ "/assets/img/wiki/words/spaceship.png" | relative_url }})
+The planet’s temperature is extremely high and the terrain is complex, with seemingly man-made buildings scattered everywhere.
 
-Server Entry Point  
-Having a control panel to manage Galaxy.
+Corresponds to the nether of Minecraft.
 
-<a name="Galaxy">
+<img class="article-photo" src="{{ "/assets/img/wiki/words/hot_planet.webp" | relative_url }}">
 
-# Galaxy
-#### 星系
+<hr class="sub">
 
-Similar to a Team, including many planets and members.
+### Dark Planet
+##### 黑暗星球
 
-<a name="Planet">
-
-# Planet
-#### 星球
-
-Corresponding to the Minecraft World, each planet is independent world.
-
-<a name="ECS">
-
-# Environment Control System
-#### 環境控制系統
-
-A satellite around planet, improves planet environment  
-
-upgrade it to expand range and have more effect.
-
-<a name="SpaceShipController">
-
-# Space Ship Controller
-#### 星船控制台
-
-![]({{ "/assets/img/wiki/words/galaxy_controller.png" | relative_url }})
-
-The controller on the space ship, use it to manage Galaxy
-
-<a name="PlanetTerminal">
-
-# Planet Terminal
-#### 星球終端
-
-![]({{ "/assets/img/wiki/words/planet_terminal.png" | relative_url }})
-
-The entry point to planet, the 5x5x5 structure, it can connect to ECS(Environment Control System) and space ship
-On the Beacon in Planet spawn
-
-<a name="StarDust">
-
-# Star dust
-#### 星塵
-
-Money.  
-When you get experience, you will get star dust too.
-  
-<a name="Owner">
-
-# Owner
-#### 擁有者
-
-The founder/Admin of Galaxy.
-
-<a name="Admin">
-
-# Admin
-#### 管理員
-
-The Admin of Galaxy.
-
-<a name="Member">
-
-# 成員
-#### Member
-
-The Member of Galaxy.
-
-<a name="NormalPlanet">
-
-# Normal Planet
-#### 普通星球
-
-![]({{ "/assets/img/wiki/words/normal_planet.png" | relative_url }})
-
-Normal World
-
-<a name="HotPlanet">
-
-# Hot Planet
-#### 炎熱星球
-
-![]({{ "/assets/img/wiki/words/hot_planet.png" | relative_url }})
-
-Nether
-
-<a name="DarkPlanet">
-
-# Dark Planet
-#### 黑暗星球
-
-The End
-
----
+*(Not Available Yet)*

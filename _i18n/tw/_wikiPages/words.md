@@ -1,4 +1,6 @@
-
+[星船控制台]: #星船控制台
+[星塵]: {{ "/wiki/star-dust" | relative_url }}
+[環境控制系統]: #環境控制系統
 
 <div class="article-content">
 <ul>
@@ -43,12 +45,12 @@
 
 <img class="article-photo" src="{{ "/assets/img/wiki/words/spaceship.webp" | relative_url }}">
 
-伺服器大廳，設有[星船控制台](#星船控制台)供旅行者使用。
+伺服器大廳，設有[星船控制台][]供旅行者使用。
 
 <hr class="sub">
 
 ### 星船控制台
-##### SpaceShip Controler
+##### SpaceShip Controller
 
 <img class="article-photo" src="{{ "/assets/img/wiki/words/galaxy_controller.webp" | relative_url }}">
 
@@ -57,9 +59,9 @@
 ---
 
 ## 星塵
-##### Star dust
+##### Star Dust
 
-(詳見[星塵]({{ "/wiki/star-dust" | relative_url }}))
+(詳見[星塵][])
 
 星系計畫中的貨幣。
 
@@ -82,11 +84,11 @@
 <hr class="sub">
 
 ### 星球終端
-##### Terminal
+##### Planet Terminal
 
 <img class="article-photo" src="{{ "/assets/img/wiki/words/planet_terminal.webp" | relative_url }}">
 
-星球的入口，一個5x5x5的結構，結構中央的烽火台可以與飛船和[環境控制系統](#環境控制系統)連線。
+星球的入口，一個5x5x5的結構，結構中央的烽火台可以與飛船和[環境控制系統][]連線。
 
 <hr class="sub">
 
@@ -108,7 +110,7 @@
 ### 擁有者
 ##### Owner
 
-星系的創立者，也擁有星系的完全管理權限。
+星系的創立者，擁有星系的完全管理權限。
 
 <hr class="sub">
 
@@ -127,6 +129,7 @@
 ---
 
 ## 星球種類
+##### Planet Type
 
 <hr class="sub">
 
@@ -156,4 +159,3 @@
 ##### Dark Planet
 
 *(尚未開放)*
-
