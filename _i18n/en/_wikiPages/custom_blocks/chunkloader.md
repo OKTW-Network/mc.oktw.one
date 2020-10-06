@@ -71,7 +71,7 @@ Imagine that you're just about to go out and put a stack of Iron Ores and some C
 After chatting with villages and go home, you found that your Iron Ores is still in the furnace...  
 This is neither a bug, nor the character issue. This is a design for the game performance.
 
-In a game, chunks in player's view distance will be loaded into the random access memory, a.k.a RAM. Meanwhile, only chunk within this range will be continuously updated, while those that are not within the view distance will be stored into the hard drive.And that is why the drama above will happen.
+In a game, chunks in player's view distance will be loaded into the random access memory, a.k.a RAM. Meanwhile, only chunk within this range will be continuously updated, while those that are not within the view distance will be stored into the hard drive. And that is why the drama above will happen.
 
 So what if you wish to keep the furnace in your house running when you go out thounds blocks away?  
 The answer is -- Chunk Loader. Simply saying, a device that you can continue updating chunk without relying on players.
