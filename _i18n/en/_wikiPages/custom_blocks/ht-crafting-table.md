@@ -49,12 +49,12 @@ Can be removed by pressing `Shift`+`Right Click` using [Wrench][].
 `Right Click` the device to open the interface.
 
 The top of the interface is category, and the bottom is the items that can be crafted:  
-<img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/interface.webp" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/en/img/wiki/ht-ct/interface.webp" | relative_url }}">
 
 Move the cursor on the item to preview the material and required quantity:  
-<img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/complete.webp" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/en/img/wiki/ht-ct/complete.webp" | relative_url }}">
 
-<img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/lack.webp" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/en/img/wiki/ht-ct/lack.webp" | relative_url }}">
 
 ---
 
@@ -62,7 +62,7 @@ Move the cursor on the item to preview the material and required quantity:
 
 Open the interface, click on the item you want to craft, and you will enter the crafting details page.
 If the material is enough, a green check button will be displayed. Click the green check button to get the composition:  
-<img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/success.webp" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/en/img/wiki/ht-ct/success.webp" | relative_url }}">
 
 If the material is insufficient, the red cross button will be displayed. Click the red cross button to return to the main interface:  
-<img class="article-photo" src="{{ "/assets/img/wiki/ht-ct/failure.webp" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/en/img/wiki/ht-ct/failure.webp" | relative_url }}">
