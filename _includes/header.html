@@ -3,10 +3,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>
-        {% if page.title contains "." %}
-            {% t page.title %} – 
-        {% elsif page.title %}
-            {{ page.title %}} – 
+        {% if page.title %}
+            {% capture page_title %}{% t page.title %}{% endcapture %}
+        
+            {% if page_title == '' %}
+                {% assign page_title = page.title %}
+            {% endif %}
+            {{ page_title }} -
         {% endif %}
         {{ site.title }} – {{ site.description }}
     </title>

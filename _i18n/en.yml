@@ -29,10 +29,6 @@ index:
   version: "Minecraft Version"
   use_resourcepack: "Please Enable the Server ResourcePack."
 
-post:
-  post-20190710:
-    title: "Galaxy 2.0 - Open Beta Started"
-
 wiki:
   command:
     title: "Commands"
