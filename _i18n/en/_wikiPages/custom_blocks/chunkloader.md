@@ -39,13 +39,13 @@ As long as a player places a Ender Crystal on an Obsidian block, that will becom
 `Right Click` the device to open the interface.
 
 A quite simple interface with two buttons:  
-<img class="article-photo" src="{{ "/assets/img/wiki/chunkloader/interface.webp" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/en/img/wiki/chunkloader/interface.webp" | relative_url }}">
 
 The green up-arrow button on the left is upgrade:  
-<img class="article-photo" src="{{ "/assets/img/wiki/chunkloader/interface_upgrade.webp" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/en/img/wiki/chunkloader/interface_upgrade.webp" | relative_url }}">
 
 The red crossed-out button on the right is remove:  
-<img class="article-photo" src="{{ "/assets/img/wiki/chunkloader/interface_remove.webp" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/en/img/wiki/chunkloader/interface_remove.webp" | relative_url }}">
 
 ---
 
