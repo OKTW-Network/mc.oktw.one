@@ -32,14 +32,14 @@ Get Star dust while gaining experience points
 In some cases (Such as [creating a Planet][], star dust will be used as a representative of the galaxy, so [members][] needs to contribute its own stardust to the galaxy for storage.
 
 Right click the [Planet Terminal][] on the planet to open the interface, then click on `Star dust`:  
-<img class="article-photo" src="{{ "/assets/img/wiki/star_dust/terminal_star_dust.webp" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/en/img/wiki/star_dust/terminal_star_dust.webp" | relative_url }}">
 
 <hr class="sub">
 
 Select the quantity of star dust you want to contribute:  
-<img class="article-photo" src="{{ "/assets/img/wiki/star_dust/donate_info.webp" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/en/img/wiki/star_dust/donate_info.webp" | relative_url }}">
 
 <hr class="sub">
 
 Click on the green check button if you think everything is correct:  
-<img class="article-photo" src="{{ "/assets/img/wiki/star_dust/donate_confirm.webp" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/en/img/wiki/star_dust/donate_confirm.webp" | relative_url }}">
