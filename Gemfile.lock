@@ -257,7 +257,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages (>= 202)
+  github-pages (>= 208)
   jekyll-feed
   jekyll-include-cache
   jekyll-multiple-languages-plugin
