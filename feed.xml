@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tw"><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="https://mc.oktw.one/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mc.oktw.one/" rel="alternate" type="text/html" hreflang="tw" /><updated>2020-05-26T03:41:00+00:00</updated><id>https://mc.oktw.one/feed.xml</id><title type="html">OKTW Network</title><subtitle>由許多人聯合經營的Minecraft伺服器</subtitle><entry><title type="html">星系計畫2.0 - 公測開始</title><link href="https://mc.oktw.one/news/2019/07/09/2.0lite-open-beta.html" rel="alternate" type="text/html" title="星系計畫2.0 - 公測開始" /><published>2019-07-09T16:00:00+00:00</published><updated>2019-07-09T16:00:00+00:00</updated><id>https://mc.oktw.one/news/2019/07/09/2.0lite-open-beta</id><content type="html" xml:base="https://mc.oktw.one/news/2019/07/09/2.0lite-open-beta.html">&lt;p&gt;&lt;img src=&quot;/assets/img/news/20190710-2.0lite-open-beta/banner.webp&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tw"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://mc.oktw.one/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mc.oktw.one/" rel="alternate" type="text/html" hreflang="tw" /><updated>2020-10-13T13:36:36+00:00</updated><id>https://mc.oktw.one/feed.xml</id><title type="html">OKTW Network</title><subtitle>由許多人聯合經營的Minecraft伺服器</subtitle><entry><title type="html">星系計畫2.0 - 公測開始</title><link href="https://mc.oktw.one/news/2019/07/09/2.0lite-open-beta.html" rel="alternate" type="text/html" title="星系計畫2.0 - 公測開始" /><published>2019-07-09T16:00:00+00:00</published><updated>2019-07-09T16:00:00+00:00</updated><id>https://mc.oktw.one/news/2019/07/09/2.0lite-open-beta</id><content type="html" xml:base="https://mc.oktw.one/news/2019/07/09/2.0lite-open-beta.html">&lt;p&gt;&lt;img src=&quot;/assets/img/news/20190710-2.0lite-open-beta/banner.webp&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;星系計畫2.0公開測試開始，歡迎玩家踴躍參與!&lt;/p&gt;
 
@@ -37,7 +37,7 @@
 &lt;hr class=&quot;sub&quot; /&gt;
 
 &lt;p&gt;不想錯過任何重要資訊?&lt;br /&gt;
-加入我們的 &lt;a href=&quot;https://discord.gg/E74tcJC&quot;&gt;Discord&lt;/a&gt; 或是 &lt;a href=&quot;https://www.facebook.com/oktw.mc&quot;&gt;Facebook&lt;/a&gt; 吧!&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">2019Q1-傳送器!</title><link href="https://mc.oktw.one/news/2019/03/03/teleporter-update.html" rel="alternate" type="text/html" title="2019Q1-傳送器!" /><published>2019-03-03T12:00:00+00:00</published><updated>2019-03-03T12:00:00+00:00</updated><id>https://mc.oktw.one/news/2019/03/03/teleporter-update</id><content type="html" xml:base="https://mc.oktw.one/news/2019/03/03/teleporter-update.html">&lt;h1 id=&quot;傳送站&quot;&gt;傳送站&lt;/h1&gt;
+加入我們的 &lt;a href=&quot;https://discord.gg/E74tcJC&quot;&gt;Discord&lt;/a&gt; 或是 &lt;a href=&quot;https://www.facebook.com/oktw.mc&quot;&gt;Facebook&lt;/a&gt; 吧!&lt;/p&gt;</content><author><name></name></author><category term="news" /><summary type="html"></summary></entry><entry><title type="html">2019Q1-傳送器!</title><link href="https://mc.oktw.one/news/2019/03/03/teleporter-update.html" rel="alternate" type="text/html" title="2019Q1-傳送器!" /><published>2019-03-03T12:00:00+00:00</published><updated>2019-03-03T12:00:00+00:00</updated><id>https://mc.oktw.one/news/2019/03/03/teleporter-update</id><content type="html" xml:base="https://mc.oktw.one/news/2019/03/03/teleporter-update.html">&lt;h1 id=&quot;傳送站&quot;&gt;傳送站&lt;/h1&gt;
 
 &lt;p&gt;架設傳送站來快速旅行&lt;br /&gt;
 &lt;em&gt;(&lt;a href=&quot;/wiki/teleporter&quot;&gt;傳送站的詳細說明&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
@@ -55,7 +55,7 @@
 
 &lt;h1 id=&quot;筆記&quot;&gt;筆記&lt;/h1&gt;
 
-&lt;p&gt;目前開發團隊的人力集中在改善遊戲體驗，導致更新的間隔時間增加，敬請期待更多新內容…&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">2018/10/20 更新記錄</title><link href="https://mc.oktw.one/news/2018/10/20/changelog.html" rel="alternate" type="text/html" title="2018/10/20 更新記錄" /><published>2018-10-20T15:40:00+00:00</published><updated>2018-10-20T15:40:00+00:00</updated><id>https://mc.oktw.one/news/2018/10/20/changelog</id><content type="html" xml:base="https://mc.oktw.one/news/2018/10/20/changelog.html">&lt;h1 id=&quot;資源包&quot;&gt;資源包&lt;/h1&gt;
+&lt;p&gt;目前開發團隊的人力集中在改善遊戲體驗，導致更新的間隔時間增加，敬請期待更多新內容…&lt;/p&gt;</content><author><name></name></author><category term="news" /><summary type="html"></summary></entry><entry><title type="html">2018/10/20 更新記錄</title><link href="https://mc.oktw.one/news/2018/10/20/changelog.html" rel="alternate" type="text/html" title="2018/10/20 更新記錄" /><published>2018-10-20T15:40:00+00:00</published><updated>2018-10-20T15:40:00+00:00</updated><id>https://mc.oktw.one/news/2018/10/20/changelog</id><content type="html" xml:base="https://mc.oktw.one/news/2018/10/20/changelog.html">&lt;h1 id=&quot;資源包&quot;&gt;資源包&lt;/h1&gt;
 
 &lt;ul&gt;
   &lt;li&gt;由@infon_TW(隱風)重新設計的按鈕圖示&lt;/li&gt;
@@ -103,7 +103,7 @@
   &lt;li&gt;為未來新增一些燒製的合成表&lt;/li&gt;
   &lt;li&gt;修正用詞，使其更符合主題&lt;/li&gt;
   &lt;li&gt;統一按鈕文字的字型&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">資源包</summary></entry><entry><title type="html">2018/8/1 地獄更新</title><link href="https://mc.oktw.one/news/2018/07/31/nether-update.html" rel="alternate" type="text/html" title="2018/8/1 地獄更新" /><published>2018-07-31T16:00:00+00:00</published><updated>2018-07-31T16:00:00+00:00</updated><id>https://mc.oktw.one/news/2018/07/31/nether-update</id><content type="html" xml:base="https://mc.oktw.one/news/2018/07/31/nether-update.html">&lt;h1 id=&quot;地獄開放&quot;&gt;地獄開放&lt;/h1&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="news" /><summary type="html">資源包</summary></entry><entry><title type="html">2018/8/1 地獄更新</title><link href="https://mc.oktw.one/news/2018/07/31/nether-update.html" rel="alternate" type="text/html" title="2018/8/1 地獄更新" /><published>2018-07-31T16:00:00+00:00</published><updated>2018-07-31T16:00:00+00:00</updated><id>https://mc.oktw.one/news/2018/07/31/nether-update</id><content type="html" xml:base="https://mc.oktw.one/news/2018/07/31/nether-update.html">&lt;h1 id=&quot;地獄開放&quot;&gt;地獄開放&lt;/h1&gt;
 &lt;p&gt;這是自從我們&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;OKTW 星系計畫&lt;/code&gt;開服以來最大的一次更新！&lt;br /&gt;
 改進了星球終端的功能與開放地獄&lt;/p&gt;
 
@@ -140,6 +140,6 @@
 
 &lt;h4 id=&quot;使用方式&quot;&gt;使用方式&lt;/h4&gt;
 
-&lt;p&gt;放置於黑曜石上使用，目前範圍為 1 Chunk。&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">第一篇文章！</title><link href="https://mc.oktw.one/news/2018/07/03/news-first.html" rel="alternate" type="text/html" title="第一篇文章！" /><published>2018-07-03T16:02:01+00:00</published><updated>2018-07-03T16:02:01+00:00</updated><id>https://mc.oktw.one/news/2018/07/03/news-first</id><content type="html" xml:base="https://mc.oktw.one/news/2018/07/03/news-first.html">&lt;p&gt;這是我們部落格的第一篇文章！&lt;/p&gt;
+&lt;p&gt;放置於黑曜石上使用，目前範圍為 1 Chunk。&lt;/p&gt;</content><author><name></name></author><category term="news" /><summary type="html"></summary></entry><entry><title type="html">第一篇文章！</title><link href="https://mc.oktw.one/news/2018/07/03/news-first.html" rel="alternate" type="text/html" title="第一篇文章！" /><published>2018-07-03T16:02:01+00:00</published><updated>2018-07-03T16:02:01+00:00</updated><id>https://mc.oktw.one/news/2018/07/03/news-first</id><content type="html" xml:base="https://mc.oktw.one/news/2018/07/03/news-first.html">&lt;p&gt;這是我們部落格的第一篇文章！&lt;/p&gt;
 
-&lt;p&gt;本部落格部使用 &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; 並放在 &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">這是我們部落格的第一篇文章！</summary></entry></feed>
+&lt;p&gt;本部落格部使用 &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; 並放在 &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="news" /><summary type="html">這是我們部落格的第一篇文章！</summary></entry></feed>
