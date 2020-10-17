@@ -7,7 +7,10 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>
         
-            Chunk Loader – 
+            
+        
+            
+            Chunk Loader -
         
         OKTW Network – 由許多人聯合經營的Minecraft伺服器
     </title>
@@ -17,29 +20,29 @@
     <meta property="og:title" content="OKTW Network" />
     <meta property="og:type" content="website" />
     <meta property="og:description" content="由許多人聯合經營的大型 Minecraft 伺服器" />
-    <meta property="og:image" content="/assets/img/og/og.png?v=20201017134720" />
+    <meta property="og:image" content="/assets/img/og/og.png?v=20201017135505" />
 
     <!--Favicon-->
-    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png?v=20201017134720">
-    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png?v=20201017134720">
-    <link rel="icon" type="image/png" sizes="194x194" href="/assets/favicon/favicon-194x194.png?v=20201017134720">
-    <link rel="icon" type="image/png" sizes="192x192" href="/assets/favicon/android-chrome-192x192.png?v=20201017134720">
-    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png?v=20201017134720">
-    <link rel="manifest" href="/assets/favicon/site.webmanifest?v=20201017134720">
-    <link rel="mask-icon" href="/assets/favicon/safari-pinned-tab.svg?v=20201017134720" color="#5bbad5">
-    <link rel="shortcut icon" href="/assets/favicon/favicon.ico?v=20201017134720">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png?v=20201017135505">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png?v=20201017135505">
+    <link rel="icon" type="image/png" sizes="194x194" href="/assets/favicon/favicon-194x194.png?v=20201017135505">
+    <link rel="icon" type="image/png" sizes="192x192" href="/assets/favicon/android-chrome-192x192.png?v=20201017135505">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png?v=20201017135505">
+    <link rel="manifest" href="/assets/favicon/site.webmanifest?v=20201017135505">
+    <link rel="mask-icon" href="/assets/favicon/safari-pinned-tab.svg?v=20201017135505" color="#5bbad5">
+    <link rel="shortcut icon" href="/assets/favicon/favicon.ico?v=20201017135505">
     <meta name="apple-mobile-web-app-title" content="OKTW Network">
     <meta name="application-name" content="OKTW Network">
     <meta name="msapplication-TileColor" content="#da532c">
-    <meta name="msapplication-TileImage" content="/assets/favicon/mstile-144x144.png?v=20201017134720">
-    <meta name="msapplication-config" content="/assets/favicon/browserconfig.xml?v=20201017134720">
+    <meta name="msapplication-TileImage" content="/assets/favicon/mstile-144x144.png?v=20201017135505">
+    <meta name="msapplication-config" content="/assets/favicon/browserconfig.xml?v=20201017135505">
     <meta name="theme-color" content="#ffffff">
 
     <!--CSS-->
     <link rel="stylesheet" href="//fonts.googleapis.com/earlyaccess/notosanstc.css">
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/bootstrap@4.1.2/dist/css/bootstrap.min.css" integrity="sha256-zVUlvIh3NEZRYa9X/qpNY8P1aBy0d4FrI7bhfZSZVwc=" crossorigin="anonymous">
     <link rel="stylesheet" href="//use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="/assets/css/default.css?v=20201017134720">
+    <link rel="stylesheet" type="text/css" href="/assets/css/default.css?v=20201017135505">
 </head>
 
 <body>
@@ -89,26 +92,95 @@
     <article class="post">
         <h1>Chunk Loader</h1>
         <div class="entry">
-            <p><img src="/en/assets/img/wiki/chunkloader/overview.png" alt="" /></p>
+            <p><img src="/en/assets/img/wiki/chunkloader/overview.webp" alt="" /></p>
 
-<h3 id="description">Description</h3>
+<p>Give Ender Crystal a New Feature.</p>
 
-<p>Minecraft World is computed per chunk. Generally speaking, only the range of 10 chunks around the player will be loaded.</p>
+<div class="article-content">
+<ol>
+    <li><a href="#obtain-ways">Obtain Ways</a></li>
+    <li><a href="#structure">Structure</a></li>
+    <li><a href="#interface">Interface</a></li>
+    <li><a href="#usage">Usage</a></li>
+	<li><a href="#other-information">Other Information</a></li>
+</ol>
+</div>
 
-<p>Only chunks nearby player will be updated. If the player keeps away that chunk, the server will save the blocks and entities data into disk and delete from RAM, it won’t be loaded back to RAM until the player is nearby.</p>
+<hr />
 
-<p>Only loaded chunk will be updated. Mobs will move and crops will grow only when the player is nearby.</p>
+<h2 id="obtain-ways">Obtain Ways</h2>
 
-<p>If you wish to keep the chunk loaded even if the player is not nearby, you can use ChunkLoader.</p>
+<h4 id="crafting-table">Crafting Table</h4>
 
-<h3 id="usage">Usage</h3>
+<p>(Shaped Crafting)</p>
 
-<p>Put the Ender Crystal onto the obsidian.</p>
+<ul>
+  <li>Eye of Ender x1</li>
+  <li>Ghast Tear x1</li>
+  <li>Glass x7</li>
+</ul>
 
-<h3 id="other">Other</h3>
+<p><img class="recipe-photo" src="/en/assets/img/wiki/chunkloader/recipe.webp" /></p>
 
-<p>The Ender Crystal is additionally used as a feature of ChunkLoader in our server.
-Currently, range of the ChunkLoader is only 1 Chunk. You will be able to extend range by applying upgrade in the future.</p>
+<hr />
+
+<h2 id="structure">Structure</h2>
+
+<p>As long as a player places a Ender Crystal on an Obsidian block, that will become a device with chunk loading feature, but it will not change how it looks.</p>
+
+<hr />
+
+<h2 id="interface">Interface</h2>
+
+<p><code class="language-plaintext highlighter-rouge">Right Click</code> the device to open the interface.</p>
+
+<p>A quite simple interface with two buttons:<br />
+<img class="article-photo" src="/en/assets/en/img/wiki/chunkloader/interface.webp" /></p>
+
+<p>The green up-arrow button on the left is upgrade:<br />
+<img class="article-photo" src="/en/assets/en/img/wiki/chunkloader/interface_upgrade.webp" /></p>
+
+<p>The red crossed-out button on the right is remove:<br />
+<img class="article-photo" src="/en/assets/en/img/wiki/chunkloader/interface_remove.webp" /></p>
+
+<hr />
+
+<h2 id="usage">Usage</h2>
+
+<p>Once the Ender Crystal has been placed, the device will start working.<br />
+The range for now is only the chunk where this device is placed.</p>
+
+<p>To take the device down, just click the remove button in the interface.</p>
+
+<p>Upgrade slots is not available for now. Coming soon…</p>
+
+<hr />
+
+<h2 id="other-information">Other Information</h2>
+
+<h4 id="chunk-x-load-x-unload">Chunk X load X unload</h4>
+
+<p>Chunk is a three-dimensional area with length 16 width 16 height 256 in a game world, used to manage the world.<br />
+For players, the most you fell about the chunk is the view distance. In fact, this is not the only usage of the chunk.</p>
+
+<p>Imagine that you’re just about to go out and put a stack of Iron Ores and some Coal Blocks for fuel into a furnace. Then, you go out and ride the horse for three days and nights and finally found a village thousands blocks away your house.<br />
+After chatting with villages and go home, you found that your Iron Ores is still in the furnace…<br />
+This is neither a bug, nor the character issue. This is a design for the game performance.</p>
+
+<p>In a game, chunks in player’s view distance will be loaded into the random access memory, a.k.a RAM. Meanwhile, only chunk within this range will be continuously updated, while those that are not within the view distance will be stored into the hard drive. And that is why the drama above will happen.</p>
+
+<p>So what if you wish to keep the furnace in your house running when you go out thounds blocks away?<br />
+The answer is – Chunk Loader. Simply saying, a device that you can continue updating chunk without relying on players.</p>
+
+<p>So… Is there any Chunk Loader in vanilla game?<br />
+Yes. In fact, the world’s spawn point is a Chunk Loader, but only if a player exists in that world, and the event processing is also limited.<br />
+You can also find some strange tricks to make a chunk load, like throwing an item into a nether portal or something like that.<br />
+You may also use <code class="language-plaintext highlighter-rouge">/forceload</code> command to make a chunk load after 1.13.1.(<a href="https://minecraft.gamepedia.com/Commands/forceload">Forceload Command</a> on <a href="https://minecraft.gamepedia.com/Minecraft_Wiki">Minecraft Wiki</a>)</p>
+
+<p>It sounds complicated, right?<br />
+So the Galaxy project offers a more convenient way! You just need to make this thing, and place it down. Then this device will load the chunk for you.</p>
+
+<p>Last but not least, if you want to use the Chunk Loader in game, be careful. Continuously loading chunk means continuously running, monitoring that area. If you use the Chunk Loader in a high-automated area, it must cause a certain degree of burden on the host.</p>
 
         </div>
     </article>
@@ -161,7 +233,7 @@ Currently, range of the ChunkLoader is only 1 Chunk. You will be able to extend 
         crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.js" integrity="sha256-icjghcPaibMf1jv4gQIGi5MeWNHem2SispcorCiCfSg="
         crossorigin="anonymous"></script>
-    <script src="/en/assets/js/main.js?v=20201017134720"></script>
+    <script src="/en/assets/js/main.js?v=20201017135505"></script>
 
 </body>
 

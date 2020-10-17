@@ -1,4 +1,146 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://mc.oktw.one/en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mc.oktw.one/en/" rel="alternate" type="text/html" hreflang="en" /><updated>2020-10-17T13:47:20+00:00</updated><id>https://mc.oktw.one/en/feed.xml</id><title type="html">OKTW Network</title><subtitle>由許多人聯合經營的Minecraft伺服器</subtitle><entry><title type="html">First news!</title><link href="https://mc.oktw.one/en/news/2018/07/03/news-first.html" rel="alternate" type="text/html" title="First news!" /><published>2018-07-03T16:02:01+00:00</published><updated>2018-07-03T16:02:01+00:00</updated><id>https://mc.oktw.one/en/news/2018/07/03/news-first</id><content type="html" xml:base="https://mc.oktw.one/en/news/2018/07/03/news-first.html">&lt;p&gt;This is first news in English website!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://mc.oktw.one/en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mc.oktw.one/en/" rel="alternate" type="text/html" hreflang="en" /><updated>2020-10-17T13:55:04+00:00</updated><id>https://mc.oktw.one/en/feed.xml</id><title type="html">OKTW Network</title><subtitle>由許多人聯合經營的Minecraft伺服器</subtitle><entry><title type="html">Galaxy 2.0 - Open Beta Started</title><link href="https://mc.oktw.one/en/news/2019/07/09/2.0lite-open-beta.html" rel="alternate" type="text/html" title="Galaxy 2.0 - Open Beta Started" /><published>2019-07-09T16:00:00+00:00</published><updated>2019-07-09T16:00:00+00:00</updated><id>https://mc.oktw.one/en/news/2019/07/09/2.0lite-open-beta</id><content type="html" xml:base="https://mc.oktw.one/en/news/2019/07/09/2.0lite-open-beta.html">&lt;p&gt;&lt;img src=&quot;/en/assets/img/news/20190710-2.0lite-open-beta/banner.webp&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Galaxy 2.0 open beta started, welcome to try it out.&lt;/p&gt;
+
+&lt;p&gt;Due to most of functions from 1.12 has not port to 1.14, you can see it as vanilla server with multiple world, there will be more function in the future.&lt;br /&gt;
+The concept of multiple worlds is still used, but no world border, and the nether and the end are opened.&lt;/p&gt;
+
+&lt;p&gt;The goal of this open beta is to test the load and stability of the server cluster. Players are welcome to play in the most brutal way!&lt;/p&gt;
+
+&lt;hr class=&quot;sub&quot; /&gt;
+
+&lt;p&gt;&lt;strong&gt;Connection Information&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Server IP Address: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;beta.galaxy.mc.oktw.one&lt;/code&gt;&lt;br /&gt;
+Minecraft Version: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;1.14.4&lt;/code&gt;&lt;/p&gt;
+
+&lt;hr class=&quot;sub&quot; /&gt;
+
+&lt;p&gt;&lt;strong&gt;Precautions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;This test is file-deleting-open-beta, all data will be destroyed after the open beta.&lt;/li&gt;
+  &lt;li&gt;Because this structure is experimental, service interruption or data loss may occur during the open beta.&lt;/li&gt;
+  &lt;li&gt;During the open beta, if there is &lt;strong&gt;any&lt;/strong&gt; loss in the game, it will not be compensated.&lt;/li&gt;
+  &lt;li&gt;If you encounter any problems during the test, please be sure to notify us.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr class=&quot;sub&quot; /&gt;
+
+&lt;p&gt;&lt;strong&gt;Let’s Start!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;After entering the lobby, enter &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/join [player]&lt;/code&gt; first. &lt;em&gt;(After entering the command, it may take some time to process, please wait patiently)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Enter &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/join [player]&lt;/code&gt; will join &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[player]&lt;/code&gt;’s world. if you don’t enter &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[player]&lt;/code&gt; then you will join your own world. if &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[player]&lt;/code&gt;’s world does not exist, system will create it for you.&lt;br /&gt;
+Ex: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/join&lt;/code&gt; or&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/join steve&lt;/code&gt;&lt;/p&gt;
+
+&lt;hr class=&quot;sub&quot; /&gt;
+
+&lt;p&gt;Doesn’t want to miss out any important information?&lt;br /&gt;
+Join our &lt;a href=&quot;https://discord.gg/E74tcJC&quot;&gt;Discord&lt;/a&gt; or &lt;a href=&quot;https://www.facebook.com/oktw.mc&quot;&gt;Facebook&lt;/a&gt;!&lt;/p&gt;</content><author><name></name></author><category term="news" /><summary type="html"></summary></entry><entry><title type="html">2019Q1-The Teleporter!</title><link href="https://mc.oktw.one/en/news/2019/03/03/teleporter-update.html" rel="alternate" type="text/html" title="2019Q1-The Teleporter!" /><published>2019-03-03T12:00:00+00:00</published><updated>2019-03-03T12:00:00+00:00</updated><id>https://mc.oktw.one/en/news/2019/03/03/teleporter-update</id><content type="html" xml:base="https://mc.oktw.one/en/news/2019/03/03/teleporter-update.html">&lt;h1 id=&quot;the-teleporter&quot;&gt;The Teleporter&lt;/h1&gt;
+
+&lt;p&gt;Build the teleporter to travel faster.
+&lt;em&gt;(&lt;a href=&quot;/en/wiki/teleporter&quot;&gt;Teleporter Detailed&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;article-photo&quot; src=&quot;/en/assets/img/news/20190303-teleporter-update/overview.webp&quot; /&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;img class=&quot;article-photo&quot; src=&quot;/en/assets/img/news/20190303-teleporter-update/interface.webp&quot; /&gt;&lt;/h2&gt;
+&lt;h1 id=&quot;others&quot;&gt;Others&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;More easy recipe.&lt;/li&gt;
+  &lt;li&gt;Fix resourcepack not working when some unexpected situation happened.&lt;/li&gt;
+  &lt;li&gt;Fix some English translation strings.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;notes&quot;&gt;Notes&lt;/h1&gt;
+
+&lt;p&gt;We are now concentrating to improve the game experience, so our update interval increases. Stay tuned for more new content…&lt;/p&gt;</content><author><name></name></author><category term="news" /><summary type="html"></summary></entry><entry><title type="html">2018/10/20 Changelogs</title><link href="https://mc.oktw.one/en/news/2018/10/20/changelog.html" rel="alternate" type="text/html" title="2018/10/20 Changelogs" /><published>2018-10-20T15:40:00+00:00</published><updated>2018-10-20T15:40:00+00:00</updated><id>https://mc.oktw.one/en/news/2018/10/20/changelog</id><content type="html" xml:base="https://mc.oktw.one/en/news/2018/10/20/changelog.html">&lt;h1 id=&quot;resourcepack&quot;&gt;Resourcepack&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Icon of buttons redesigned by @infon_TW.&lt;/li&gt;
+  &lt;li&gt;Add more button icons, make each button have its own icon.&lt;/li&gt;
+  &lt;li&gt;Remake button model, to clearify button icon.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Before:&lt;br /&gt;
+&lt;img class=&quot;article-photo&quot; src=&quot;/en/assets/img/news/20181006-ht-crafting-table-update/texture_before.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After:&lt;br /&gt;
+&lt;img class=&quot;article-photo&quot; src=&quot;/en/assets/img/news/20181006-ht-crafting-table-update/texture_after.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;interface&quot;&gt;Interface&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Redesigned the interface of the Space Ship Controller to improve using experience.&lt;/li&gt;
+  &lt;li&gt;Add unclickable button&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img class=&quot;article-photo&quot; src=&quot;/en/assets/en/img/news/20181006-ht-crafting-table-update/new-galaxy-gui.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;ht-crafting-table&quot;&gt;HT Crafting Table&lt;/h1&gt;
+
+&lt;p&gt;A advanced crafting table, it is mainly used to craft advenced tool, weapon… and more!&lt;br /&gt;
+For the detailed usage, check &lt;a href=&quot;/en/wiki/ht-crafting-table&quot;&gt;HT Crafting Table&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;article-photo&quot; src=&quot;/en/assets/img/news/20181006-ht-crafting-table-update/ht-crafting-table-overview.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;article-photo&quot; src=&quot;/en/assets/en/img/news/20181006-ht-crafting-table-update/ht-crafting-table-interface.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;article-photo&quot; src=&quot;/en/assets/en/img/news/20181006-ht-crafting-table-update/ht-crafting-table-complete.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;article-photo&quot; src=&quot;/en/assets/en/img/news/20181006-ht-crafting-table-update/ht-crafting-table-success.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;multi-language-support&quot;&gt;Multi-language Support&lt;/h1&gt;
+
+&lt;p&gt;Texts in the server will change as your game language.
+There are only &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;繁體中文&lt;/code&gt; &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;English&lt;/code&gt; for now.&lt;br /&gt;
+Help us translate if you can!&lt;/p&gt;
+
+&lt;h1 id=&quot;others&quot;&gt;Others&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Add some smelting recipe for the future.&lt;/li&gt;
+  &lt;li&gt;Fix some words to fit the theme.&lt;/li&gt;
+  &lt;li&gt;Unify button text font.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="news" /><summary type="html">Resourcepack</summary></entry><entry><title type="html">2018/8/1 Nether Update</title><link href="https://mc.oktw.one/en/news/2018/07/31/nether-update.html" rel="alternate" type="text/html" title="2018/8/1 Nether Update" /><published>2018-07-31T16:00:00+00:00</published><updated>2018-07-31T16:00:00+00:00</updated><id>https://mc.oktw.one/en/news/2018/07/31/nether-update</id><content type="html" xml:base="https://mc.oktw.one/en/news/2018/07/31/nether-update.html">&lt;h1 id=&quot;opens-the-nether&quot;&gt;Opens the Nether&lt;/h1&gt;
+&lt;p&gt;This is the biggest changes since our ‘OKTW Project Galaxy’ server started.
+Improved functions of Planet Terminal and open the nether.&lt;/p&gt;
+
+&lt;h1 id=&quot;changes-in-game&quot;&gt;Changes In Game&lt;/h1&gt;
+&lt;h2 id=&quot;planets-and-the-nether&quot;&gt;Planets and the Nether&lt;/h2&gt;
+&lt;p&gt;First, the biggest changes is that you can now allowed to create nether. While creating planet in galaxy management, choose &lt;a href=&quot;/en/wiki/words#HotPlanet&quot;&gt;Hot Planet&lt;/a&gt; to create a nether world.
+Each type of first planet requires 1000 &lt;a href=&quot;/en/wiki/star-dust&quot;&gt;Star Dust&lt;/a&gt;, and you will be able to create more planet in the future.The first &lt;a href=&quot;/en/wiki/words#NormalPlanet&quot;&gt;Normal Planet&lt;/a&gt; in the galaxy doesn’t require Star Dust.&lt;/p&gt;
+
+&lt;h2 id=&quot;chunk-loader&quot;&gt;Chunk Loader&lt;/h2&gt;
+&lt;p&gt;Player who plays mods may know this thing. Just keep chunks which ChunkLoader in loading forever.&lt;/p&gt;
+
+&lt;p&gt;Minecraft World is computed per chunk. Generally speaking, only the range of 10 chunks around the player will be loaded.
+Only chunks nearby player will be updated. If the player keeps away that chunk, the server will save the blocks and entities data into disk and delete from RAM, it won’t be loaded back to RAM until the player is nearby.
+Only loaded chunk will be updated. Mobs will move and crops will grow only when the player is nearby.&lt;/p&gt;
+
+&lt;p&gt;If you wish to keep the chunk loaded even if the player is not nearby, you can use ChunkLoader.
+Currently, range of the ChunkLoader is only 1 Chunk. You will be able to extend range by applying upgrade in the future.&lt;/p&gt;
+
+&lt;h4 id=&quot;crafting&quot;&gt;Crafting&lt;/h4&gt;
+
+&lt;p&gt;&lt;img class=&quot;recipe-photo&quot; src=&quot;/en/assets/img/news/20180801-nether-update/chunkloader.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;interface&quot;&gt;Interface&lt;/h4&gt;
+
+&lt;p&gt;&lt;img class=&quot;recipe-photo&quot; src=&quot;/en/assets/img/news/20180801-nether-update/chunkloader-interface.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The green arrow on the left is upgrade, and the cross on the right is remove.&lt;/p&gt;
+
+&lt;h4 id=&quot;upgrading-interface&quot;&gt;Upgrading Interface&lt;/h4&gt;
+
+&lt;p&gt;&lt;img class=&quot;recipe-photo&quot; src=&quot;/en/assets/en/img/news/20180801-nether-update/chunkloader-upgrade.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It can be upgraded currently, we will add it in the future update.&lt;/p&gt;
+
+&lt;h4 id=&quot;usage&quot;&gt;Usage&lt;/h4&gt;
+
+&lt;p&gt;Put the Ender Crystal onto the obsidian, the range is currently 1 Chunk.&lt;/p&gt;</content><author><name></name></author><category term="news" /><summary type="html"></summary></entry><entry><title type="html">First news!</title><link href="https://mc.oktw.one/en/news/2018/07/03/news-first.html" rel="alternate" type="text/html" title="First news!" /><published>2018-07-03T16:02:01+00:00</published><updated>2018-07-03T16:02:01+00:00</updated><id>https://mc.oktw.one/en/news/2018/07/03/news-first</id><content type="html" xml:base="https://mc.oktw.one/en/news/2018/07/03/news-first.html">&lt;p&gt;This is first news in English website!&lt;/p&gt;
 
 &lt;p&gt;We use &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; and hosted on &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt;.&lt;/p&gt;
 
