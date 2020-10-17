@@ -1,192 +1,187 @@
-- [How to create a Galaxy](#How_to_create_a_galaxy)
-- [How to open Galaxy manage GUI](#How_to_open_manage_gui)
-- [How to create Planet](#How_to_create_planet)
-- [How to upgrade Planet](#How_to_upgrade_planet)
-- [How to add member](#How_to_add_member)
-- [How to kick member](#How_to_kick_member)
-- [How to review request](#How_to_review_request)
-- [How to change member permission](#How_to_change_member_permission)
-- [How to change Galaxy name](#How_to_change_galaxy_name)
-- [How to change Galaxy info](#How_to_change_galaxy_info)
-- [How to ser Galaxy notice](#How_to_set_galaxy_notice)
+[own a galaxy]: {{ "/wiki/quick-start#create-a-galaxy" | relative_url }}
+[admin]: {{ "/wiki/words#admin" | relative_url }}
+[Admin]: {{ "/wiki/words#admin" | relative_url }}
+[SpaceShip Controller]: {{ "/wiki/words#spaceship-controller" | relative_url }}
+[Galaxy]: {{ "/wiki/words#galaxy" | relative_url }}
+[Planet Terminal]: {{ "/wiki/words#planet-terminal" | relative_url }}
+[Manage Galaxy]: #interface
+[Member]: {{ "/wiki/words#member" | relative_url }}
+
+<div class="article-content">
+<ol>
+    <li><a href="#interface">Interface</a></li>
+    <li><a href="#create-a-planet">Create a Planet</a></li>
+	<li><a href="#remove-a-member">Remove a member</a></li>
+    <li><a href="#add-a-member">Add a member</a></li>
+	<li><a href="#review-join-requests">Review join requests</a></li>
+	<li><a href="#edit-member-role">Edit member role</a></li>
+	<li><a href="#change-galaxy-name">Change Galaxy name</a></li>
+	<li><a href="#set-galaxy-info">Set Galaxy info</a></li>
+	<li><a href="#set-galaxy-notification">Set Galaxy notification</a></li>
+</ol>
+</div>
 
 ---
 
-<a name="How_to_create_a_galaxy">
+__Please note that you must [own a galaxy][] to `manage the galaxy`, or be an [admin][] in the galaxy!__
 
-# How to create a Galaxy
+## Interface
 
-On the [Space Ship]({{ "/wiki/words#SpaceShip" | relative_url }}) Click [Space Ship Controller]({{ "/wiki/words#SpaceShipController" | relative_url }}) on the table  
-Click **Find unknown galaxy**  
+Open the [SpaceShip Controller][] interface, and then make sure that the button in the upper right corner is displayed as `Joined galaxy`, if it displays `All galaxy`, please click the button to switch:  
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/list_joined_galaxy.webp" | relative_url }}">
 
-<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/create_galaxy.png" | relative_url }}">
+<hr class="sub">
 
-Type **Galaxy Name** in **Chat**
+Choose the [Galaxy][] you want to manage:  
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/select_galaxy_list_joined.webp" | relative_url }}">
 
-<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/type_galaxy_name.png" | relative_url }}">
+<hr class="sub">
 
-Click **Confirm**  
+Click on `Manage Galaxy` to enter the interface:  
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/galaxy_manage.webp" | relative_url }}">
 
-<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/confirm_galaxy.png" | relative_url }}">
+<hr class="sub">
 
-<a name="How_to_open_manage_gui">
+You can also find `Manage Galaxy` in [Planet Terminal][]:  
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/terminal_galaxy_manage.webp" | relative_url }}">
 
-# How to open Galaxy manage GUI
+---
 
-On the [Space Ship]({{ "/wiki/words#SpaceShip" | relative_url }}) Click [Space Ship Controller]({{ "/wiki/words#SpaceShipController" | relative_url }}) on the table  
-Switch to **Joined galaxy** using the button on the top-right
- corner
+## Create a Planet
 
-<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/joined_galaxy.png" | relative_url }}">
+Click on `Find unknown planet` in [Manage Galaxy][] interface:  
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/gm_create_planet.webp" | relative_url }}">
 
-Click [Galaxy]({{ "/wiki/words#Galaxy" | relative_url }}) that you want to manage. **You must be [Owner]({{ "/wiki/words#Owner" | relative_url }}) or [Admin]({{ "/wiki/words#Admin" | relative_url }}) of the Galaxy.**  
+<hr class="sub">
 
-<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/select_galaxy.png" | relative_url }}">
+Choose a planet type：  
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/planet_type.webp" | relative_url }}">
 
-And then click **Manage Galaxy**
+*For not, you can only have one each of `normal planet` and `hot planet`, opening of other planets coming soon...*
 
-<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/galaxy_manage.png" | relative_url }}">
+<hr class="sub">
 
-<a name="How_to_create_planet">
+Enter a planet name in the chat:  
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/input_planet_name.webp" | relative_url }}">
 
-# How to create Planet
+__Please note that there should only be English character, number, underscore(`_`) and minus(`-`) in planet name, if you entered a not-allowed character and red tip showed up, redo the first step then check your name and try again.__
 
-Open **[Manage GUI](#How_to_open_manage_gui)**  
-Click **Find unknown planet**  
+<hr class="sub">
 
-<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/create_planet.png" | relative_url }}">
+Click on `Confirm` if name you entered is correct:  
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/confirm_planet.webp" | relative_url }}">
 
-Click **Planet Type**  
+---
 
-<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/planet_type.png" | relative_url }}">
+## Remove a member
 
-> You can only can create 2 planets for now, second one is hot planet(Costs 1000 star dust).
-Type **Planet Name** in **Chat** ( **Only accepts alphabet and number - _**)
+Click on `Manage member` in [Manage Galaxy][] interface:  
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/gm_manage_member.webp" | relative_url }}">
 
-<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/type_planet_name.png" | relative_url }}">
+<hr class="sub">
 
-Click **Confirm**
+Click on the player you want to remove:  
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/select_member.webp" | relative_url }}">
 
-<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/confirm_planet.png" | relative_url }}">
+<hr class="sub">
 
-> If you see red text, it means you use not allowed string or it has been used.
+Click on `Remove member`:  
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/remove_member.webp" | relative_url }}">
 
-<a name="How_to_upgrade_planet">
+<hr class="sub">
 
-# How to upgrade Planet
+Click on `yes` if you confirm to do it:  
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/confirm_remove.webp" | relative_url }}">
 
-WIP
+__Please note that the player's data in this Galaxy will be lost after removing the player.__
 
-<a name="How_to_add_member">
+---
 
-# How to kick member
+## Add a member
 
-Open **[Manage GUI](#How_to_open_manage_gui)**  
-Click **Manage member**  
+Click on `Add member` in [Manage Galaxy][] interface:  
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/gm_add_member.webp" | relative_url }}">
 
-<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/manage_member.png" | relative_url }}">
+<hr class="sub">
 
-Choose **Member** you want to kick  
+Enter player name in the chat:  
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/input_player.webp" | relative_url }}">
 
-<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/select_member.png" | relative_url }}">
+---
 
-Click **Remove member**  
+## Review join requests
 
-<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/remove_member.png" | relative_url }}">
+Click on `Join application` in [Manage Galaxy][] interface:  
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/gm_join_requests.webp" | relative_url }}">
 
-Click **Yes**  
+<hr class="sub">
 
-<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/confirm_remove.png" | relative_url }}">
+Click on the player you want to review:  
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/select_join_request_player.webp" | relative_url }}">
 
+<hr class="sub">
 
-<a name="How_to_kick_member">
+Choose 'Accept' or 'Remove` to review the request:  
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/join_request_review.webp" | relative_url }}">
 
-# How to add member
+*You can also press `Esc` or `E` to close interface without reviewing.*
 
-Open **[Manage GUI](#How_to_open_manage_gui)**  
-Click **Add member**
+---
 
-<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/add_member.png" | relative_url }}">
+## Edit member role
 
-Type **Player Username** in **Chat**
+Click on `Manage member` in [Manage Galaxy][] interface:  
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/gm_manage_member.webp" | relative_url }}">
 
-<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/type_player.png" | relative_url }}">
+<hr class="sub">
 
-<a name="How_to_review_request">
+Click on the player you want to modify:  
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/select_member.webp" | relative_url }}">
 
-# How to review request
+<hr class="sub">
 
-Open **[Manage GUI](#How_to_open_manage_gui)**  
-Click **Join application**  
+Click on `Change role`:  
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/change_group.webp" | relative_url }}">
 
-<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/join_requests.png" | relative_url }}">
+<hr class="sub">
 
-Click **Player** you want to review  
+Choose a new role for selected player ([Admin][]/[Member][]):  
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/select_group.webp" | relative_url }}">
 
-<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/select_join_request_player.png" | relative_url }}">
+---
 
-Click **Yes** 或 **No**
+## Change Galaxy name
 
-<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/review_join_request.png" | relative_url }}">
+Click on `Rename` in [Manage Galaxy][] interface:  
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/gm_rename.webp" | relative_url }}">
 
-<a name="How_to_change_member_permission">
+<hr class="sub">
 
-# How to change member permission
+Enter new Galaxy name in the chat:  
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/input_rename.webp" | relative_url }}">
 
-Open **[Manage GUI](#How_to_open_manage_gui)**  
-Click **Manage member**  
+---
 
-<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/manage_member.png" | relative_url }}">
+## Set Galaxy info
 
-Select the **Player** you want to change  
+Click on `Change info` in [Manage Galaxy][] interface:  
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/gm_change_info.webp" | relative_url }}">
 
-<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/select_member.png" | relative_url }}">
+<hr class="sub">
 
-Click **Change role**  
+Enter (new) Galaxy info in the chat:  
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/input_info.webp" | relative_url }}">
 
-<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/change_group.png" | relative_url }}">
+---
 
-Click the role you want to give ( *[ADMIN]({{ "wiki/words#Admin" | relative_url }})* / *[MEMBER]({{ "/wiki/words#Member" | relative_url }})* )
+## Set Galaxy notification
 
-<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/select_group.png" | relative_url }}">
+Click on `Change Notification` in [Manage Galaxy][] interface:  
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/gm_change_notice.webp" | relative_url }}">
 
-<a name="How_to_change_galaxy_name">
+<hr class="sub">
 
-# How to change Galaxy name
+Enter (new) Galaxy notification in the chat:  
+<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/input_notice.webp" | relative_url }}">
 
-Open **[Manage GUI](#How_to_open_manage_gui)**  
-Click **Rename**  
-
-<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/rename.png" | relative_url }}">
-
-Type **Other Galaxy Name** in **Chat**
-
-<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/rename_type.png" | relative_url }}">
-
-<a name="How_to_change_galaxy_info">
-
-# How to change Galaxy info
-
-Open **[Manage GUI](#How_to_open_manage_gui)**  
-Click **Change info**  
-
-<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/change_info.png" | relative_url }}">
-
-Type **Galaxy Info** in **Chat**
-
-<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/info_type.png" | relative_url }}">
-
-<a name="How_to_set_galaxy_notice">
-
-# How to change Galaxy notice
-
-Open **[Manage GUI](#How_to_open_manage_gui)**  
-Click **Change Notification**  
-
-<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/change_notice.png" | relative_url }}">
-
-Type **Galaxy notice** in **Chat**
-
-<img class="article-photo" src="{{ "/assets/en/img/wiki/toturial/notice_type.png" | relative_url }}">
-
-> you can use  `\n` to make a new line
+*You can use `\n` to add a new line.*

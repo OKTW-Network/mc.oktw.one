@@ -1,3 +1,6 @@
+[高科技合成台]: {{ "/wiki/ht-crafting-table" | relative_url }}
+[功能方塊]: {{ "/wiki/custom-blocks" | relative_url }}
+
 ![]({{ "/assets/img/wiki/wrench/overview.webp" | relative_url }})
 
 <div class="article-content">
@@ -20,7 +23,7 @@
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/wrench/recipe.webp" | relative_url }}">
 
-#### 高科技合成台
+#### [高科技合成台][]
 
 - 木棒 x 1  
 - 鐵錠 x 3
@@ -29,6 +32,6 @@
 
 ## 使用
 
-`蹲下`+`右鍵`可拆除[功能方塊]({{ "/wiki/custom-blocks" | relative_url }})。  
+`蹲下`+`右鍵`可拆除[功能方塊][]。  
 
 __請注意，在任何頁面中寫到的`右鍵`都是指`使用鍵`!__

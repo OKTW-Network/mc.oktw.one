@@ -1,3 +1,7 @@
+[高科技合成台]: {{ "/wiki/ht-crafting-table" | relative_url }}
+[扳手]: {{ "/wiki/wrench" | relative_url }}
+[傳送站]: {{ "/wiki/teleporter" | relative_url }}
+
 ![]({{ "/assets/img/wiki/elevator/overview.webp" | relative_url }})
 
 一種進階的垂直移動方式
@@ -15,7 +19,7 @@
 
 ## 獲得方式
 
-可由扳手`蹲下`+`右鍵`拆除
+可由[扳手][]`蹲下`+`右鍵`拆除
 
 
 #### 工作台
@@ -29,7 +33,7 @@
 
 <hr class="sub">
 
-#### 高科技合成台
+#### [高科技合成台][]
 
 - 鐵錠 x 9  
 - 終界珍珠 x 1
@@ -53,4 +57,4 @@ __請注意，電梯可傳送的最遠距離只有不包括電梯本身的向外
 
 ## 其他用途
 
-- 合成[傳送站]({{ "/wiki/teleporter" | relative_url }})  
+- 合成[傳送站][]  

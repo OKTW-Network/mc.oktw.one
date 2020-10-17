@@ -1,30 +1,30 @@
+[HT Crafting Table]: {{ "/wiki/ht-crafting-table" | relative_url }}
+[Star Dust]: {{ "/wiki/star-dust" | relative_url }}
+[Upgrades]: {{ "wiki/upgrades" | relative_url }}
+
 <img class="small-picture" src="{{ "/assets/img/wiki/upgrade_icons/upgrade_base.webp" | relative_url }}">
 
 <div class="article-content">
-<ul style="padding:0px;margin:0px">
-    <li><a href="#合成" style="color:#2a6cd6;">合成</a></li>
-    <li><a href="#用途" style="color:#2a6cd6;">用途</a></li>
-</ul>
+<ol>
+    <li><a href="#obtain-ways">Obtain Ways</a></li>
+    <li><a href="#usage">Usage</a></li>
+</ol>
 </div>
 
 ---
 
-<a name="合成"></a>
+## Obtain Ways
 
-### 合成
+#### [HT Crafting Table][]
 
-使用高科技合成台合成：
-
-- 紅石 x 4  
-- 地域石英 x 2  
-- 金錠 x 2  
-- 玻璃 x 1  
-- [星塵]({{ "wiki/star-dust.html" | relative_url }}) x 5  
+- Redstone x 4  
+- Nether Quartz x 2  
+- Gold Ingot x 2  
+- Glass x 1  
+- [Star Dust][] x 5
 
 ---
 
-<a name="用途"></a>
+## Usage
 
-### 用途
-
-- 合成[升級]({{ "wiki/upgrades.html" | relative_url }})
+- Craft [Upgrades][]

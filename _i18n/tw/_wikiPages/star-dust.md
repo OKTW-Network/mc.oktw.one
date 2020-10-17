@@ -1,3 +1,6 @@
+[新增星球]: {{ "/wiki/galaxy-manage-tutorial#新增星球" | relative_url }}
+[成員]: {{ "/wiki/words#成員" | relative_url }}
+[星球終端]: {{ "/wiki/words#星球終端" | relative_url }}
 
 廣闊宇宙中的唯一貨幣單位。
 
@@ -26,9 +29,9 @@
 
 ## 貢獻星塵
 
-在某些情況(例如[新增星球](/wiki/galaxy-manage-tutorial#新增星球))，會以星系作為代表來使用星塵，所以需要由[成員]({{ "/wiki/words#成員" | relative_url }})將自身的星塵貢獻給星系做儲存。
+在某些情況(例如[新增星球][]，會以星系作為代表來使用星塵，所以需要由[成員][]將自身的星塵貢獻給星系做儲存。
 
-在星球上對[星球終端]({{ "/wiki/words#星球終端" | relative_url }})右鍵開啟介面，並選擇`星塵`：  
+在星球上對[星球終端][]右鍵開啟介面，並選擇`星塵`：  
 <img class="article-photo" src="{{ "/assets/img/wiki/star_dust/terminal_star_dust.webp" | relative_url }}">
 
 <hr class="sub">

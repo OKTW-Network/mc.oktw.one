@@ -1,137 +1,172 @@
 
-- [Chest](#Chest)
-- [Stick](#Stick)
-- [Hopper](#Hopper)
-- [Ladder](#Ladder)
-- [Slab](#Slab)
-- [Carrot On A Stick](#Carrot_On_A_Stick)
-- [Book and quill](#Book_and_quill)
-- [Redstone Lamp](#Redstone_Lamp)
-- [Dispenser](#Dispenser)
-- [Minecart](#Minecart)
-- [Glass](#Glass)
-- [Glass Pane](#Glass_Pane)
-- [Glass Pane to Block](#Glass_Pane_to_Block)
-- [Redstone Repeater](#Redstone_Repeater)
-- [Trapped Chest](#Trapped_Chest)
+> You have now more choice.
+
+Remark: No `(Shapeless Crafting)` or `(Mirrored Crafting)` means `Shaped Crafting` or `Half Shaped Crafting`.
+
+<div class="article-content">
+<ul>
+    <li><a href="#ladder">Ladder</a></li>
+	<li><a href="#slab">Slab</a></li>
+		<ul>
+			<li><a href="#slab-reverse">Slab Reverse</a></li>
+		</ul>
+	<li><a href="#glass">Glass</a></li>
+		<ul>
+			<li><a href="#glass-pane">Glass Pane</a></li>
+			<li><a href="#glass-pane-reverse">Glass Pane Reverse</a></li>
+		</ul>
+    <li><a href="#chest">Chest</a></li>
+    <li><a href="#hopper">Hopper</a></li>
+	<li><a href="#redstone-lamp">Redstone Lamp</a></li>
+	<li><a href="#dispenser">Dispenser</a></li>
+	<li><a href="#redstone-repeater">Redstone Repeater</a></li>
+	<li><a href="#trapped-chest">Trapped Chest</a></li>
+    <li><a href="#stick">Stick</a></li>
+	<li><a href="#carrot-on-a-stick">Carrot On A Stick</a></li>
+	<li><a href="#book-and-quill">Book and Quill</a></li>
+	<li><a href="#minecart">Minecart</a></li>
+</ul>
+</div>
 
 ---
 
-<a name="Chest">
+### Ladder
 
-# Chest
+(All wood type are supported)
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/log_chest.png" | relative_url }}">  
-> All wood type can be crafted.
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/log_ladder.webp" | relative_url }}">
 
-<a name="Stick">
+---
 
-# Stick
+### Slab
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/log_stick.png" | relative_url }}">  
-> Shapeless
-> All wood type can be crafted.
+(All wood type are supported)
 
-<a name="Hopper">
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/log_slab.webp" | relative_url }}">  
 
-# Hopper
+<hr class="sub">
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/log_hopper.png" | relative_url }}">  
-> All wood type can be crafted.
+#### Slab Reverse
 
-<a name="Ladder">
+(All wood type of slabs are supported, but cannot be mixed)
 
-# Ladder
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/wooden_slab_to_block.webp" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/cobblestone_slab_to_block.webp" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/stone_slab_to_stone.webp" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/stone_brick_slab_to_block.webp" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/brick_slab_to_block.webp" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/sandstone_slab_to_block.webp" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/red_sandstone_slab_to_block.webp" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/nether_slab_to_block.webp" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/quartz_slab_to_block.webp" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/purpur_slab_to_block.webp" | relative_url }}">  
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/log_ladder.png" | relative_url }}">  
-> All wood type can be crafted.
+---
 
-<a name="Slab">
+### Glass
 
-# Slab
+(All stained glass are supported)
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/log_slab.png" | relative_url }}">  
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/wooden_slab_to_block.png" | relative_url }}">  
-> All wood type can be crafted.  
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/cobblestone_slab_to_block.png" | relative_url }}">  
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/stone_slab_to_stone.png" | relative_url }}">  
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/stone_brick_slab_to_block.png" | relative_url }}">  
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/brick_slab_to_block.png" | relative_url }}">  
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/sandstone_slab_to_block.png" | relative_url }}">  
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/red_sandstone_slab_to_block.png" | relative_url }}">  
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/nether_slab_to_block.png" | relative_url }}">  
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/quartz_slab_to_block.png" | relative_url }}">  
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/purpur_slab_to_block.png" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/clear_color_glass.webp" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/color_glass.webp" | relative_url }}">  
 
-<a name="Carrot_On_A_Stick">
+<hr class="sub">
 
-# Carrot_On_A_Stick
+#### Glass Pane
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/carrot_on_a_stick.png" | relative_url }}">
+(All stained glass are supported)  
+(Shapeless Crafting)
 
-<a name="Book_and_quill">
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/clear_color_glass_pane.webp" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/color_glass_pane.webp" | relative_url }}">
 
-# Book_and_quill
+<hr class="sub">
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/writable_book_made_with_uncrafted_book.png" | relative_url }}">
-> Shapeless
+#### Glass Pane Reverse
 
-<a name="Redstone_Lamp">
+(All stained glass are supported, but cannot be mixed)  
+(Shapeless Crafting)
 
-# Redstone_Lamp
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/glass_pane_to_block.webp" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/stained_glass_pane_to_block.webp" | relative_url }}">   
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/redstone_lamp_dust.png" | relative_url }}">Redstone_Lamp
+---
 
-<a name="Dispenser">
+### Chest
 
-# Dispenser
+(All wood type are supported)
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/dispenser.png" | relative_url }}">  
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/dispenser_unfinished_bow.png" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/log_chest.webp" | relative_url }}">
 
-<a name="Minecart">
+---
 
-# Minecart
+### Hopper
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/chest_minecart.png" | relative_url }}">  
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/tnt_minecart.png" | relative_url }}">  
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/hopper_minecart.png" | relative_url }}">  
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/furnace_minecart.png" | relative_url }}">
+(All wood type are supported)
 
-<a name="Glass">
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/log_hopper.webp" | relative_url }}">
 
-# Glass
+---
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/clear_color_glass.png" | relative_url }}">  
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/color_glass.png" | relative_url }}">  
-> All color glass can be crafted.
+### Redstone Lamp
 
-<a name="Glass_Pane">
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/redstone_lamp_dust.webp" | relative_url }}">
 
-# Glass_Pane
+---
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/color_glass_pane.png" | relative_url }}">  
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/clear_color_glass_pane.png" | relative_url }}">  
-> All color glass can be crafted.
+### Dispenser
 
-<a name="Glass_Pane_to_Block">
+(Shapeless Crafting)
 
-# Glass_Pane_to_Block
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/dispenser.webp" | relative_url }}">
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/glass_pane_to_block.png" | relative_url }}">  
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/stained_glass_pane_to_block.png" | relative_url }}">  
-> Shapeless
-> All color glass can be crafted.
+(Can be mirrored vertically)
 
-<a name="Redstone_Repeater">
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/dispenser_unfinished_bow.webp" | relative_url }}">  
 
-# Redstone_Repeater
+---
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/redstone_repeater.png" | relative_url }}">
+### Redstone Repeater
 
-<a name="Trapped_Chest">
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/redstone_repeater.webp" | relative_url }}">
 
-# Trapped_Chest
+---
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/trapped_chest.png" | relative_url }}">  
-> All wood type can be crafted.
+### Trapped Chest
+
+(All wood type are supported)
+
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/trapped_chest.webp" | relative_url }}">
+
+---
+
+### Stick
+
+(All wood type are supported)
+
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/log_stick.webp" | relative_url }}">
+
+---
+
+### Carrot On A Stick
+
+(Can be mirrored vertically)
+
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/carrot_on_a_stick.webp" | relative_url }}">
+
+---
+
+### Book and Quill
+
+(Shapeless Crafting)
+
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/writable_book_made_with_uncrafted_book.webp" | relative_url }}">
+
+---
+
+### Minecart
+
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/chest_minecart.webp" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/furnace_minecart.webp" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/hopper_minecart.webp" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/tnt_minecart.webp" | relative_url }}">

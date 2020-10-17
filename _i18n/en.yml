@@ -70,10 +70,10 @@ wiki:
     title: "Materials"
     description: " "
     unformed-ceramic-plate:
-      title: "Unformed Ceramic Plate"
+      title: "Unformed Reinforced Ceramic Plate"
       description: " "
     ceramic-plate:
-      title: "Ceramic Plate"
+      title: "Ceramic Reinforced Plate"
       description: " "
     cooling-element:
       title: "Cooling Element"
